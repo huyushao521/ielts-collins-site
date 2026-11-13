@@ -1,0 +1,1518 @@
+{
+  "id": "speaking",
+  "name": "口语",
+  "nameEn": "Speaking",
+  "book": "Collins Speaking for IELTS",
+  "icon": "🗣️",
+  "color": "#2f9e44",
+  "description": "Collins Speaking for IELTS 全 12 单元。覆盖 Part 1/2/3 全部题型技巧，配词汇、语法、发音专项（弱读强读/词重音/长短元音/辅音/schwa/句重音/-ed读音/双元音/连读/不发音字母）。",
+  "examInfo": {
+    "time": "11–14 分钟",
+    "total": "3 部分（Part 1 + Part 2 + Part 3）",
+    "note": "面对面与考官交流，全程录音",
+    "sections": [
+      {
+        "n": "Part 1",
+        "desc": "Introduction and interview（4–5分钟）：自我介绍 + 日常话题问答"
+      },
+      {
+        "n": "Part 2",
+        "desc": "Individual long turn（3–4分钟）：1分钟准备 + 1–2分钟个人陈述"
+      },
+      {
+        "n": "Part 3",
+        "desc": "Two-way discussion（4–5分钟）：就 Part 2 话题深入讨论"
+      }
+    ],
+    "scoring": [
+      {
+        "score": "Fluency & Coherence",
+        "band": "25%"
+      },
+      {
+        "score": "Lexical Resource",
+        "band": "25%"
+      },
+      {
+        "score": "Grammatical Range & Accuracy",
+        "band": "25%"
+      },
+      {
+        "score": "Pronunciation",
+        "band": "25%"
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": 1,
+      "title": "People and relationships",
+      "titleCn": "人与关系",
+      "topic": "Family matters / 性格描写与人际关系",
+      "page": "p.8–15",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "personality 与 relationships 词汇在 Part 1 和 Part 2 都很有用——考到'谈你自己或你认识的人'时直接用。",
+        "使用 good range of phrases 谈论人际关系能显著提高得分。",
+        "用 character adjective 描述人时，要展开或解释：She's really outgoing – she's always going out with friends and colleagues.",
+        "练习使用新学的语言，但不要死记整句；要自发地说出来。"
+      ],
+      "watchOuts": [
+        "别忘了给第三人称动词加 -s：he, she, it → She likes cooking.",
+        "否定前缀搭配需专门记忆：impatient, disloyal, unreliable（-un-, -dis-, -im-）。"
+      ],
+      "techniques": [
+        {
+          "name": "性格形容词 + 副词修饰",
+          "detail": "正形容词前可用 really / so 修饰；负形容词用 can be a bit + 形容词 弱化；not very + 形容词 更弱化。",
+          "examples": [
+            {
+              "en": "She's really outgoing.",
+              "cn": "really 修饰正形容词"
+            },
+            {
+              "en": "She can be a bit impatient.",
+              "cn": "can be a bit 弱化负形容词"
+            },
+            {
+              "en": "He's not very reliable.",
+              "cn": "not very 进一步弱化"
+            },
+            {
+              "en": "She's really outgoing – she's always going out with friends and colleagues.",
+              "cn": "展开解释性格"
+            }
+          ]
+        },
+        {
+          "name": "关系短语",
+          "detail": "掌握描述人际关系的常用短语。",
+          "examples": [
+            {
+              "en": "I take after my dad – we're both quite careless.",
+              "cn": "take after：像某位家人"
+            },
+            {
+              "en": "I'm close to my Uncle Jacques.",
+              "cn": "be close to：与某人亲近"
+            },
+            {
+              "en": "We grew apart from each other over the years.",
+              "cn": "grow apart from：渐渐疏远"
+            },
+            {
+              "en": "I fell out with my best friend.",
+              "cn": "fall out with：吵架绝交"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "ambitious",
+        "blunt",
+        "clever",
+        "creative",
+        "good fun",
+        "hard-working",
+        "impatient",
+        "judgemental",
+        "nosy",
+        "open-minded",
+        "outgoing",
+        "over-sensitive",
+        "reliable",
+        "self-assured",
+        "stingy",
+        "get on with",
+        "look up to",
+        "be in touch with",
+        "fall out with",
+        "grow apart from",
+        "take after",
+        "grow up together",
+        "be close to"
+      ],
+      "grammar": [
+        "副词修饰形容词：really outgoing, so creative, a bit impatient, not very reliable",
+        "第三人称动词加 -s：She likes cooking.",
+        "否定前缀：impatient (im-), disloyal (dis-), unreliable (un-)",
+        "I consider myself to be... / I would say I was..."
+      ],
+      "connectors": [],
+      "pronunciation": "Weak and strong forms（弱读与强读）：形容词重读、副词弱读",
+      "exercises": [
+        "15个性格形容词 + 释义配对",
+        "Positive / Negative 分类练习",
+        "8个关系短语 + 造句",
+        "Part 1 样题：Tell me something about your family.",
+        "Part 3 话题：Modern families / Friendship"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "A healthy body",
+      "titleCn": "健康身体",
+      "topic": "Health and fitness / 运动与健康饮食",
+      "page": "p.16–23",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "Watch your favourite sport with commentary in English. 仔细听并记下有用的词与短语。",
+        "Planning your answer (Part 2)：先读题、用1分钟准备时间列出要点，再展开说。"
+      ],
+      "watchOuts": [
+        "用球类运动/团体运动时不要用 'non-team sport' 的动词：I don't do any sports (不是 I don't practise any sports)。常用搭配：I go swimming."
+      ],
+      "techniques": [
+        {
+          "name": "谈论运动的感受词",
+          "detail": "用不同形容词表达对观看/参与运动的感受。",
+          "examples": [
+            {
+              "en": "Watching sport is tedious / entertaining / all right if there's nothing else on TV.",
+              "cn": "观看运动的感受词"
+            },
+            {
+              "en": "Playing sports is exhilarating / good fun / exhausting / a great way to keep fit.",
+              "cn": "参与运动的感受词"
+            },
+            {
+              "en": "I'm quite into sport / fanatical about sport / not the least bit interested in sport.",
+              "cn": "表达兴趣程度"
+            }
+          ]
+        },
+        {
+          "name": "健康与饮食词汇",
+          "detail": "区分 diet 的两个含义；掌握 malnutrition / metabolism / carbohydrates / vitamins / calories 等核心词。",
+          "examples": [
+            {
+              "en": "I plan to go on a diet in the new year.",
+              "cn": "diet = 节食/减肥"
+            },
+            {
+              "en": "I think I have a balanced diet.",
+              "cn": "diet = 日常饮食"
+            },
+            {
+              "en": "Athletes eat carbohydrates before a race because they give their bodies lots of energy.",
+              "cn": "carbohydrates 碳水化合物"
+            },
+            {
+              "en": "There are some people who have a fast metabolism.",
+              "cn": "metabolism 新陈代谢"
+            }
+          ]
+        },
+        {
+          "name": "Tennis 主题卡（Part 2 示范）",
+          "detail": "完整回答框架：Where / Equipment / Important event / Terminology / Useful phrases / Why。",
+          "examples": [
+            {
+              "en": "It's a battle of the mind as much as the body.",
+              "cn": "为何喜欢网球"
+            },
+            {
+              "en": "He's served an ace. / It's gone to a tie-break. / What a great shot!",
+              "cn": "网球常用解说短语"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "keep fit",
+        "keep in shape",
+        "work out",
+        "active person",
+        "contact sports",
+        "water sports",
+        "extreme sports",
+        "team sports",
+        "individual sports",
+        "malnutrition",
+        "metabolism",
+        "carbohydrates",
+        "vitamins",
+        "calories",
+        "crash diet",
+        "put on weight",
+        "lose weight",
+        "obese",
+        "underweight",
+        "balanced diet",
+        "junk food",
+        "tedious",
+        "entertaining",
+        "exhilarating",
+        "exhausting",
+        "fanatical"
+      ],
+      "grammar": [
+        "表达观点句型：I don't really enjoy X because..., I find it really hard to..., What I like about X is...",
+        "Part 2 框架：what → when & where → who with → why it matters"
+      ],
+      "connectors": [],
+      "pronunciation": "Expressing enthusiasm（表达热情）：语调、重音与语速变化",
+      "exercises": [
+        "运动分类表（contact/water/extreme/team/individual）",
+        "Tennis 主题卡完整内容填写",
+        "健康词汇填空（10题）",
+        "搭配句型填空（6题）",
+        "讨论题：Would you say you have a balanced diet?"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Studies and work",
+      "titleCn": "学习与工作",
+      "topic": "Education and work / 推测句式",
+      "page": "p.24–31",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "Learn the words for the job you do, the job you would most like to do, the most difficult, the most rewarding, and the most prestigious.",
+        "Make sure you can pronounce the jobs correctly.",
+        "Practice talking about the jobs and explaining something about them."
+      ],
+      "watchOuts": [
+        "给工作头衔时别忘了冠词（a, an, the）：I'm a nurse. / She's the managing director."
+      ],
+      "techniques": [
+        {
+          "name": "工作词汇完整库",
+          "detail": "掌握19个工作相关核心词汇及词形变化。",
+          "examples": [
+            {
+              "en": "I'm self-employed. Nobody can fire me because I'm my own boss.",
+              "cn": "自由职业"
+            },
+            {
+              "en": "I'm a bit of a workaholic. I'm constantly doing overtime.",
+              "cn": "工作狂+加班"
+            },
+            {
+              "en": "I'm the main breadwinner in my family.",
+              "cn": "家庭主要经济支柱"
+            },
+            {
+              "en": "Lots of workers are being laid off at the moment.",
+              "cn": "被裁员"
+            }
+          ]
+        },
+        {
+          "name": "推测句式（Speculating）",
+          "detail": "谈论工作时用推测句式：I'd imagine / I'd say / I suppose / He must be / He can't be / 条件句。",
+          "examples": [
+            {
+              "en": "I'd imagine he earns a lot.",
+              "cn": "推测"
+            },
+            {
+              "en": "He must be very stressed.",
+              "cn": "肯定推测"
+            },
+            {
+              "en": "He can't be very happy with that salary.",
+              "cn": "否定推测"
+            },
+            {
+              "en": "If I were you, I'd look for a job with better job security.",
+              "cn": "条件句"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "school subjects",
+        "qualifications",
+        "tuition fees",
+        "lectures",
+        "seminars",
+        "I failed",
+        "resit",
+        "I passed",
+        "coursework",
+        "job security",
+        "an office job",
+        "earn",
+        "job satisfaction",
+        "long hours",
+        "own boss",
+        "redundant",
+        "retired",
+        "sacked",
+        "self-employed",
+        "breadwinner",
+        "career-minded",
+        "overtime",
+        "part-time",
+        "responsible",
+        "stay-at-home mum",
+        "volunteer work",
+        "wage",
+        "workaholic",
+        "employment",
+        "presentation",
+        "promotion",
+        "appraisal",
+        "laid off",
+        "stressful",
+        "inexperienced"
+      ],
+      "grammar": [
+        "推测句式：I'd imagine / I'd say / I suppose",
+        "情态动词推测：He must be / He can't be",
+        "条件句：If I were you, I'd... / If he got the job, he would probably...",
+        "词形变化：employ→employment, promote→promotion, lay off→laid off"
+      ],
+      "connectors": [],
+      "pronunciation": "Word stress（词重音）：e-CON-o-my, qual-i-FI-ca-tion, ex-per-I-ence",
+      "exercises": [
+        "Studies vocabulary 定义-搭配（10题）",
+        "Work vocabulary 完整词库（19词）",
+        "Julia & Peter 段落填空",
+        "词形变化练习（10题）",
+        "Part 1 答题：相关 + 长度合适（1–3句）"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The world around us",
+      "titleCn": "周围的世界",
+      "topic": "Nature and the environment / 环境与气候",
+      "page": "p.32–39",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "Lexical resource（= range of vocabulary）makes up 25% of your mark in the exam. 词汇量占分25%。",
+        "如果你没有做过某事，就说你认为哪些最有效、为什么。"
+      ],
+      "watchOuts": [
+        "常见错误：把 it's 留在句子里。It's always windy. 正确读作 /ɪts/ always windy."
+      ],
+      "techniques": [
+        {
+          "name": "环保行动词汇",
+          "detail": "掌握7个核心环保动词及句型模板。",
+          "examples": [
+            {
+              "en": "Recycle paper, cans, plastic, glass and other items like batteries.",
+              "cn": "回收"
+            },
+            {
+              "en": "I try to reduce my carbon footprint by walking everywhere.",
+              "cn": "减少碳足迹"
+            },
+            {
+              "en": "Switch to a green energy supplier.",
+              "cn": "切换绿色能源"
+            },
+            {
+              "en": "Boycott products that harm the environment.",
+              "cn": "抵制有害产品"
+            }
+          ]
+        },
+        {
+          "name": "气候描述表达",
+          "detail": "用 get / tends to be 描述天气。",
+          "examples": [
+            {
+              "en": "We often get thick fog. (get = have)",
+              "cn": "get = 有"
+            },
+            {
+              "en": "In the winter, it gets absolutely freezing. (gets = becomes)",
+              "cn": "gets = 变得"
+            },
+            {
+              "en": "In the summer, it tends to be hot. (tends to be = is usually)",
+              "cn": "tends to be = 通常"
+            }
+          ]
+        },
+        {
+          "name": "Cleft sentences（强调句式）",
+          "detail": "用 It was...that... / What I want is... / The thing I hate most is... 强调信息。",
+          "examples": [
+            {
+              "en": "It was in the spring that we moved here.",
+              "cn": "强调时间"
+            },
+            {
+              "en": "What I want is more time.",
+              "cn": "强调需求"
+            },
+            {
+              "en": "It's the government that should take responsibility.",
+              "cn": "强调主体"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "Boycott",
+        "Recycle",
+        "Reduce",
+        "Switch",
+        "renewable sources",
+        "deforestation",
+        "carbon footprint",
+        "organic foods",
+        "artificial fertilisers",
+        "pesticides",
+        "biting cold",
+        "bitterly cold",
+        "boiling hot",
+        "heavy rainfall",
+        "severe flooding",
+        "unbearably hot",
+        "freezing winds",
+        "heavy snow",
+        "snowdrifts",
+        "soaked to the skin",
+        "dehydrated",
+        "drenched",
+        "frozen to the bone",
+        "waterproofs"
+      ],
+      "grammar": [
+        "Cleft sentences（强调句式）：It was...that... / What I want is...",
+        "Complex sentences：Although it's expensive, it's worth it.",
+        "Subordinate clauses：although, because, while, when, if, since, as, whereas, so that, in order to",
+        "get 的三个含义：have / becomes / reaches；tend to be = is usually"
+      ],
+      "connectors": [
+        "从属连词：although, because, while, when, if, since, as, whereas, so that, in order to"
+      ],
+      "pronunciation": "Long and short vowel sounds（长短元音）：ship/sheep, bit/bitten, full/fool",
+      "exercises": [
+        "环保行动填空（7题）",
+        "气候搭配填空（10题）",
+        "天气描述配对（8句）",
+        "get 与 tend to be 语法练习",
+        "Part 1 答题 + 用新闻报道积累 Part 3 观点"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Communication",
+      "titleCn": "交流",
+      "topic": "Language and communication / 语言学习与全球化",
+      "page": "p.40–47",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "Giving yourself time to think：用 Well,... / That's an interesting question. 争取思考时间。",
+        "Agreeing and disagreeing with the examiner：Part 3 讨论中要用，但要礼貌。"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "语言水平表述",
+          "detail": "掌握 mother tongue / multilingual / fluent / basic / rusty / pick up 等核心表达。",
+          "examples": [
+            {
+              "en": "My mother tongue is Mandarin.",
+              "cn": "母语"
+            },
+            {
+              "en": "I'm fluent in English.",
+              "cn": "流利"
+            },
+            {
+              "en": "My French is a bit rusty.",
+              "cn": "生疏了"
+            },
+            {
+              "en": "I picked up some Japanese when I lived there.",
+              "cn": "自然习得"
+            }
+          ]
+        },
+        {
+          "name": "全球化词形变化",
+          "detail": "掌握 integrate→integration, common→commonly, technology→technological 等派生。",
+          "examples": [
+            {
+              "en": "The integration of the world's economies is commonly known as globalisation.",
+              "cn": "integration / commonly"
+            },
+            {
+              "en": "This is largely due to technological advances.",
+              "cn": "largely / technological"
+            }
+          ]
+        },
+        {
+          "name": "表达态度（Agreeing/Disagreeing）",
+          "detail": "礼貌地表达同意与不同意。",
+          "examples": [
+            {
+              "en": "Absolutely. / I couldn't agree more. / That's a good point.",
+              "cn": "同意"
+            },
+            {
+              "en": "I see what you mean, but... / I'm afraid I disagree. / Up to a point.",
+              "cn": "部分同意/不同意"
+            },
+            {
+              "en": "Not really. / I don't think so.",
+              "cn": "不同意"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "mother tongue",
+        "multilingual",
+        "fluent",
+        "basic",
+        "rusty",
+        "pick up",
+        "global language",
+        "minority language",
+        "foreign language",
+        "second language",
+        "accents",
+        "dialects",
+        "dubbed",
+        "loanwords",
+        "subtitled",
+        "keep in touch",
+        "lose touch",
+        "get back in touch",
+        "integration",
+        "commonly",
+        "remarkable",
+        "largely",
+        "technological",
+        "recognised",
+        "global"
+      ],
+      "grammar": [
+        "比较级规则：单音节加 -er/-est；双音节 -y 结尾用 -er/-est；-ing/-ed/-al/-ful/-ive/-less/-ous 用 more/most",
+        "不规则：good(better,best), bad(worse,worst), far(further,furthest)",
+        "三音节及以上用 more/most",
+        "词形变化（后缀）：-ity, -tion"
+      ],
+      "connectors": [
+        "态度表达：Absolutely / I couldn't agree more / That's a good point / I see what you mean, but... / I'm afraid I disagree / Up to a point / Not really",
+        "观点句型：In my opinion... / I'd say that... / The main advantage of... is that..."
+      ],
+      "pronunciation": "Consonants（辅音）：/θ/ vs /s/, /w/ vs /v/, /l/ vs /r/, 清浊辅音对立",
+      "exercises": [
+        "语言水平词汇配对（6题）",
+        "language 搭配 collocation（5题）",
+        "词汇填空（accents/dialects/dubbed/loanwords/subtitled）",
+        "touch 短语变形（3题）",
+        "全球化词形变化填空（10空）",
+        "比较级练习（9句）",
+        "Part 1 答题练习"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Technology",
+      "titleCn": "科技",
+      "topic": "Science and technology / 科技与互联网",
+      "page": "p.48–55",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [],
+      "watchOuts": [
+        "许多 phrasal verbs 有多个含义。",
+        "猜测 phrasal verbs 的含义很难——学习这些粒子的一般含义会有帮助。"
+      ],
+      "techniques": [
+        {
+          "name": "科技词汇与态度",
+          "detail": "区分 technophile / technophobe；掌握 cutting-edge / state-of-the-art / outdated。",
+          "examples": [
+            {
+              "en": "Technophiles love gadgets and all that is state-of-the-art.",
+              "cn": "科技爱好者"
+            },
+            {
+              "en": "cutting-edge 的同义词 → state-of-the-art",
+              "cn": "尖端同义词"
+            },
+            {
+              "en": "cutting-edge 的反义词 → outdated",
+              "cn": "尖端反义词"
+            }
+          ]
+        },
+        {
+          "name": "Phrasal verbs 一词两义",
+          "detail": "掌握 break down / turn up / turn down / blow up / set off / turn over 的多重含义。",
+          "examples": [
+            {
+              "en": "They broke down the bridge. (demolished)",
+              "cn": "break down = 拆除"
+            },
+            {
+              "en": "Talks broke down. (failed)",
+              "cn": "break down = 失败"
+            },
+            {
+              "en": "Can you turn up the heating? (increase)",
+              "cn": "turn up = 调大"
+            },
+            {
+              "en": "I'm going to turn it down. (reject)",
+              "cn": "turn down = 拒绝"
+            }
+          ]
+        },
+        {
+          "name": "互联网四大危险",
+          "detail": "identity theft / viruses / cyber bullying / Internet addiction。",
+          "examples": [
+            {
+              "en": "identity theft: criminals steal your personal details",
+              "cn": "身份盗用"
+            },
+            {
+              "en": "cyber bullying: harassed, threatened or humiliated over the Internet",
+              "cn": "网络霸凌"
+            },
+            {
+              "en": "Internet addiction: excessive use that interferes with daily life",
+              "cn": "网络成瘾"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "technophiles",
+        "technophobes",
+        "gadgets",
+        "state-of-the-art",
+        "cutting-edge",
+        "outdated",
+        "AI",
+        "genetic engineering",
+        "break down",
+        "turn up",
+        "turn down",
+        "blow up",
+        "set off",
+        "turn over",
+        "identity theft",
+        "viruses",
+        "cyber bullying",
+        "Internet addiction",
+        "firewall",
+        "antivirus software",
+        "social media",
+        "gaming",
+        "online banking"
+      ],
+      "grammar": [
+        "Phrasal verb particles：up=increase, down=reduce, on=start/continue, off=stop/separate/start, in=put into, out=depart, away=avoid",
+        "频率表达：every other day, once a week"
+      ],
+      "connectors": [
+        "Coherence 连接手段：First of all, In addition, However, On the other hand, As a result, To sum up, For example, That's why..."
+      ],
+      "pronunciation": "Sentence stress（句子重音）：实义词重读，虚词弱读",
+      "exercises": [
+        "科技阅读理解（7题）",
+        "Phrasal verbs 一词两义配对（6组×2义）",
+        "互联网四大危险配对",
+        "Phrasal verb particles 表格填空",
+        "Part 1 答题练习"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Hobbies",
+      "titleCn": "爱好",
+      "topic": "Employment and finances / 表达好恶与频率",
+      "page": "p.56–63",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "准备好谈论自己的业余爱好以及做这些活动的频率。",
+        "用短语表达频率而不是只用单个词，能提高考试表现。",
+        "Part 1 不要只说一句或一个短语就不说了。"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "表达好恶的短语",
+          "detail": "区分 positive / negative / neutral 态度。",
+          "examples": [
+            {
+              "en": "I'm keen on photography. (positive)",
+              "cn": "喜欢"
+            },
+            {
+              "en": "I can't stand board games. (negative)",
+              "cn": "受不了"
+            },
+            {
+              "en": "I don't mind cooking. (neutral)",
+              "cn": "不介意"
+            },
+            {
+              "en": "I can take it or leave it. (neutral)",
+              "cn": "无所谓"
+            }
+          ]
+        },
+        {
+          "name": "爱好相关短语（阅读/艺术/音乐/电影）",
+          "detail": "page-turner / exhibition / taken up / genre / mixed reviews 等。",
+          "examples": [
+            {
+              "en": "It's a real page-turner. I just can't put it down.",
+              "cn": "让人爱不释手的书"
+            },
+            {
+              "en": "I've just taken up the piano.",
+              "cn": "开始学钢琴"
+            },
+            {
+              "en": "What I like about them is their thoughtful lyrics and catchy tunes.",
+              "cn": "欣赏歌词和旋律"
+            },
+            {
+              "en": "My favourite film genre is comedy.",
+              "cn": "最喜欢的电影类型"
+            }
+          ]
+        },
+        {
+          "name": "频率表达排序",
+          "detail": "从低到高：several times a year → twice a year → once a fortnight → every other day → every Tuesday → every single day。",
+          "examples": [
+            {
+              "en": "I sing karaoke every other Saturday.",
+              "cn": "每隔一个周六"
+            },
+            {
+              "en": "I go to the theatre about three times a year.",
+              "cn": "一年大约三次"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "keen on",
+        "crazy about",
+        "fanatical about",
+        "can't stand",
+        "don't mind",
+        "take it or leave it",
+        "not my kind of thing",
+        "page-turner",
+        "set in",
+        "exhibition",
+        "abstract",
+        "original",
+        "representational",
+        "thought-provoking",
+        "installation",
+        "taken up",
+        "concert",
+        "live music",
+        "lyrics",
+        "tunes",
+        "charts",
+        "genre",
+        "mixed reviews",
+        "predictable",
+        "moving",
+        "camping",
+        "crafts",
+        "eating out",
+        "fishing",
+        "going clubbing",
+        "woodwork"
+      ],
+      "grammar": [
+        "Present perfect：have/has + p.p.，表过去发生对现在有影响",
+        "Present perfect simple vs continuous：simple 强调结果/完成；continuous 强调持续/过程",
+        "对比：I've been reading this book for a week.（还在读）vs I've read this book.（读完了）"
+      ],
+      "connectors": [],
+      "pronunciation": "The schwa /ə/：非重读音节中的弱读央元音",
+      "exercises": [
+        "好恶句型 + 情感判断（7句）",
+        "爱好短语阅读填空（22空）",
+        "频率表达排序（6个）",
+        "频率句型填空（7题）",
+        "Present perfect vs continuous 练习",
+        "Part 1 答题 + 请考官重复问题 / 礼貌表达"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Youth",
+      "titleCn": "青春",
+      "topic": "Childhood / 童年回忆与过去习惯",
+      "page": "p.64–71",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "回忆短语",
+          "detail": "掌握12个回忆相关短语及同义改写。",
+          "examples": [
+            {
+              "en": "It really takes me back.",
+              "cn": "让我回忆起过去"
+            },
+            {
+              "en": "The memories are so vivid.",
+              "cn": "记忆生动"
+            },
+            {
+              "en": "It's still fresh in my mind.",
+              "cn": "记忆犹新"
+            },
+            {
+              "en": "The name escapes me. / It's on the tip of my tongue!",
+              "cn": "想不起来/话到嘴边"
+            },
+            {
+              "en": "It all comes flooding back.",
+              "cn": "突然清晰记起"
+            },
+            {
+              "en": "Time flies!",
+              "cn": "时光飞逝"
+            }
+          ]
+        },
+        {
+          "name": "童年相关表达（含 child 的词）",
+          "detail": "latchkey child / only child / child benefit / child labour / child's play / child-friendly / childish 等。",
+          "examples": [
+            {
+              "en": "I bump into my childhood friends occasionally.",
+              "cn": "童年朋友"
+            },
+            {
+              "en": "She's an only child.",
+              "cn": "独生子女"
+            },
+            {
+              "en": "That exam was easy. In fact, it was child's play.",
+              "cn": "小菜一碟"
+            },
+            {
+              "en": "He's a latchkey child – he arrives home to an empty house.",
+              "cn": "钥匙儿童"
+            }
+          ]
+        },
+        {
+          "name": "used to vs would",
+          "detail": "used to 可表状态和重复动作；would 只表重复动作，不表状态。",
+          "examples": [
+            {
+              "en": "I used to be very shy. (状态)",
+              "cn": "used to 表状态 ✓"
+            },
+            {
+              "en": "I would go to the beach every summer. (重复动作)",
+              "cn": "would 表动作 ✓"
+            },
+            {
+              "en": "My grandmother would tell us stories all the time.",
+              "cn": "would 表过去习惯"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "takes me back",
+        "vivid",
+        "strong impression on",
+        "fresh in my mind",
+        "vaguely remember",
+        "hazy memories",
+        "escapes me",
+        "on the tip of my tongue",
+        "good old days",
+        "rose-tinted glasses",
+        "flooding back",
+        "Time flies",
+        "childhood friends",
+        "happy childhood",
+        "child-friendly",
+        "only child",
+        "child's play",
+        "child benefit",
+        "child labour",
+        "latchkey child",
+        "childish",
+        "well brought up",
+        "upbringing",
+        "parenting",
+        "your elders",
+        "do as you're told",
+        "good manners",
+        "tell someone off"
+      ],
+      "grammar": [
+        "used to + 动词原形：表过去状态/习惯",
+        "would + 动词原形：只表过去重复动作，不表状态",
+        "used to vs would：状态只用 used to；重复动作两者皆可",
+        "过去时复习：规则-ed/不规则；过去进行时 was/were + -ing；过去完成时 had + p.p."
+      ],
+      "connectors": [],
+      "pronunciation": "Past tense -ed endings（三种读音）：/t/（清辅音后）/d/（浊辅音后）/ɪd/（/t//d/后）；Diphthongs（双元音）",
+      "exercises": [
+        "回忆短语听写填空（12空，3段文本）",
+        "同义改写配对（5题）",
+        "含 child 的词填空（9题）",
+        "教养短语配对（8题）",
+        "used to / would 练习",
+        "Part 2：Describe a happy childhood memory"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Home",
+      "titleCn": "家",
+      "topic": "People and places / 描述地点与住宅",
+      "page": "p.72–79",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "谈论家乡时可以说些负面内容，但最好以积极的方式呈现自己。",
+        "Suffixes（后缀）可让你从已掌握的词造出新词：-ity, -ence/-ance, -tion/-sion, -age, -y, -ant。"
+      ],
+      "watchOuts": [
+        "英式英语和美式英语有很多差别，例如 flat（英式）vs apartment（美式）。两种英语形式在考试中都接受。"
+      ],
+      "techniques": [
+        {
+          "name": "描述地点词汇",
+          "detail": "区分城市/乡村特征；掌握 cosmopolitan / picturesque / congested / outskirts 等。",
+          "examples": [
+            {
+              "en": "My village is in the middle of nowhere. It's a real backwater.",
+              "cn": "偏僻乡村"
+            },
+            {
+              "en": "The city I live in is very cosmopolitan.",
+              "cn": "国际化城市"
+            },
+            {
+              "en": "It's a real tourist destination. Sadly, it's also pretty polluted and congested.",
+              "cn": "旅游胜地但拥挤"
+            },
+            {
+              "en": "I live on the outskirts of a town.",
+              "cn": "住在城镇边缘"
+            }
+          ]
+        },
+        {
+          "name": "Comparing past and present",
+          "detail": "过去用过去时，现在用现在时/现在完成时；用 used to... now... 对比。",
+          "examples": [
+            {
+              "en": "Then, this was a nice place to live. Everyone knew everyone.",
+              "cn": "过去→过去时"
+            },
+            {
+              "en": "Now, the population has risen dramatically.",
+              "cn": "现在→现在完成时"
+            },
+            {
+              "en": "Many of the old factories have been converted into flats.",
+              "cn": "变化→现在完成时被动"
+            }
+          ]
+        },
+        {
+          "name": "被动语态与使役结构",
+          "detail": "be + p.p.；make/let + 宾语 + 动词原形；have/get + 宾语 + p.p.。",
+          "examples": [
+            {
+              "en": "Many of the old factories have been converted into flats.",
+              "cn": "现在完成时被动"
+            },
+            {
+              "en": "I've had my roof repaired.",
+              "cn": "使役：have + 宾语 + p.p."
+            },
+            {
+              "en": "I got him to help me.",
+              "cn": "使役：get + 宾语 + to do"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "urban regeneration",
+        "derelict buildings",
+        "remote",
+        "within easy walking distance",
+        "middle of nowhere",
+        "backwater",
+        "picturesque",
+        "cosmopolitan",
+        "tourist destination",
+        "congested",
+        "outskirts",
+        "spacious",
+        "cramped",
+        "heart",
+        "detached / semi-detached / terraced house",
+        "bungalow",
+        "studio flat",
+        "vibrant",
+        "built up",
+        "infrastructure",
+        "shortage",
+        "employment",
+        "loneliness",
+        "preference",
+        "motherhood",
+        "forgetfulness",
+        "treatment",
+        "alcoholism",
+        "craftsmanship",
+        "awareness",
+        "refugee",
+        "disappointment",
+        "heroism",
+        "leadership",
+        "bachelorhood"
+      ],
+      "grammar": [
+        "过去时 vs 现在时/现在完成时（描述变化）",
+        "后缀与构词：-ness, -ee, -ism, -hood, -ment, -ship, -ence/-ance, -tion/-sion, -age, -y, -ity",
+        "被动语态：be + p.p.（各时态）",
+        "使役结构：make/let + 宾语 + 原形；have/get + 宾语 + p.p.；get + 宾语 + to do"
+      ],
+      "connectors": [
+        "澄清：Do you mean...? / Sorry, could you be more specific?",
+        "释义：In other words,... / What I mean is...",
+        "举例：For example,... / For instance,... / Take... for instance."
+      ],
+      "pronunciation": "Silent letters（不发音字母）：k in know, w in write, b in climb, gh in night, l in walk, t in listen, h in hour",
+      "exercises": [
+        "城市/乡村判断（7句）",
+        "地点描述填空（13空）",
+        "描述住宅类型",
+        "Comparing past and present 填空（3段文本）",
+        "后缀变名词练习（12题）",
+        "被动语态与使役结构练习",
+        "Part 1 答题 + 澄清/释义/举例"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Culture",
+      "titleCn": "文化",
+      "topic": "Culture and modern society / 节庆、历史遗址与遗产",
+      "page": "p.80–87",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [],
+      "watchOuts": [
+        "正确使用介词短语：in July, in the afternoon, at night；日期用序数词：the thirty-first of May。"
+      ],
+      "techniques": [
+        {
+          "name": "节庆与庆祝词汇",
+          "detail": "day off / celebrations / street parties / national anthem / banners / marks / anniversary。",
+          "examples": [
+            {
+              "en": "The 20th of May marks the anniversary of when our King came to the throne.",
+              "cn": "纪念登基周年"
+            },
+            {
+              "en": "Everyone is given the day off and people arrange street parties.",
+              "cn": "放假+街头派对"
+            },
+            {
+              "en": "At night, fireworks are set off.",
+              "cn": "放烟花"
+            }
+          ]
+        },
+        {
+          "name": "历史遗址与遗产词汇",
+          "detail": "excavation / remains / unearthed / artefacts / heritage / listed building 等。",
+          "examples": [
+            {
+              "en": "An archaeologist announced that he had found the remains of Bronze Age roundhouses.",
+              "cn": "发现青铜时代遗址"
+            },
+            {
+              "en": "They had also found a large number of artefacts.",
+              "cn": "出土文物"
+            },
+            {
+              "en": "The finds will be exhibited in my local museum.",
+              "cn": "展品将在博物馆展出"
+            },
+            {
+              "en": "It's a listed building, protected by law.",
+              "cn": "受保护历史建筑"
+            }
+          ]
+        },
+        {
+          "name": "连读规则（Linking）",
+          "detail": "辅音+元音不停顿；元音间加 /j/ 或 /w/；r/re+元音加 /r/。",
+          "examples": [
+            {
+              "en": "an English → /ən j ɪŋ/",
+              "cn": "元音间加 /j/"
+            },
+            {
+              "en": "go on → /ɡəʊ w ɒn/",
+              "cn": "元音间加 /w/"
+            },
+            {
+              "en": "far away → /fɑːr əˈweɪ/",
+              "cn": "r+元音加 /r/"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "day off",
+        "celebrations",
+        "street parties",
+        "national anthem",
+        "banners",
+        "marks",
+        "anniversary",
+        "fireworks",
+        "build up",
+        "in honour of",
+        "excavation",
+        "remains",
+        "unearthed",
+        "artefacts",
+        "carbon dating",
+        "BC / AD",
+        "illiterate",
+        "primitive",
+        "sophisticated",
+        "metalwork",
+        "ornaments",
+        "construct",
+        "exhibited",
+        "finds",
+        "heritage",
+        "listed building",
+        "historical significance",
+        "altered",
+        "demolished",
+        "natural heritage",
+        "cultural heritage",
+        "World Heritage Sites",
+        "designation",
+        "funding"
+      ],
+      "grammar": [
+        "Future forms：will（预测/承诺）/ be going to（计划）/ be + -ing（已安排）/ present simple（固定时间表）/ may/might（可能）/ should（建议）/ would like to（想要）/ be about to（即将）/ be due to（预定）"
+      ],
+      "connectors": [],
+      "pronunciation": "Linking（连读）：辅音+元音不停顿；元音间加 /j/ /w/；r/re+元音加 /r/",
+      "exercises": [
+        "节庆祝问答配对（4组）",
+        "节庆词汇填空（7空）",
+        "历史遗址选择填空（12空）",
+        "遗产词汇配对（2组）",
+        "连读规则练习",
+        "将来时表达练习",
+        "Part 1 答题 + 预测可能问题"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "On the move",
+      "titleCn": "在路上",
+      "topic": "Holidays and travel / 假期类型与旅游影响",
+      "page": "p.88–95",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "当考官问 yes/no 问题时，可以用简短回答开头。只说 yes 或 no 会显得突兀。",
+        "正确使用简短回答也是展示你英语水平的一种方式。"
+      ],
+      "watchOuts": [
+        "不要在 Yes/No 答案中使用 contracted forms（如 Yes, they're）：应该用 Yes, they are."
+      ],
+      "techniques": [
+        {
+          "name": "假期类型词汇",
+          "detail": "package deal / backpacking / rough it / holiday home / last-minute deal / self-catering。",
+          "examples": [
+            {
+              "en": "Did you get a package deal? — No, we booked our flights and accommodation separately.",
+              "cn": "自由行 vs 包价"
+            },
+            {
+              "en": "I don't want to rough it anymore!",
+              "cn": "不想再艰苦旅行"
+            },
+            {
+              "en": "We're going to try and get a last-minute deal.",
+              "cn": "最后一刻特价"
+            }
+          ]
+        },
+        {
+          "name": "旅游影响（EC/ENV/LP）",
+          "detail": "区分经济(EC)/环境(ENV)/当地生活(LP)影响及正负面。",
+          "examples": [
+            {
+              "en": "Tourism can bring higher levels of employment. (EC, positive)",
+              "cn": "提高就业（经济正面）"
+            },
+            {
+              "en": "Hotels are built on previously unspoilt beaches. (ENV, negative)",
+              "cn": "破坏海滩（环境负面）"
+            },
+            {
+              "en": "Jobs in tourism are often low paid and seasonal. (LP, negative)",
+              "cn": "低薪季节性（生活负面）"
+            }
+          ]
+        },
+        {
+          "name": "简短回答规则（Short answers）",
+          "detail": "Yes + subject + auxiliary/be；可用其他词加强；No 用缩略形式。",
+          "examples": [
+            {
+              "en": "Do you enjoy going on holiday with your parents? — Yes, I do.",
+              "cn": "Rule 1: Yes + subject + aux"
+            },
+            {
+              "en": "Yes, I certainly do.",
+              "cn": "Rule 2: 加其他词"
+            },
+            {
+              "en": "Would you recommend it? — Without a doubt.",
+              "cn": "Rule 3: 其他短语"
+            },
+            {
+              "en": "Did you enjoy that holiday? — I didn't, no.",
+              "cn": "Rule 5: No 用缩略形式"
+            }
+          ]
+        },
+        {
+          "name": "间接表达与因果",
+          "detail": "避免过于直接；用 because/due to/so/therefore 表因果。",
+          "examples": [
+            {
+              "en": "I'm afraid I'd have to disagree.",
+              "cn": "委婉不同意"
+            },
+            {
+              "en": "It depends on...",
+              "cn": "视情况而定"
+            },
+            {
+              "en": "Since tourism creates jobs, it helps the local economy.",
+              "cn": "因果表达"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "package deal",
+        "backpacking",
+        "rough it",
+        "holiday home",
+        "last-minute deal",
+        "self-catering",
+        "going sightseeing",
+        "sunbathing",
+        "excursions",
+        "sampling the nightlife",
+        "going hiking",
+        "seasonal",
+        "erosion",
+        "unspoilt",
+        "employment",
+        "infrastructure",
+        "investment",
+        "conservation",
+        "Without a doubt",
+        "Definitely",
+        "I believe so",
+        "I don't think so",
+        "I doubt it"
+      ],
+      "grammar": [
+        "Short answers：Yes + subject + auxiliary/be；No 用缩略形式",
+        "间接表达：I don't think so / I'm afraid I'd have to disagree / That's a fair point, but... / It depends on...",
+        "Cause and effect：because / because of / due to / owing to / so / therefore / as a result / consequently / since / as"
+      ],
+      "connectors": [
+        "因果：because, because of, due to, owing to, so, therefore, as a result, consequently, that's why, since, as",
+        "间接表达：I don't think so / I'm afraid I'd have to disagree / That's a fair point, but... / It depends on..."
+      ],
+      "pronunciation": "Adding emphasis（强调）：通过重音和语调强调关键词；使用 absolutely, definitely, certainly, particularly, especially",
+      "exercises": [
+        "假期类型问答配对（5组）",
+        "假期活动句型模板练习",
+        "旅游影响判断（EC/ENV/LP + 正负面，8题）",
+        "难词释义（7题）",
+        "Short answers 规则练习（6 rules）",
+        "间接表达与因果句型练习",
+        "Part 1 答题：简短回答 + 扩展细节"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Practice exam",
+      "titleCn": "模拟考试",
+      "topic": "综合模拟（Part 1/2/3 完整流程）",
+      "page": "p.96–103",
+      "questionTypes": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "examInfo": [
+        {
+          "title": "考试结构",
+          "points": [
+            "Part 1: Introduction and interview — 4–5 minutes",
+            "Part 2: Individual long turn — 3–4 minutes（1分钟准备 + 1–2分钟陈述）",
+            "Part 3: Two-way discussion — 4–5 minutes"
+          ]
+        }
+      ],
+      "examTips": [
+        "Part 2 后考官会就同一话题再问 1–2 个问题。",
+        "Part 3 是与考官的双向讨论——不只是回答，还要提出理由、例子、比较、给出建议。"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "Part 2 任务卡框架",
+          "detail": "Describe a personal achievement you are proud of: what → when → what was difficult → why proud。",
+          "examples": [
+            {
+              "en": "what you achieved",
+              "cn": "你取得了什么成就"
+            },
+            {
+              "en": "when you achieved it",
+              "cn": "何时取得"
+            },
+            {
+              "en": "what was difficult about achieving it",
+              "cn": "困难是什么"
+            },
+            {
+              "en": "and explain why you are proud of this achievement",
+              "cn": "解释为何自豪"
+            }
+          ]
+        },
+        {
+          "name": "Exam tutor 自我检测清单",
+          "detail": "8项核心自测要点。",
+          "examples": [
+            {
+              "en": "Part 1：准备3–4个高频话题（家/工作与学习/爱好/家乡/旅行），每话题准备5–8个词块与例句",
+              "cn": "Part 1 准备策略"
+            },
+            {
+              "en": "Part 2 框架公式：what → when/where → who with → why it matters / what was difficult",
+              "cn": "Part 2 框架"
+            },
+            {
+              "en": "Part 3：做到双向讨论——提出理由、例子、比较、给出建议",
+              "cn": "Part 3 策略"
+            },
+            {
+              "en": "时态：讲过去经历用过去时，讲现在用现在时，讲变化用 used to… now…",
+              "cn": "时态规则"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "personal achievement",
+        "be proud of",
+        "what you achieved",
+        "what was difficult",
+        "fluency",
+        "coherence",
+        "lexical resource",
+        "grammatical range",
+        "pronunciation"
+      ],
+      "grammar": [
+        "时态总复习：过去时/现在时/现在完成时/used to… now…",
+        "语法点清单：比较级/最高级、被动与使役、将来时、简短回答、现在完成时、used to/would、分裂句、情态动词"
+      ],
+      "connectors": [],
+      "pronunciation": "发音总复习：连读/弱读强读/-ed尾音/schwa/句重音/长短元音/辅音/表达热情",
+      "exercises": [
+        "Part 1 完整模拟（Track 123）",
+        "Part 2 完整模拟（Track 124–125）：Describe a personal achievement you are proud of",
+        "Part 3 完整模拟（Track 126–127）：双向讨论",
+        "录音自测 + 对比 sample answer"
+      ]
+    }
+  ]
+}

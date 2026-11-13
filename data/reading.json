@@ -1,0 +1,1584 @@
+{
+  "id": "reading",
+  "name": "阅读",
+  "nameEn": "Reading",
+  "book": "Collins Reading for IELTS (2nd ed)",
+  "icon": "📖",
+  "color": "#1971c2",
+  "description": "Collins Reading for IELTS 全 12 单元。覆盖段落标题匹配、句子配对、摘要填空、信息匹配、特征匹配、多选、TFNG / YNNG 等全部题型技巧，核心能力是同义替换与干扰项识别。",
+  "examInfo": {
+    "time": "60 分钟",
+    "total": "40 题",
+    "note": "3 篇文章（Passage 1 最简单），题材为学术/一般话题",
+    "sections": [
+      { "n": "Passage 1", "desc": "一般性话题，篇幅短" },
+      { "n": "Passage 2", "desc": "学术/一般性话题" },
+      { "n": "Passage 3", "desc": "学术性话题，难度最高" }
+    ],
+    "scoring": [
+      { "score": "15 / 40", "band": "5" },
+      { "score": "23 / 40", "band": "6" },
+      { "score": "30 / 40", "band": "7" }
+    ]
+  },
+  "units": [
+    {
+      "id": 1,
+      "title": "Family matters",
+      "titleCn": "家庭事务",
+      "topic": "Family and relationships（家庭与关系）",
+      "page": "p.8–15",
+      "questionTypes": ["Matching Headings", "Paragraph structure analysis"],
+      "aims": {
+        "examSkills": "段落结构分析、Matching Headings 标题匹配",
+        "languageDevelopment": "主旨句写作、段落功能识别（引入/主体/结论）",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Matching Headings（标题匹配）",
+          "points": [
+            "题干形式：<b>Choose the correct heading for sections A–E from the list of numbered headings i–ix</b>。",
+            "<b>列表标题数 &gt; 段落数</b>（9 个标题 vs 5 个段落）→ 存在多余选项，是干扰项。",
+            "<b>每个正确的标题都是对段落主旨的概括</b>（Each correct heading will summarise the main idea of a paragraph）。"
+          ]
+        },
+        {
+          "title": "段落三段式结构",
+          "points": [
+            "段落通常分三部分：<b>Introduction（引入）/ main part（主体）/ conclusion（结论）</b>。",
+            "<b>段落首句通常是 topic sentence</b>。",
+            "段落功能类型：<b>states cause and effect</b>（因果）、<b>develops an argument</b>（论证）、<b>gives information / a description</b>（信息/描述）、<b>introduces the topic</b>（引入）、<b>contrasts</b>（对比）、<b>summarises</b>（总结）。"
+          ]
+        }
+      ],
+      "examTips": [
+        "<b>Identifying the structure of a paragraph will not only help you to understand the text, but will also help you to locate information.</b>（识别段落结构既帮你理解文本，也帮你定位信息）",
+        "<b>Each correct heading will summarise the main idea of a paragraph.</b>"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "Matching Headings 解题五步",
+          "detail": "1) 先看题目问的段落数 / 标题数 / 有多少标题不被使用 2) 通读每个段落首尾句，抓主旨 3) 从列表中选<b>最能概括主旨</b>的标题 4) 排除只含个别关键词的标题 5) 回读验证。",
+          "examples": [
+            { "en": "i New families: beneficial or harmful?", "cn": "新家庭：有利还是有害？" },
+            { "en": "ii The government reaction", "cn": "政府的反应" },
+            { "en": "iii The typical western family", "cn": "典型西方家庭" },
+            { "en": "v The disappearance of the traditional model", "cn": "传统模式的消失" },
+            { "en": "ix The function of families", "cn": "家庭的功能" }
+          ]
+        },
+        {
+          "name": "干扰项特征：只含具体名词的标题",
+          "detail": "标题中出现段落里的某个<b>具体名词</b>（如 Political families、government reaction），往往只是段落的一个<b>细节</b>，不是主旨。主旨标题通常是<b>抽象概括</b>。",
+          "examples": [
+            { "en": "iv Political families", "cn": "→ 细节型干扰项" },
+            { "en": "ix The function of families", "cn": "→ 抽象概括型主旨标题" }
+          ]
+        },
+        {
+          "name": "主旨句的两种形态",
+          "detail": "主旨可能是<b>定义型</b>（给概念下定义）或<b>观点型</b>（提出主张）。",
+          "examples": [
+            { "en": "Nicholson defines the traditional family as 'the unit of parents with children who live together'.", "cn": "→ 定义型主旨" },
+            { "en": "To have a society that is family-friendly, anti-discrimination laws will need to be introduced.", "cn": "→ 观点型主旨（引入部分）" }
+          ]
+        },
+        {
+          "name": "信号词识别段落切换",
+          "detail": "段落功能切换常有信号词。看到这些词就知道进入了新逻辑块。",
+          "examples": [
+            { "en": "However, traditional families do have some advantages:", "cn": "→ 从缺点切到优点" },
+            { "en": "There are two main reasons for this.", "cn": "→ 进入论证主体" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "nuclear family", "cn": "核心家庭", "type": "term" },
+        { "en": "traditional family", "cn": "传统家庭", "type": "term" },
+        { "en": "the bond between husband and wife", "cn": "夫妻之间的纽带", "type": "term" },
+        { "en": "extended family", "cn": "大家庭/扩展家庭", "type": "term" },
+        { "en": "grandparents", "cn": "祖父母", "type": "term" },
+        { "en": "family-friendly", "cn": "对家庭友好的", "type": "term" },
+        { "en": "child-friendly", "cn": "对儿童友好的", "type": "term" },
+        { "en": "environmentally-friendly", "cn": "环保的", "type": "term" },
+        { "en": "anti-discrimination law", "cn": "反歧视法", "type": "term" },
+        { "en": "legislation", "cn": "立法", "type": "term" },
+        { "en": "Children Act 1989", "cn": "《1989 年儿童法》", "type": "term" },
+        { "en": "childcare", "cn": "儿童照护", "type": "term" },
+        { "en": "time pressures", "cn": "时间压力", "type": "term" },
+        { "en": "intimacy", "cn": "亲密感", "type": "term" },
+        { "en": "social policy", "cn": "社会政策", "type": "term" }
+      ],
+      "grammar": [
+        {
+          "name": "定语从句（关系代词）",
+          "detail": "阅读中最高频的复杂句结构。that / which / who 引导，修饰前面的名词。",
+          "examples": [
+            { "en": "a family-friendly society that would have less crime", "cn": "that 引导定语从句" },
+            { "en": "parents who live together", "cn": "who 引导定语从句" }
+          ]
+        },
+        {
+          "name": "同位语（appositive）",
+          "detail": "紧跟名词后的解释性短语，用来介绍人名/机构全称。",
+          "examples": [
+            { "en": "Lord Browne of Madingley", "cn": "布罗恩勋爵（of + 地名）" },
+            { "en": "the National Union of Students", "cn": "全国学生会" }
+          ]
+        },
+        {
+          "name": "被动语态",
+          "detail": "学术文章高频。主动↔被动的转换常出现在 Matching Headings 与 TFNG 题目中。",
+          "examples": [
+            { "en": "Parenting would become a school subject", "cn": "（虚拟/被动）育儿将成为一门学校课程" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "标题匹配",
+          "title": "Choose the correct heading for sections A–E from the list of numbered headings i–ix",
+          "fields": [
+            { "label": "A", "given": "→ ?" },
+            { "label": "B", "given": "→ ?" },
+            { "label": "C", "given": "→ ?" },
+            { "label": "D", "given": "→ ?" },
+            { "label": "E", "given": "→ ?" }
+          ],
+          "limit": "答案写罗马数字（i–ix），有 4 个多余"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Health care",
+      "titleCn": "医疗健康",
+      "topic": "Health and fitness（健康与健身）",
+      "page": "p.16–23",
+      "questionTypes": ["Summary completion", "Completing diagrams"],
+      "aims": {
+        "examSkills": "略读抓大意、扫读定位、图表填空、段落功能概括",
+        "languageDevelopment": "信息流向判断（general→specific）、段落功能动词库",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Completing diagrams（图表填空）",
+          "points": [
+            "<b>图表层级 = 原文层级</b>（中心概念 → 分支）。",
+            "<b>图表不一定包含原文全部信息</b>（The diagram may not include all the information in the passage）。",
+            "字数限制通常为 <b>NO MORE THAN FOUR WORDS</b>。"
+          ]
+        },
+        {
+          "title": "信息流向判断",
+          "points": [
+            "阅读文章要能判断是 <b>general → specific</b>（先普遍规律，后具体案例）还是 <b>specific → general</b>。",
+            "本单元 Passage 1–4 结构：① 总起（所有社会都有脆弱群体 + 定义）② 社会观念（家庭责任 vs 国家责任）③ 对弱势群体态度的差异 + 财富分配 ④ 英国国家介入的历史（1601 Poor Law → 20 世纪初）= <b>由一般到具体</b>。"
+          ]
+        }
+      ],
+      "examTips": [
+        "<b>The diagram may not include all the information in the passage.</b>（图表不一定包含原文全部信息 → 漏掉的原文信息不必填）"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "段落功能概括词库",
+          "detail": "写主旨句/概括段落时用标准动词，能直接提升 Coherence and Cohesion 分数。",
+          "examples": [
+            { "en": "introduces the topic of vulnerable people by giving a definition", "cn": "通过给出定义引入弱势群体这一话题" },
+            { "en": "describes / explains / discusses", "cn": "描述 / 解释 / 讨论" },
+            { "en": "gives examples / summarises / contrasts", "cn": "举例 / 总结 / 对比" },
+            { "en": "states a cause and effect", "cn": "陈述因果关系" }
+          ]
+        },
+        {
+          "name": "扫读定位法（Scanning）",
+          "detail": "题干关键词 → 段落首尾句 + 信号词（However, In fact, Not until）。",
+          "examples": [
+            { "en": "However,", "cn": "转折 → 段落重点常在此后" },
+            { "en": "In fact,", "cn": "强调事实" },
+            { "en": "Not until the opening years...", "cn": "时间限定" }
+          ]
+        },
+        {
+          "name": "图表填空的锚点定位",
+          "detail": "从图表分支词出发，在原文中找同义表达。已给的词（colours, lifestyle, social factors, type of employment, crust/tubes）都是定位锚点。",
+          "examples": [
+            { "en": "Objective characteristics of bodies", "cn": "← the two most common explanations for objective differences" },
+            { "en": "Influences on objective characteristics of bodies", "cn": "← The shapes of people's bodies are often actually linked to diets, type of employment and general quality of life" },
+            { "en": "genetic differences (height, weight, etc.) / changes as people age", "cn": "客观差异两项" },
+            { "en": "attractive / ugly, young or old, short or tall, weak or strong", "cn": "主观评价四项" },
+            { "en": "unhealthy foods / repetitive physically demanding work / worse housing conditions / disadvantaged neighbourhoods", "cn": "社会经济因素四项" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "vulnerable people", "cn": "弱势群体", "type": "term" },
+        { "en": "poverty", "cn": "贫困", "type": "term" },
+        { "en": "squalor", "cn": "肮脏破败", "type": "term" },
+        { "en": "disease", "cn": "疾病", "type": "term" },
+        { "en": "ignorance", "cn": "无知", "type": "term" },
+        { "en": "idleness", "cn": "懒惰", "type": "term" },
+        { "en": "the 'five giants'", "cn": "「五大巨人」（贫困五因）", "type": "term" },
+        { "en": "1601 Poor Law", "cn": "《1601 年济贫法》", "type": "term" },
+        { "en": "charitable support", "cn": "慈善救济", "type": "term" },
+        { "en": "the wealth of the nation", "cn": "国家财富", "type": "term" },
+        { "en": "genetic differences", "cn": "遗传差异", "type": "term" },
+        { "en": "sedentary employment", "cn": "久坐型工作", "type": "term" },
+        { "en": "disadvantaged neighbourhoods", "cn": "弱势社区", "type": "term" }
+      ],
+      "grammar": [
+        {
+          "name": "名词化 / 动名词主语",
+          "detail": "学术文本把动作变成名词，读懂是理解段落的关键。",
+          "examples": [
+            { "en": "Being able to…", "cn": "（动名词主语）" },
+            { "en": "Not until the opening years of the twentieth century did the state become involved.", "cn": "（否定 + 倒装）" }
+          ]
+        },
+        {
+          "name": "被动语态：观点类表达",
+          "detail": "被动语态常用于表达社会对某群体的看法（态度、偏见）。",
+          "examples": [
+            { "en": "the vulnerable are seen as 'lazy'", "cn": "弱势群体被视为『懒惰』" },
+            { "en": "may be seen as the result of…", "cn": "可能被视为……的结果" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "图表填空",
+          "title": "Objective / subjective characteristics of bodies",
+          "fields": [
+            { "label": "中心节点", "given": "Objective characteristics of bodies" },
+            { "label": "分支 1", "given": "Influences on objective characteristics of bodies" },
+            { "label": "客观差异 1", "given": "genetic differences (height, weight, etc.)" },
+            { "label": "客观差异 2", "given": "changes as people age" },
+            { "label": "主观评价", "given": "attractive / ugly, young or old, short or tall, weak or strong" },
+            { "label": "社会经济 1", "given": "unhealthy foods" },
+            { "label": "社会经济 2", "given": "repetitive physically demanding work" },
+            { "label": "社会经济 3", "given": "worse housing conditions" },
+            { "label": "社会经济 4", "given": "more disadvantaged neighbourhoods" }
+          ],
+          "limit": "NO MORE THAN FOUR WORDS"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Getting an education",
+      "titleCn": "教育",
+      "topic": "Education（教育）",
+      "page": "p.24–33",
+      "questionTypes": ["Matching summaries", "Short-answer questions"],
+      "aims": {
+        "examSkills": "摘要匹配（扫读）、短答案题",
+        "languageDevelopment": "人物/机构定位法、观点标记词",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Exam information: Short-answer questions",
+          "points": [
+            "This task tests your ability to <b>find and understand specific information</b> in a passage that contains a lot of factual information and detail.",
+            "You will be given a passage and a set of questions. You will have to read the passage and use the detailed information to answer each question with a <b>short answer（not a sentence）</b>.",
+            "答的是<b>短语</b>，不是完整句子。"
+          ]
+        },
+        {
+          "title": "Matching summaries 规则",
+          "points": [
+            "<b>Skim-read</b>（扫读）the passage and match the summaries to the paragraphs.",
+            "<b>有两个多余的摘要</b>（There are two extra summaries you do not need）→ 有干扰项。"
+          ]
+        }
+      ],
+      "examTips": [],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "人名 / 机构名定位法",
+          "detail": "摘要里若含人名、机构名，直接扫原文找到对应段落。这是最高效的定位方式。",
+          "examples": [
+            { "en": "NUS (Aaron Porter)", "cn": "→ 找 Aaron Porter 出现的段落" },
+            { "en": "Universities UK (Steve Smith)", "cn": "→ 找 Steve Smith" },
+            { "en": "Lord Browne / Professor Les Ebdon / BP", "cn": "→ 直接定位" }
+          ]
+        },
+        {
+          "name": "观点标记词定位法",
+          "detail": "找 warned、said、argued、criticised、defended 等词，能定位到「反应类」段落。",
+          "examples": [
+            { "en": "The reaction of the NUS", "cn": "→ 找 NUS 说话/被引用的段落" },
+            { "en": "The reaction of universities", "cn": "→ 找 defended / criticised" },
+            { "en": "Detailed information about the review recommendations", "cn": "→ 找含具体数字/条款的段落" }
+          ]
+        },
+        {
+          "name": "「含数字的段落」= 数据类摘要",
+          "detail": "要摘要「详细建议」，就去含具体金额、百分比的段落。",
+          "examples": [
+            { "en": "£21,000 / 9 percent / 2.2 percent / 30 years / 25 years / £3,750 / £3,250 / £25,000 / £60,000", "cn": "→ Browne 报告的具体条款数字" }
+          ]
+        },
+        {
+          "name": "同义替换对照（Matching summaries 核心）",
+          "detail": "摘要用词往往不是原文用词，要建立双向映射。",
+          "examples": [
+            { "en": "proposals ≈ plans / review", "cn": "提案 ≈ 计划/评估" },
+            { "en": "graduates repay loans ≈ pay back student loans", "cn": "毕业生偿还贷款" },
+            { "en": "union leaders ≈ NUS", "cn": "工会领袖 ≈ 全国学生会" },
+            { "en": "social mobility ≈ opportunity", "cn": "社会流动性 ≈ 机会" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "tuition fees", "cn": "学费", "type": "term" },
+        { "en": "top-flight institutions", "cn": "顶尖院校", "type": "term" },
+        { "en": "vice-chancellors", "cn": "大学校长", "type": "term" },
+        { "en": "student loans", "cn": "学生贷款", "type": "term" },
+        { "en": "loan threshold", "cn": "贷款门槛", "type": "term" },
+        { "en": "repay", "cn": "偿还", "type": "term" },
+        { "en": "maintenance grants", "cn": "生活补助", "type": "term" },
+        { "en": "household income", "cn": "家庭收入", "type": "term" },
+        { "en": "student places", "cn": "学生名额", "type": "term" },
+        { "en": "part-time students", "cn": "非全日制学生", "type": "term" },
+        { "en": "social mobility", "cn": "社会流动性", "type": "term" },
+        { "en": "disadvantaged backgrounds", "cn": "弱势背景", "type": "term" },
+        { "en": "student union", "cn": "学生会", "type": "term" },
+        { "en": "blank cheque", "cn": "空白支票（不受限制的授权）", "type": "term" },
+        { "en": "market price", "cn": "市场价", "type": "term" }
+      ],
+      "grammar": [
+        {
+          "name": "间接引语（reported speech）",
+          "detail": "阅读中常见的「他说……」要还原成陈述句理解。",
+          "examples": [
+            { "en": "\"the student is in charge\"", "cn": "「学生自己负责」" },
+            { "en": "\"we will follow the quality\"", "cn": "「我们会坚持质量标准」" }
+          ]
+        },
+        {
+          "name": "强调句与倒装",
+          "detail": "It is ... who ... 用于强调主语，干扰句子结构理解。",
+          "examples": [
+            { "en": "It is they who feared…", "cn": "正是他们感到害怕" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "摘要匹配",
+          "title": "Matching summaries（有两个多余摘要）",
+          "fields": [
+            { "label": "Introduction of the plans", "given": "→ ?" },
+            { "label": "More background and some details", "given": "→ ?" },
+            { "label": "Detailed information about the review recommendations", "given": "→ ?" },
+            { "label": "Defence of the plans", "given": "→ ?" },
+            { "label": "The reaction of students", "given": "→ ?" },
+            { "label": "The reaction of the NUS", "given": "→ ?" },
+            { "label": "The reaction of universities", "given": "→ ?" },
+            { "label": "The reaction of unions and newer universities", "given": "→ ?" },
+            { "label": "Advice for graduates seeking employment", "given": "→ ?" }
+          ],
+          "limit": "答案写段落字母，多 2 个干扰摘要"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Water",
+      "titleCn": "水",
+      "topic": "Nature and the environment（自然与环境）",
+      "page": "p.34–41",
+      "questionTypes": ["Matching sentence endings"],
+      "aims": {
+        "examSkills": "句子配对（用句末词预测下一个语法词）",
+        "languageDevelopment": "正式 vs 非正式词汇、词的「使用场合」而非「词义」",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Exam information: Matching sentence endings",
+          "points": [
+            "This task tests your ability to <b>understand the main ideas of specific sentences</b> in a passage.",
+            "You will be given a set of sentence beginnings, a set of sentence endings and a passage. The sentence beginnings are <b>based on information in the passage</b>.",
+            "把句子开头与<b>最合适的</b>句子结尾匹配。",
+            "<b>开头多于结尾</b>（Exercise 2 为 8 个开头 vs 8 个结尾，其中多出的一个类型为 \"extra type of word\"）→ 存在干扰项。"
+          ]
+        }
+      ],
+      "examTips": [
+        "<b>When matching sentences, use the final words in the sentence beginnings to predict the next grammatical word.</b>（用句首的最后一个词预测下一个语法词）"
+      ],
+      "watchOuts": [
+        "<b>Think about when and how a word is used – not just the meaning of a word.</b> The formality of a word varies according to the situation and the people involved.（不只看词义，更要看词在什么场合被使用；正式度随情境与人物而变）"
+      ],
+      "techniques": [
+        {
+          "name": "句末词 → 预测下一个语法词",
+          "detail": "这是句子配对题的核心方法。看句首最后一个词属于哪一类，就知道后面该接什么。",
+          "examples": [
+            { "en": "are responsible for + noun", "cn": "介词 for 后接名词" },
+            { "en": "are unaware of + noun / doing", "cn": "介词 of 后接名词或动名词" },
+            { "en": "don't think about + noun / doing", "cn": "about 后接名词或动名词" },
+            { "en": "accepted the link + noun", "cn": "接名词" },
+            { "en": "accepted the link + linking phrase (between A and B)", "cn": "接介词短语" },
+            { "en": "save a further £3 billion + noun / preposition (in/on/over)", "cn": "接名词或介词" }
+          ]
+        },
+        {
+          "name": "识别词性（Understanding types of words）",
+          "detail": "选项框里的词分属：linking word / phrase、noun (or pronoun)、noun phrase、preposition。填空前先判断空格需要哪一类。",
+          "examples": [
+            { "en": "and the benefits limited", "cn": "连接词 and" },
+            { "en": "until something goes wrong and they are in breach of legislation", "cn": "连接副词 until" },
+            { "en": "their obligations to the environment", "cn": "名词短语" },
+            { "en": "up to 80 percent of environmental crimes", "cn": "介词短语" },
+            { "en": "between environmental performance and profitability", "cn": "介词 between" },
+            { "en": "have neither the time nor the personnel to manage their environmental responsibilities", "cn": "情态动词 have" },
+            { "en": "such as switching off machines that are not in use", "cn": "such as + 分词" },
+            { "en": "through improved environmental performance", "cn": "介词 through" }
+          ]
+        },
+        {
+          "name": "正式 vs 非正式词汇（水的两套词）",
+          "detail": "正式场合用专业词，口语用日常词。考试读学术文章要用正式那套。",
+          "examples": [
+            { "en": "dam / drought / flood / lagoon / liquid / reef / reservoir / sandbank / seabed / silt", "cn": "水的正式词" },
+            { "en": "sweat / steam (vapour)", "cn": "非正式 ↔ vapour" },
+            { "en": "rain / precipitation", "cn": "非正式 ↔ 正式" },
+            { "en": "watering / irrigation", "cn": "非正式 ↔ 正式" },
+            { "en": "drink / beverage", "cn": "非正式 ↔ 正式" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "SMEs (Small and medium-sized enterprises)", "cn": "中小企业", "type": "org" },
+        { "en": "environmental obligations", "cn": "环保义务", "type": "term" },
+        { "en": "environmental performance", "cn": "环保绩效", "type": "term" },
+        { "en": "profitability", "cn": "盈利能力", "type": "term" },
+        { "en": "environmental crimes", "cn": "环境犯罪", "type": "term" },
+        { "en": "breach of legislation", "cn": "违反法规", "type": "term" },
+        { "en": "energy saving", "cn": "节能", "type": "term" },
+        { "en": "compliance", "cn": "合规", "type": "term" },
+        { "en": "environmental impact", "cn": "环境影响", "type": "term" },
+        { "en": "sustainable", "cn": "可持续的", "type": "term" },
+        { "en": "pollution", "cn": "污染", "type": "term" },
+        { "en": "emissions", "cn": "排放", "type": "term" },
+        { "en": "carbon footprint", "cn": "碳足迹", "type": "term" },
+        { "en": "recycling", "cn": "回收利用", "type": "term" },
+        { "en": "renewable energy", "cn": "可再生能源", "type": "term" }
+      ],
+      "grammar": [
+        {
+          "name": "动名词与不定式作宾语",
+          "detail": "think about + doing；save + doing；to manage ...（不定式作目的状语）。",
+          "examples": [
+            { "en": "don't think about switching off machines", "cn": "动名词作宾语" },
+            { "en": "to manage their environmental responsibilities", "cn": "不定式作目的状语" }
+          ]
+        },
+        {
+          "name": "并列与指代",
+          "detail": "neither … nor …；both … and …；they / their / them 替代名词（指代还原是句子配对的关键）。",
+          "examples": [
+            { "en": "have neither the time nor the personnel", "cn": "neither…nor 并列" },
+            { "en": "machines that are not in use", "cn": "定语从句 + 指代" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "句子配对",
+          "title": "Matching sentence endings（8 个开头 ↔ 8 个结尾）",
+          "fields": [
+            { "label": "…are responsible for", "given": "→ ?" },
+            { "label": "…are unaware of", "given": "→ ?" },
+            { "label": "…don't think about", "given": "→ ?" },
+            { "label": "…accepted the link", "given": "→ ?" },
+            { "label": "…save a further £3 billion", "given": "→ ?" },
+            { "label": "…have", "given": "→ ?" },
+            { "label": "…such as", "given": "→ ?" },
+            { "label": "…through", "given": "→ ?" }
+          ],
+          "limit": "答案写结尾字母；有 1 个多余类型"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Non-verbal clues",
+      "titleCn": "非语言线索",
+      "topic": "Language and communication（语言与交流）",
+      "page": "p.42–49",
+      "questionTypes": ["Multiple-choice questions", "Matching information", "Summary（best summary）"],
+      "aims": {
+        "examSkills": "多选题、全文概括、信息匹配",
+        "languageDevelopment": "前缀构词法推断词义、动词 + 介词搭配",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Exam information: Multiple-choice questions",
+          "points": [
+            "This task tests a wide range of reading skills, from an <b>overall understanding</b> of the passage to a <b>detailed understanding</b> of specific points.",
+            "You will be given a passage and a set of multiple-choice questions. The questions have multiple options and <b>the instructions will tell you how many are correct (one, two or three)</b>."
+          ]
+        },
+        {
+          "title": "Matching information",
+          "points": [
+            "Read the passage again and match the ideas to the paragraphs. <b>There is one extra idea.</b>（多一个干扰项）",
+            "备选 idea 池示例：active listening、communication skills in sales、good management、increase profits、what 'good communication' means。"
+          ]
+        }
+      ],
+      "examTips": [
+        "<b>Learning word patterns, like which prepositions follow a verb, is another simple way to increase your lexical knowledge.</b> It will help you understand the meaning of sentences and details in the exam."
+      ],
+      "watchOuts": [
+        "<b>Learning prefixes is a useful way to work out the meaning of specific details.</b> Think about the meaning of the base word and then apply the meaning of the prefix: <b>illegal</b> entry = an entry that is the opposite of legal, so the entry is <b>not legal</b>."
+      ],
+      "techniques": [
+        {
+          "name": "前缀构词法推断词义",
+          "detail": "读懂前缀 = 读懂生词。考试里 illegal / incomplete / illegible / miscommunication 这类词全靠前缀推断。",
+          "examples": [
+            { "en": "not-", "cn": "= not（不）" },
+            { "en": "dis-", "cn": "= leave or remove（分离/取消）" },
+            { "en": "un-", "cn": "= not or the opposite（相反）" },
+            { "en": "in- / im- / il-", "cn": "= not correct（不正确）" },
+            { "en": "mis-", "cn": "= 错误地（miscommunication）" },
+            { "en": "re- / pre- / over- / under- / sub- / inter- / co-", "cn": "中性前缀（receive / pre- / over / under / sub / inter / co）" }
+          ]
+        },
+        {
+          "name": "动词 + sign 的搭配族",
+          "detail": "一个动词多个介词/宾语搭配，每个都是独立考点。",
+          "examples": [
+            { "en": "sign a contract", "cn": "签合同" },
+            { "en": "sign for an important delivery", "cn": "签收重要货物" },
+            { "en": "sign away their rights to compensation", "cn": "放弃赔偿权利" },
+            { "en": "sign up for the broadband offer", "cn": "报名宽带优惠" },
+            { "en": "sign in progress with the repair work", "cn": "签到并开始维修工作" },
+            { "en": "sign in before they can enter the conference hall", "cn": "进入会场前签到" }
+          ]
+        },
+        {
+          "name": "全文概括：干扰项的两个特征",
+          "detail": "选 best summary 时，错误选项通常是：① <b>范围过窄/片面</b> ② <b>过于具体、只覆盖片段</b>。正确摘要必须覆盖全文核心。",
+          "examples": [
+            { "en": "干扰项 a", "cn": "只讲 communication skills 对 business 的重要性（范围过窄）" },
+            { "en": "干扰项 b", "cn": "只覆盖 managers 对 customers 的做法（过于具体）" },
+            { "en": "正确摘要", "cn": "沟通是销售的核心：倾听、共情、建立关系、active listening" }
+          ]
+        },
+        {
+          "name": "题干关键词 → 原文定位",
+          "detail": "在题目中划出关键词/短语，再扫读定位。",
+          "examples": [
+            { "en": "Q1 Why has it been difficult to establish a link between the calls of monkeys and people's musical preferences?", "cn": "→ 定位 'it took scientists a long time to establish a link between monkeys' calls and human music'" },
+            { "en": "Q3 Is it true that monkeys appeared calmer when listening to the rock band Metallica?", "cn": "→ 关键词 calmer / rock band Metallica" },
+            { "en": "Q4 Who suggested this new kind of study to Professor Snowdon?", "cn": "→ 关键词 suggested / Professor Snowdon" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "communication skills", "cn": "沟通技巧", "type": "term" },
+        { "en": "empathise", "cn": "共情", "type": "term" },
+        { "en": "rapport", "cn": "融洽关系", "type": "term" },
+        { "en": "customer service", "cn": "客户服务", "type": "term" },
+        { "en": "active listening", "cn": "积极倾听", "type": "term" },
+        { "en": "listening skills", "cn": "倾听技巧", "type": "term" },
+        { "en": "clarify", "cn": "澄清", "type": "term" },
+        { "en": "repeat custom", "cn": "回头客", "type": "term" },
+        { "en": "refunds", "cn": "退款", "type": "term" },
+        { "en": "bottom line of a business' finances", "cn": "企业财务底线", "type": "term" },
+        { "en": "miscommunication", "cn": "沟通错误", "type": "term" },
+        { "en": "uninformed", "cn": "不知情的", "type": "term" },
+        { "en": "incomplete", "cn": "不完整的", "type": "term" },
+        { "en": "illegible", "cn": "难以辨认的", "type": "term" },
+        { "en": "discharging patients", "cn": "准许病人出院", "type": "term" }
+      ],
+      "grammar": [
+        {
+          "name": "动词 + 介词搭配",
+          "detail": "介词后接名词或动名词。",
+          "examples": [
+            { "en": "respond to the answers", "cn": "回应答案" },
+            { "en": "listen to / ask for", "cn": "听 / 询问" },
+            { "en": "be good at", "cn": "擅长" }
+          ]
+        },
+        {
+          "name": "动名词作主语 + 分词状语",
+          "detail": "「Returning goods, refunds and the loss of repeat custom…」；「Not listening costs money in the world of sales」。",
+          "examples": [
+            { "en": "Returning goods, refunds and the loss of repeat custom", "cn": "（动名词主语）" },
+            { "en": "Not listening costs money in the world of sales – returned goods, refunds…", "cn": "（分词状语 + 破折号补充）" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "全文概括",
+          "title": "Choose the best summary（4 选 1）",
+          "fields": [
+            { "label": "a", "given": "（范围过窄的干扰项）" },
+            { "label": "b", "given": "（过于具体的干扰项）" },
+            { "label": "c / d", "given": "→ ?" }
+          ],
+          "limit": "答案写字母"
+        },
+        {
+          "type": "信息匹配",
+          "title": "Match the ideas to the paragraphs（有一多余 idea）",
+          "fields": [
+            { "label": "active listening", "given": "→ ?" },
+            { "label": "communication skills in sales", "given": "→ ?" },
+            { "label": "good management", "given": "→ ?" },
+            { "label": "increase profits", "given": "→ ?" },
+            { "label": "what 'good communication' means", "given": "→ ?" }
+          ],
+          "limit": "答案写段落字母"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Scientists at work",
+      "titleCn": "科学家的工作",
+      "topic": "Science and technology（科学与技术）",
+      "page": "p.50–59",
+      "questionTypes": ["Summary completion", "Completing diagrams", "Diagram labelling"],
+      "aims": {
+        "examSkills": "图表填空与标注、扫读定位",
+        "languageDevelopment": "词根后缀构词、科学家职业名词",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Completing diagrams / Diagram labelling",
+          "points": [
+            "Read the passage and complete the diagrams. <b>Use a dictionary if necessary.</b>",
+            "<b>先看图找层级</b>：中心节点 \"Scientific topics\" 5 个分支；\"Scientific equipment\" 4 个分支。",
+            "<b>图表不一定涵盖原文全部信息</b>（Exam tutor: Does the diagram represent all the information in the passage? → <b>No</b>）。",
+            "每格 <b>NO MORE THAN FOUR WORDS</b>。"
+          ]
+        }
+      ],
+      "examTips": [],
+      "watchOuts": [
+        "<b>Knowing the origins of a word can help you work out its meaning.</b>",
+        "The noun for a person who works in a particular science often ends in <b>-er</b> or <b>-ist</b>. Another common ending is <b>-ian</b>, e.g. statistician."
+      ],
+      "techniques": [
+        {
+          "name": "学科后缀 -ology / -metry / -graphy / -ics",
+          "detail": "背下这些后缀 = 打开整片学科词汇。",
+          "examples": [
+            { "en": "-ology = the science or study of", "cn": "→ biology, ecology, geology, palaeontology, pharmacology, meteorology, psychology, sociology" },
+            { "en": "-metry = the measuring of", "cn": "→ geometry, optometry" },
+            { "en": "-graphy = the writing or drawing of", "cn": "→ geography" },
+            { "en": "-ics（复数）= 学科", "cn": "→ genetics, physics, economics" },
+            { "en": "其他", "cn": "→ chemistry, astronomy, zoology, anatomy" }
+          ]
+        },
+        {
+          "name": "希腊语词根拆解",
+          "detail": "知道词根 = 看到生词也能猜出大致意思。",
+          "examples": [
+            { "en": "astron = star", "cn": "→ astronomy（研究星星）" },
+            { "en": "bios = life", "cn": "→ biology（研究生命）" },
+            { "en": "-logy = the science or study of", "cn": "→ -ology 系" },
+            { "en": "-metry = the measuring of", "cn": "→ -metry 系" },
+            { "en": "-nomy = the arranging of", "cn": "→ economy（经济的安排）、astronomy" },
+            { "en": "zoo = animal", "cn": "→ zoology" }
+          ]
+        },
+        {
+          "name": "科学家职业名词：动词 + -er / -ist / -ian",
+          "detail": "由「做什么」推出「谁在做」。",
+          "examples": [
+            { "en": "draw maps → cartographer", "cn": "制图师" },
+            { "en": "study biology → biologist", "cn": "生物学家" },
+            { "en": "study genetics → geneticist", "cn": "遗传学家" },
+            { "en": "study the human eye → ophthalmologist", "cn": "眼科医生" },
+            { "en": "study palaeontology → palaeontologist", "cn": "古生物学家" },
+            { "en": "study ecology → ecologist", "cn": "生态学家" },
+            { "en": "study astronomy → astronomer", "cn": "天文学家" },
+            { "en": "study geology → geologist", "cn": "地质学家" }
+          ]
+        },
+        {
+          "name": "图表填空的扫读技巧",
+          "detail": "从图表每个分支词出发，在原文中找<b>同义表达</b>。",
+          "examples": [
+            { "en": "\"test tubes, flasks, microscopes and centrifuges\"", "cn": "→ 对应 equipment 分支" },
+            { "en": "cell division / tooth decay / cloning / gene therapy", "cn": "→ 对应 cells 分支" },
+            { "en": "The Institute of Cell and Molecular Science (ICMS)", "cn": "→ 设备类段落定位" }
+          ]
+        },
+        {
+          "name": "地图标注：已知项 + 常识 + 上下文",
+          "detail": "用已知锚点推断缺失词。数字题注意<b>单位与表达形式</b>：图中已给单位，答题处只填数字；反之要带单位。",
+          "examples": [
+            { "en": "5 __ miles / 15 miles", "cn": "（单位已给，填数字）" },
+            { "en": "Eyjafjallajökull / crust / tubes", "cn": "已知锚点" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "marine biology", "cn": "海洋生物学", "type": "term" },
+        { "en": "optometry", "cn": "验光学", "type": "term" },
+        { "en": "geography", "cn": "地理学", "type": "term" },
+        { "en": "genetics", "cn": "遗传学", "type": "term" },
+        { "en": "chemistry", "cn": "化学", "type": "term" },
+        { "en": "anatomy", "cn": "解剖学", "type": "term" },
+        { "en": "astronomy", "cn": "天文学", "type": "term" },
+        { "en": "biology", "cn": "生物学", "type": "term" },
+        { "en": "ecology", "cn": "生态学", "type": "term" },
+        { "en": "geology", "cn": "地质学", "type": "term" },
+        { "en": "geometry", "cn": "几何学", "type": "term" },
+        { "en": "palaeontology", "cn": "古生物学", "type": "term" },
+        { "en": "pharmacology", "cn": "药理学", "type": "term" },
+        { "en": "meteorology", "cn": "气象学", "type": "term" },
+        { "en": "zoology", "cn": "动物学", "type": "term" },
+        { "en": "cell division", "cn": "细胞分裂", "type": "term" },
+        { "en": "tooth decay", "cn": "蛀牙", "type": "term" },
+        { "en": "cloning", "cn": "克隆", "type": "term" },
+        { "en": "gene therapy", "cn": "基因治疗", "type": "term" },
+        { "en": "test tubes / flasks / microscopes / centrifuges", "cn": "试管/烧瓶/显微镜/离心机", "type": "term" },
+        { "en": "geothermal", "cn": "地热的", "type": "term" },
+        { "en": "crust", "cn": "地壳", "type": "term" },
+        { "en": "tubes", "cn": "管道", "type": "term" },
+        { "en": "Eyjafjallajökull", "cn": "埃亚菲亚德拉霍尔火山", "type": "place" },
+        { "en": "the Earth's crust", "cn": "地壳", "type": "term" }
+      ],
+      "grammar": [
+        {
+          "name": "名词后缀构词",
+          "detail": "-er / -ist / -ian 表示从事某学科的人。这是构词法（词汇）与语法交叉的考点。",
+          "examples": [
+            { "en": "a statistician", "cn": "统计学家（-ian）" },
+            { "en": "a biologist", "cn": "生物学家（-ist）" }
+          ]
+        },
+        {
+          "name": "定语从句 where 引导",
+          "detail": "先行词是地点/场所时用 where。",
+          "examples": [
+            { "en": "a special pod or room with many interactive screens – where they can learn about the basics of cell biology and genetics", "cn": "where 引导定语从句" }
+          ]
+        },
+        {
+          "name": "被动语态",
+          "detail": "科研文章大量使用被动。",
+          "examples": [
+            { "en": "were asked to describe", "cn": "（被动）" },
+            { "en": "would be able to observe", "cn": "（被动 + 情态动词）" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "图表填空",
+          "title": "Scientific topics & Scientific equipment",
+          "fields": [
+            { "label": "Scientific topics 1", "given": "cells" },
+            { "label": "Scientific topics 2", "given": "body" },
+            { "label": "Scientific topics 3", "given": "chemistry" },
+            { "label": "Scientific topics 4", "given": "physics" },
+            { "label": "Scientific topics 5", "given": "genetics" },
+            { "label": "Scientific topics 6", "given": "environment" },
+            { "label": "Scientific equipment 1", "given": "test tubes" },
+            { "label": "Scientific equipment 2", "given": "flasks" },
+            { "label": "Scientific equipment 3", "given": "microscopes" },
+            { "label": "Scientific equipment 4", "given": "centrifuges" }
+          ],
+          "limit": "NO MORE THAN FOUR WORDS"
+        },
+        {
+          "type": "地图标注",
+          "title": "地热电站示意图（冰岛）",
+          "fields": [
+            { "label": "1–7", "given": "已知锚点：Eyjafjallajökull、15 miles、5 miles、crust、tubes" }
+          ],
+          "limit": "NO MORE THAN FOUR WORDS"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The job market",
+      "titleCn": "就业市场",
+      "topic": "Employment and finances（就业与财务）",
+      "page": "p.60–69",
+      "questionTypes": ["Summary completion"],
+      "aims": {
+        "examSkills": "摘要填空、预测缺词词性、略读定位",
+        "languageDevelopment": "行业与职业描述的同义替换",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Summary completion 规则（Exam tutor 五问）",
+          "points": [
+            "<b>What can you predict about the missing word?</b> → 根据语法/词性预测（冠词后填名词、单复数）",
+            "<b>Why is it a good strategy to skim the passage first?</b> → 先 skimming 掌握段落大意，再定位细节",
+            "<b>Which paragraphs will be relevant to the summary?</b> → 摘要对应特定几个段落，其余是干扰",
+            "<b>What are the different types of summaries in this task?</b> → 原文摘要 / 改写摘要 / 关键词摘要（<b>关键词摘要拼写必须与原文一致</b>）",
+            "<b>What is the word limit for your answers?</b> → 按题目要求（如 NO MORE THAN THREE WORDS）"
+          ]
+        }
+      ],
+      "examTips": [],
+      "watchOuts": [
+        "<b>Remember to learn the correct spelling of new words. Incorrect spelling means an incorrect answer in the exam.</b>"
+      ],
+      "techniques": [
+        {
+          "name": "行业 → 描述 同义替换表",
+          "detail": "考试中行业/职业常以<b>释义</b>形式出现，必须建立双向对应表。",
+          "examples": [
+            { "en": "acting", "cn": "providing services for tourists（导游）" },
+            { "en": "property / real estate", "cn": "selling houses, buildings, and land" },
+            { "en": "the law", "cn": "providing expert advice to a company or organization" },
+            { "en": "catering", "cn": "the business of farming land or animals to make food or drink" },
+            { "en": "armed forces", "cn": "building houses, factories, roads, bridges, etc." },
+            { "en": "journalism", "cn": "producing goods in large numbers" }
+          ]
+        },
+        {
+          "name": "摘要填空的定位技巧",
+          "detail": "先看摘要对应的段落范围，再看<b>表格标题/小标题</b>，最后用数据型关键词定位。",
+          "examples": [
+            { "en": "The key information is contained in the subject tables, which now cover every area of higher education.", "cn": "→ 摘要对应段落" },
+            { "en": "climbers at the top of the table / up from 43 to 28 / remains the top university", "cn": "→ 数据型关键词" }
+          ]
+        },
+        {
+          "name": "干扰段落识别",
+          "detail": "解释「为什么表格只有这么多行」的段落（如某大学拒绝公布数据）通常<b>不是</b>摘要考点。",
+          "examples": [
+            { "en": "The number of institutions in this year's tables has increased by only one because a fourth university – the West of Scotland – has instructed the Higher Education Statistics Agency not to release its data.", "cn": "→ 干扰段落（含原因说明）" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "job sectors", "cn": "行业", "type": "term" },
+        { "en": "acting", "cn": "演艺业", "type": "term" },
+        { "en": "the armed forces", "cn": "军队", "type": "term" },
+        { "en": "catering", "cn": "餐饮业", "type": "term" },
+        { "en": "journalism", "cn": "新闻业", "type": "term" },
+        { "en": "property / real estate", "cn": "房地产", "type": "term" },
+        { "en": "retail", "cn": "零售", "type": "term" },
+        { "en": "the law", "cn": "法律", "type": "term" },
+        { "en": "recruit / recruitment", "cn": "招聘", "type": "term" },
+        { "en": "vacancies", "cn": "职位空缺", "type": "term" },
+        { "en": "trainee", "cn": "实习生/受训者", "type": "term" },
+        { "en": "shift", "cn": "轮班", "type": "term" },
+        { "en": "payroll", "cn": "工资表", "type": "term" },
+        { "en": "redundancy", "cn": "裁员", "type": "term" },
+        { "en": "nationally-recognised qualification", "cn": "国家认可资格", "type": "term" },
+        { "en": "job centre", "cn": "就业中心", "type": "place" },
+        { "en": "league tables", "cn": "大学排名榜", "type": "term" },
+        { "en": "subject tables", "cn": "学科排名表", "type": "term" },
+        { "en": "the Higher Education Statistics Agency", "cn": "高等教育统计局", "type": "org" }
+      ],
+      "grammar": [
+        {
+          "name": "比较级与最高级",
+          "detail": "排名类文章的核心语法。",
+          "examples": [
+            { "en": "biggest climbers", "cn": "升幅最大（比较级）" },
+            { "en": "the top university", "cn": "顶尖大学（最高级）" },
+            { "en": "the clear leader in Wales", "cn": "威尔士的明显领先者" }
+          ]
+        },
+        {
+          "name": "定语从句与被动语态",
+          "detail": "排名文章常用非限制性定语从句补充说明。",
+          "examples": [
+            { "en": "a fourth university – the West of Scotland – which has instructed…", "cn": "which 定语从句" },
+            { "en": "has increased by only one / instructed the Agency not to release its data", "cn": "被动语态" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "摘要填空",
+          "title": "University & college rankings（Summary completion）",
+          "fields": [
+            { "label": "关键词摘要 1", "given": "→ ?" },
+            { "label": "关键词摘要 2", "given": "→ ?" }
+          ],
+          "limit": "NO MORE THAN THREE WORDS；关键词摘要拼写须与原文一致"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Life's journey",
+      "titleCn": "人生旅程",
+      "topic": "Youth and life stages（青年与人生阶段）",
+      "page": "p.70–77",
+      "questionTypes": ["True / False / Not Given"],
+      "aims": {
+        "examSkills": "TFNG 判定、题目顺序定位、主题定位、改述",
+        "languageDevelopment": "人生事件搭配、人生阶段排序",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Exam information: True / False / Not Given",
+          "points": [
+            "<b>TRUE</b> – if the text confirms the statement（原文证实了陈述）",
+            "<b>FALSE</b> – if the text confirms the opposite of the statement（原文证实了陈述的相反内容）",
+            "<b>NOT GIVEN</b> – if it is impossible to know from the text（无法从原文得知）",
+            "<b>绝对禁止使用个人知识</b>（常识、现实经验一律不算依据）。"
+          ]
+        }
+      ],
+      "examTips": [
+        "The questions are in the <b>same order as the text</b>. For example, the information you need for Question 3 will be <b>after</b> Question 2 and <b>before</b> Question 4.",
+        "You must <b>only use the information in the passage</b> when deciding if a statement is true or false. <b>Do not use your own personal knowledge</b> of the subject."
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "TFNG 三分法核心",
+          "detail": "TRUE = 一致；FALSE = 矛盾；NOT GIVEN = 原文未涉及（<b>不是「你没读懂」</b>）。判定顺序：先找原文证据 → 再看是「一致」「相反」还是「没提」。",
+          "examples": [
+            { "en": "\"Unemployment is now worse than it has ever been over the last fourteen years.\" → 原文 '14-year high'", "cn": "→ TRUE（worst since ↔ 14-year high）" },
+            { "en": "\"The majority of McDonald's employees are over 60.\" → 原文 '20 percent higher in those branches employing workers over 60'", "cn": "→ FALSE（percentage higher ≠ majority）" },
+            { "en": "\"The supermarkets Tesco, Asda and Sainsbury's are larger than Morrisons.\"", "cn": "→ NOT GIVEN（原文未给）" },
+            { "en": "\"Morrisons supermarket is financially in a good position at the moment.\" → 原文 'among the biggest recruiters'", "cn": "→ FALSE（招聘多 ≠ 财务好）" },
+            { "en": "\"Two thirds of the jobs at Morrisons will be taken up by people between 25 and 75.\" → 原文 'aged 18 to 24'", "cn": "→ FALSE" },
+            { "en": "\"Morrisons needs more people to work on their tills.\" → 原文 butchers, bakers and fishmongers + checkers", "cn": "→ FALSE（不是收银员）" }
+          ]
+        },
+        {
+          "name": "数量 / 范围的偷换陷阱",
+          "detail": "TFNG/YNNG 最常见的失分原因。原文是 a third，题目写 two thirds；原文是 more than one in six，题目写 a majority。",
+          "examples": [
+            { "en": "\"More than one in six young people are out of work\"", "cn": "≠ a majority" },
+            { "en": "\"a third of the new jobs\"", "cn": "≠ two thirds" }
+          ]
+        },
+        {
+          "name": "人生事件搭配与时间轴排序",
+          "detail": "把 life events 按时间轴排列，是本单元 Part 1 的核心练习。",
+          "examples": [
+            { "en": "maternity leave / career break / mortgage / newlywed / honeymoon / sabbatical / promotion / rent a flat / retire", "cn": "人生事件搭配" },
+            { "en": "baby → maternity leave → career break → mortgage / newlywed → honeymoon → sabbatical → promotion → rent → retirement", "cn": "时间轴顺序" }
+          ]
+        },
+        {
+          "name": "主题定位 + 改述",
+          "detail": "先给文章分块，再对每块提问。改述训练是 TFNG 的基础。",
+          "examples": [
+            { "en": "people getting married later ↔ the trend is to get married later in life", "cn": "改述对照" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "unemployment", "cn": "失业", "type": "term" },
+        { "en": "a 'lost generation'", "cn": "「迷失的一代」", "type": "term" },
+        { "en": "14-year high", "cn": "14 年来最高", "type": "term" },
+        { "en": "recruit", "cn": "招聘", "type": "term" },
+        { "en": "customer satisfaction", "cn": "顾客满意度", "type": "term" },
+        { "en": "recession", "cn": "经济衰退", "type": "term" },
+        { "en": "vacancies", "cn": "空缺职位", "type": "term" },
+        { "en": "trainees", "cn": "学员", "type": "term" },
+        { "en": "nationally-recognised qualifications", "cn": "国家认可资格", "type": "term" },
+        { "en": "maternity leave", "cn": "产假", "type": "term" },
+        { "en": "career break", "cn": "职业中断", "type": "term" },
+        { "en": "sabbatical", "cn": "休学期", "type": "term" },
+        { "en": "mortgage", "cn": "按揭贷款", "type": "term" },
+        { "en": "newlywed", "cn": "新婚夫妇", "type": "term" },
+        { "en": "honeymoon", "cn": "蜜月", "type": "term" },
+        { "en": "promotion", "cn": "晋升", "type": "term" },
+        { "en": "retire", "cn": "退休", "type": "term" },
+        { "en": "forty-something crunch", "cn": "四十多岁的中年困境", "type": "term" },
+        { "en": "in-laws", "cn": "姻亲", "type": "term" },
+        { "en": "career ladder", "cn": "职业阶梯", "type": "term" },
+        { "en": "social mobility", "cn": "社会流动性", "type": "term" }
+      ],
+      "grammar": [
+        {
+          "name": "数字与百分数的同义替换",
+          "detail": "最高频的 TFNG 考点。",
+          "examples": [
+            { "en": "a '14-year high' ↔ worse than it has ever been over the last fourteen years", "cn": "数字改述" },
+            { "en": "more than one in six", "cn": "≈ over 16%" },
+            { "en": "a third", "cn": "≈ 33%" }
+          ]
+        },
+        {
+          "name": "现在完成时 vs 过去时",
+          "detail": "现在完成时（have been waiting longer）强调对现在的影响；阅读中易被误判为过去事件。",
+          "examples": [
+            { "en": "have been waiting longer", "cn": "现在完成时" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "TFNG 判定",
+          "title": "Do the following statements agree with the information given in the following text?",
+          "fields": [
+            { "label": "Unemployment is now worse than it has ever been over the last fourteen years.", "given": "→ ?" },
+            { "label": "The majority of McDonald's employees are over 60.", "given": "→ ?" },
+            { "label": "The supermarkets Tesco, Asda and Sainsbury's are larger than Morrisons.", "given": "→ ?" },
+            { "label": "Morrisons supermarket is financially in a good position at the moment.", "given": "→ ?" },
+            { "label": "Two thirds of the jobs at Morrisons will be taken up by people between 25 and 75.", "given": "→ ?" },
+            { "label": "Morrisons needs more people to work on their tills.", "given": "→ ?" }
+          ],
+          "limit": "答案写 TRUE / FALSE / NOT GIVEN"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Community spirit",
+      "titleCn": "社区精神",
+      "topic": "People and places（人与地方）",
+      "page": "p.78–85",
+      "questionTypes": ["Matching information"],
+      "aims": {
+        "examSkills": "信息匹配（段落可重复匹配、部分段落不匹配）",
+        "languageDevelopment": "段落信息类型识别（比较/描述/解释）",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Matching information 规则",
+          "points": [
+            "Match the paragraphs A–C to the specific information 1–3. <b>You can use any letter more than once.</b>",
+            "Which paragraphs mention the following information? <b>You may use any letter more than once.</b>（7 段 A–G 对 6 个信息项）",
+            "<b>不是每个段落都会被用到</b>（有的段落不匹配任何信息）。",
+            "<b>一个段落可能匹配多条信息</b>。",
+            "答案写<b>段落字母</b>（A–G）。"
+          ]
+        }
+      ],
+      "examTips": [
+        "In this task, there could be parts of the text that will <b>not match any information</b> and there could be parts that will be <b>matched more than once</b>.",
+        "For your answer, write the <b>letter of the correct paragraph/part</b>."
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "Matching information 解题四步",
+          "detail": "1) 给每条信息划关键词 2) 扫每段首句找对应 3) 允许重复使用字母 4) 排除「只提到相关话题但不含所需具体信息」的段落。",
+          "examples": [
+            { "en": "a plan to prevent something from happening → A 段 'Add the post office closure programme into the mix'；C 段 'There will also be post office facilities'", "cn": "→ A" },
+            { "en": "the number of facilities disappearing → A 段 '600 country shops closed last year… thousands of neighbourhood hubs are being removed'", "cn": "→ A" },
+            { "en": "an example of a fund-raising activity → B 段 '241 people bought £50 shares, with another £5,000 coming from local donations and nearly £40,000 from charitable schemes'", "cn": "→ B" }
+          ]
+        },
+        {
+          "name": "段落信息类型识别",
+          "detail": "快速判断段落是「比较」「描述」还是「解释」，帮助你在匹配时抓准。",
+          "examples": [
+            { "en": "a comparison", "cn": "In geometry, the shortest distance between two points is a straight line. In politics, if you have a local issue…" },
+            { "en": "b description", "cn": "There is a lack of infrastructure, lack of amenities, and a risk of flooding" },
+            { "en": "c explanation", "cn": "The reason the bad estates… Another big problem is ghost estates" }
+          ]
+        },
+        {
+          "name": "题干关键词 → 原文近义表达",
+          "detail": "匹配题几乎不会原词复现，必须做语义转换。",
+          "examples": [
+            { "en": "the benefits of asking around → 'ask for the vendor's phone number', meet the neighbours", "cn": "→ B" },
+            { "en": "the relationship between local environment and behaviour → 'busy streets, shield from noise, restrict children's independence'", "cn": "→ C" },
+            { "en": "becoming an organiser → 'setting up social enterprises and tackling local issues'", "cn": "→ A" },
+            { "en": "problems which have advantages → 'an open space may seem like an asset, it can also become a source of conflict'", "cn": "→ C" },
+            { "en": "aspects of neighbourhood research → 'Its research shows that…'", "cn": "→ C" }
+          ]
+        },
+        {
+          "name": "干扰段特征",
+          "detail": "只提到相关话题但不包含题目所要求的具体信息的段落是干扰项（如 C 段谈 Living Streets 会干扰 \"partnerships against crime\"）。",
+          "examples": [
+            { "en": "C 段 Living Streets research", "cn": "→ 可能干扰 \"partnerships against crime\"（实际答案 B）" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "local government", "cn": "地方政府", "type": "org" },
+        { "en": "local council", "cn": "地方议会", "type": "org" },
+        { "en": "community level", "cn": "社区层面", "type": "term" },
+        { "en": "infrastructure", "cn": "基础设施", "type": "term" },
+        { "en": "amenities", "cn": "便利设施", "type": "term" },
+        { "en": "risk of flooding", "cn": "洪水风险", "type": "term" },
+        { "en": "ghost estates", "cn": "鬼城（废弃住宅区）", "type": "term" },
+        { "en": "neighbourhood hubs", "cn": "社区中心", "type": "term" },
+        { "en": "post office closure programme", "cn": "邮局关闭计划", "type": "term" },
+        { "en": "Rural Shops Alliance", "cn": "乡村商店联盟", "type": "org" },
+        { "en": "steering group", "cn": "指导小组", "type": "org" },
+        { "en": "fund-raising", "cn": "筹款", "type": "term" },
+        { "en": "shares", "cn": "股份", "type": "term" },
+        { "en": "local donations", "cn": "本地捐款", "type": "term" },
+        { "en": "charitable schemes", "cn": "慈善计划", "type": "term" },
+        { "en": "National Trust", "cn": "国家信托基金", "type": "org" },
+        { "en": "volunteer", "cn": "志愿者", "type": "term" },
+        { "en": "community spirit", "cn": "社区精神", "type": "term" },
+        { "en": "social enterprises", "cn": "社会企业", "type": "term" },
+        { "en": "voluntary groups", "cn": "志愿团体", "type": "org" },
+        { "en": "estate agent", "cn": "房地产中介", "type": "term" },
+        { "en": "Living Streets", "cn": "Living Streets（街道安全组织）", "type": "org" },
+        { "en": "source of conflict", "cn": "冲突之源", "type": "term" },
+        { "en": "behaviour", "cn": "行为", "type": "term" }
+      ],
+      "grammar": [
+        {
+          "name": "名词化",
+          "detail": "题目常用名词化形式（the number of facilities disappearing），需还原成动词短语句义。",
+          "examples": [
+            { "en": "the closure of facilities", "cn": "设施的关闭" },
+            { "en": "the number of facilities disappearing", "cn": "设施消失的数量" }
+          ]
+        },
+        {
+          "name": "祈使句 + 并列祈使",
+          "detail": "社区号召类文本的典型句式。",
+          "examples": [
+            { "en": "Don't forget the power of…", "cn": "别忘了……的力量" },
+            { "en": "Keep calm and electing the most level-headed member", "cn": "保持冷静，选出最冷静的成员" }
+          ]
+        },
+        {
+          "name": "被动语态与定语从句",
+          "detail": "社区变化描述常用被动。",
+          "examples": [
+            { "en": "are being removed", "cn": "（正在被拆除）" },
+            { "en": "was led by a small steering group", "cn": "（被动）" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "信息匹配",
+          "title": "Will you love your neighbours?（A–G 段 ↔ 6 条信息）",
+          "fields": [
+            { "label": "1 the relationship between local environment and behaviour", "given": "→ ?" },
+            { "label": "2 the benefits of asking around", "given": "→ ?" },
+            { "label": "3 becoming an organiser", "given": "→ ?" },
+            { "label": "4 partnerships against crime", "given": "→ ?" },
+            { "label": "5 problems which have advantages", "given": "→ ?" },
+            { "label": "6 aspects of neighbourhood research", "given": "→ ?" }
+          ],
+          "limit": "答案写段落字母；字母可重复；有段落不被使用"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "On the move",
+      "titleCn": "出行",
+      "topic": "Holidays and travel（假期与旅行）",
+      "page": "p.86–93",
+      "questionTypes": ["Yes / No / Not Given"],
+      "aims": {
+        "examSkills": "YNNG（判断作者观点）、改述识别",
+        "languageDevelopment": "旅游行业词汇、数字与单位改述",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Exam information: Yes / No / Not Given",
+          "points": [
+            "<b>Read the following passage. Do the statements agree with the views of the writer? Write:</b>",
+            "<b>YES</b> – if the statement agrees with the views of the writer",
+            "<b>NO</b> – if the statement contradicts what the writer thinks",
+            "<b>NOT GIVEN</b> – if it is impossible to know what the writer's point of view is",
+            "<b>关键区别</b>：问的是「<b>观点</b>」而非「信息」；NO 是「矛盾」，不是「相反的陈述」。"
+          ]
+        }
+      ],
+      "examTips": [
+        "Identify keywords in the statements. Think about the meanings and then look for <b>paraphrases</b> of the keywords in the text."
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "YNNG 的「观点识别」技巧",
+          "detail": "先看句子是<b>客观事实陈述</b>还是<b>含观点</b>（claim, argued, warned, believes, likely）；再识别<b>作者转述他人观点时的标志</b>（says, says that, warned, claimed, believes）——若题目问「作者观点」，需判断作者是否认同。",
+          "examples": [
+            { "en": "Statement 2 \"Travel agents have noticed that their customers are now more able to book their holidays.\" ← 原文 'customers are becoming more confident about booking packages online'", "cn": "→ NO（更自信 ≠ 能订更多）" },
+            { "en": "Statement 3 \"After competition from low-cost airlines, business is now getting better for travel agents.\" ← 原文 'which have already been suffering from competition from low-cost airlines'", "cn": "→ NO（suffering ≠ getting better）" },
+            { "en": "Statement 4 \"The director thinks that travel agents are at risk of having to close.\" ← 原文 'warned that travel agents will have to act faster… to survive'", "cn": "→ NO（要生存 ≠ 要倒闭）" },
+            { "en": "Statement 5 \"Five years from now, there are likely to be two thirds of the amount of travel agents there are now.\" ← 原文 'a third fewer travel agents than now'", "cn": "→ NO（a third fewer ≠ two thirds）" }
+          ]
+        },
+        {
+          "name": "Paraphrasing 三步法",
+          "detail": "1) Identify keywords in the statements 2) Think about the meanings（换成同义说法）3) Look for paraphrases of the keywords in the text。",
+          "examples": [
+            { "en": "a list that shows how successful an organisation is in comparison to other similar organisations", "cn": "→ a ranking / league table" },
+            { "en": "an amount expressed as a number", "cn": "→ a figure" },
+            { "en": "to calculate the position that someone or something has on a scale", "cn": "→ to rank" },
+            { "en": "an increase", "cn": "→ growth / rise" },
+            { "en": "to reach", "cn": "→ to arrive at / total" },
+            { "en": "to say that an event will happen", "cn": "→ to forecast / predict" },
+            { "en": "an official statement or report about something that is likely to happen", "cn": "→ a forecast" }
+          ]
+        },
+        {
+          "name": "题干顺序被打乱 → 必须靠语义配对",
+          "detail": "Exercise 6 的定义与释义顺序与原文不同，不能按顺序读。",
+          "examples": [
+            { "en": "1–7 与定义配对，顺序与原文不同", "cn": "→ 靠语义配对" }
+          ]
+        },
+        {
+          "name": "长句快速拆解",
+          "detail": "找主语谓语 + 剥离括号/插入语。这是阅读长难句的通用方法。",
+          "examples": [
+            { "en": "top 10 inbound league / 337,000 (up 29%) / 35% record £694 million / £2,059 per visit / 11 nights vs six / 26.8 million / 100 million by 2025", "cn": "→ 数字与单位改述" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "travel agents", "cn": "旅行社", "type": "term" },
+        { "en": "booking holidays online", "cn": "在线预订假期", "type": "term" },
+        { "en": "packages", "cn": "打包旅游产品", "type": "term" },
+        { "en": "low-cost airlines", "cn": "廉价航空公司", "type": "term" },
+        { "en": "survive", "cn": "生存下来", "type": "term" },
+        { "en": "act faster", "cn": "动作更快", "type": "term" },
+        { "en": "close down / bankrupt", "cn": "倒闭 / 破产", "type": "term" },
+        { "en": "a third fewer", "cn": "少三分之一", "type": "term" },
+        { "en": "estimate", "cn": "估计", "type": "term" },
+        { "en": "forecast", "cn": "预测", "type": "term" },
+        { "en": "league table", "cn": "排行榜", "type": "term" },
+        { "en": "ranking", "cn": "排名", "type": "term" },
+        { "en": "figure", "cn": "数字/统计数字", "type": "term" },
+        { "en": "growth", "cn": "增长", "type": "term" },
+        { "en": "predict", "cn": "预测", "type": "term" },
+        { "en": "visitors from China", "cn": "中国游客", "type": "term" },
+        { "en": "inbound league", "cn": "入境客源排名", "type": "term" },
+        { "en": "outbound trips", "cn": "出境旅行", "type": "term" },
+        { "en": "shortest scheduled domestic flight", "cn": "最短定期国内航班", "type": "term" },
+        { "en": "junior high school / secondary school", "cn": "初中 / 中学", "type": "term" }
+      ],
+      "grammar": [
+        {
+          "name": "比较级与分数表达改述",
+          "detail": "数字改述是 YNNG 的高频陷阱。",
+          "examples": [
+            { "en": "more confident / a third fewer / twice the amount / four times the amount", "cn": "比较级与倍数" },
+            { "en": "26.8 million ↔ 100 million by 2025", "cn": "数字改述" }
+          ]
+        },
+        {
+          "name": "过去分词短语作定语",
+          "detail": "学术文章常用的紧凑定语结构。",
+          "examples": [
+            { "en": "the world's shortest domestic flight", "cn": "（省略介词的过去分词短语）" },
+            { "en": "the number of workers employed", "cn": "（后置定语）" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "YNNG 判定",
+          "title": "Do the statements agree with the views of the writer?",
+          "fields": [
+            { "label": "Statement 2 Travel agents have noticed that their customers are now more able to book their holidays.", "given": "→ ?" },
+            { "label": "Statement 3 After competition from low-cost airlines, business is now getting better for travel agents.", "given": "→ ?" },
+            { "label": "Statement 4 The director thinks that travel agents are at risk of having to close.", "given": "→ ?" },
+            { "label": "Statement 5 Five years from now, there are likely to be two thirds of the amount of travel agents there are now.", "given": "→ ?" }
+          ],
+          "limit": "答案写 YES / NO / NOT GIVEN"
+        },
+        {
+          "type": "释义配对",
+          "title": "释义与定义配对（1–7，顺序与原文不同）",
+          "fields": [
+            { "label": "a list that shows how successful an organisation is…", "given": "→ ?" },
+            { "label": "an amount expressed as a number", "given": "→ ?" },
+            { "label": "to calculate the position…", "given": "→ ?" },
+            { "label": "an increase", "given": "→ ?" },
+            { "label": "to reach", "given": "→ ?" },
+            { "label": "to say that an event will happen", "given": "→ ?" },
+            { "label": "an official statement or report about something likely to happen", "given": "→ ?" }
+          ],
+          "limit": "答案写字母"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Culture",
+      "titleCn": "文化",
+      "topic": "Culture and modern society（文化与现代社会）",
+      "page": "p.94–101",
+      "questionTypes": ["Matching features", "Matching statements to the text"],
+      "aims": {
+        "examSkills": "特征匹配、观点与事实分类匹配、改述",
+        "languageDevelopment": "引语来源标志识别（谁说的）",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Matching features（特征匹配）",
+          "points": [
+            "Match the statements 1–6, which describe number systems in different cultures, with the cultures and languages <b>A–F</b>.",
+            "<b>A Pirahã / B Munduruku / C Yupno / D Waimiri / E English / F Indian</b>",
+            "<b>题干顺序与原文顺序不同</b>（The list of statements is NOT in the same order as the passage）。",
+            "有的选项会被用多次、有的选项不被使用。"
+          ]
+        },
+        {
+          "title": "Matching statements to the text（观点 vs 事实）",
+          "points": [
+            "分类：<b>A an opinion expressed by the writer / B an opinion expressed by the company or its representative / C a statement of fact by the writer / D a statement of fact by the company or its representative</b>",
+            "<b>关键技巧：区分「谁说的」</b> → 关注引语来源标志：the writer says / Dr X says / the company said / it is believed。"
+          ]
+        }
+      ],
+      "examTips": [
+        "The passage will include <b>paraphrases, synonyms and similar words</b> that express the same information in the statements.",
+        "The list of statements is <b>NOT in the same order</b> as the passage."
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "Paraphrasing 改述对照",
+          "detail": "文章用同义改写、近义词、相似词表达与题干相同的信息。",
+          "examples": [
+            { "en": "our study addressed two questions", "cn": "→ our research asked two questions" },
+            { "en": "stealing from the organisation is frowned on in any work environment", "cn": "→ employees don't steal / dishonesty is frowned upon" },
+            { "en": "they rated equally with Western managers", "cn": "→ they were considered as good as / on a par with Western managers" },
+            { "en": "organisations and managers need to pay more attention to the completion of tasks", "cn": "→ managers need to focus more on task completion" }
+          ]
+        },
+        {
+          "name": "「谁说的」判断法",
+          "detail": "区分观点归属。要点：注意引号内的直接引语与其引入词。",
+          "examples": [
+            { "en": "\"The new theatre did not need more time or money to be built than had been predicted.\"", "cn": "→ 事实（未发生成本超支）→ C / D" },
+            { "en": "\"The new building does not live up to expectations.\" ← 'it is also deeply disappointing'", "cn": "→ 观点 → A / B" },
+            { "en": "\"The money to build the new theatre came from three different sources.\" ← Arts Council £112.8m + 两 thirds regional development agency", "cn": "→ 事实 → D" },
+            { "en": "\"Performances are not about perfection but about sharing experiences.\"", "cn": "→ 观点（引自建筑评论家）→ B" }
+          ]
+        },
+        {
+          "name": "观点性表述的干扰特征",
+          "detail": "句子中若含 <b>but</b>、<b>does not live up to</b>、<b>not about X but about Y</b> → 多为观点性表述。",
+          "examples": [
+            { "en": "There's more to theatre than the play.", "cn": "→ 观点" },
+            { "en": "But it is also deeply disappointing.", "cn": "→ 观点" }
+          ]
+        },
+        {
+          "name": "Matching features 通用技巧",
+          "detail": "<b>先读所有选项（文化名）建立印象</b>，再逐条在原文中找「特征词」。",
+          "examples": [
+            { "en": "1 people do not really learn how to count, because there is no need → Pirahã", "cn": "（'few' and 'many'，无精确数字）" },
+            { "en": "2 The most used system was started by these people → English", "cn": "（由这些语言发展而来）" },
+            { "en": "3 The counting system works with small sets but uses addition → Munduruku", "cn": "（numerical words only up to five）" },
+            { "en": "4 demonstrates that people can estimate quantities even in cultures where exact numbers do not exist → Munduruku / Indian", "cn": "" },
+            { "en": "5 has been in existence for a very long time but may not be the best one → Indian", "cn": "（one-few-many 系统历史久远）" },
+            { "en": "6 different from that in most other cultures → Yupno / Waimiri", "cn": "" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "Royal Shakespeare Theatre (RSC)", "cn": "皇家莎士比亚剧院", "type": "place" },
+        { "en": "Stratford-upon-Avon", "cn": "埃文河畔斯特拉特福", "type": "place" },
+        { "en": "budget", "cn": "预算", "type": "term" },
+        { "en": "cost overrun", "cn": "成本超支", "type": "term" },
+        { "en": "renovation", "cn": "翻修", "type": "term" },
+        { "en": "demolish", "cn": "拆除", "type": "term" },
+        { "en": "'iconic' replacement", "cn": "『标志性』替代建筑", "type": "term" },
+        { "en": "Dutch architect Erick van Egeraat", "cn": "荷兰建筑师", "type": "name" },
+        { "en": "Arts Council", "cn": "艺术委员会", "type": "org" },
+        { "en": "regional development agency", "cn": "区域发展署", "type": "org" },
+        { "en": "theatre designer", "cn": "剧院设计师", "type": "term" },
+        { "en": "artistic director", "cn": "艺术总监", "type": "term" },
+        { "en": "rehearsal", "cn": "排演", "type": "term" },
+        { "en": "on a par", "cn": "与……不相上下", "type": "phrase" },
+        { "en": "frowned on", "cn": "被反对/不受赞许", "type": "phrase" },
+        { "en": "task completion", "cn": "任务完成", "type": "term" },
+        { "en": "one-few-many", "cn": "一/少/多 计数系统", "type": "term" },
+        { "en": "numerical words", "cn": "数词", "type": "term" },
+        { "en": "exact numbers", "cn": "精确数字", "type": "term" },
+        { "en": "Pirahã", "cn": "皮拉哈人", "type": "term" },
+        { "en": "Munduruku", "cn": "蒙杜鲁库人", "type": "term" },
+        { "en": "Yupno", "cn": "尤普诺人", "type": "term" },
+        { "en": "Waimiri", "cn": "瓦米里人", "type": "term" }
+      ],
+      "grammar": [
+        {
+          "name": "同位语（引号内）",
+          "detail": "同位语紧跟名词，用于补充说明身份。",
+          "examples": [
+            { "en": "the RSC's artistic director, \"is about experiences 'shared in the same space in real time'\"", "cn": "引号内为同位语" }
+          ]
+        },
+        {
+          "name": "定语从句与分词状语",
+          "detail": "which / who 引导定语从句；分词短语作状语。",
+          "examples": [
+            { "en": "a message which has been repeated often by the staff showing people round the building", "cn": "which 定语从句 + 分词状语" },
+            { "en": "drama starts at the front door, and should unfold every step towards your seat", "cn": "（并列 + should 虚拟）" }
+          ]
+        },
+        {
+          "name": "被动语态与强调",
+          "detail": "was completed on budget and on time；It is also worth saying that…",
+          "examples": [
+            { "en": "The new building was completed on budget and on time.", "cn": "被动语态" }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "type": "特征匹配",
+          "title": "Number systems in different cultures（A–F）",
+          "fields": [
+            { "label": "1 people do not really learn how to count, because there is no need", "given": "→ ?" },
+            { "label": "2 The most used system was started by these people", "given": "→ ?" },
+            { "label": "3 The counting system works with small sets but uses addition", "given": "→ ?" },
+            { "label": "4 demonstrates that people can estimate quantities even in cultures where exact numbers do not exist", "given": "→ ?" },
+            { "label": "5 has been in existence for a very long time but may not be the best one", "given": "→ ?" },
+            { "label": "6 different from that in most other cultures", "given": "→ ?" }
+          ],
+          "limit": "答案写 A–F；顺序与原文不同；有选项不被使用"
+        },
+        {
+          "type": "观点/事实分类匹配",
+          "title": "A 笔者观点 / B 公司观点 / C 笔者事实 / D 公司事实",
+          "fields": [
+            { "label": "The new theatre did not need more time or money to be built than had been predicted.", "given": "→ ?" },
+            { "label": "The new building does not live up to expectations.", "given": "→ ?" },
+            { "label": "The money to build the new theatre came from three different sources.", "given": "→ ?" },
+            { "label": "Performances are not about perfection but about sharing experiences.", "given": "→ ?" }
+          ],
+          "limit": "答案写 A / B / C / D"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Practice exam",
+      "titleCn": "模拟考试",
+      "topic": "综合实战（限时全真模拟）",
+      "page": "p.102–111",
+      "questionTypes": ["TFNG", "Matching information", "YNNG", "Matching features"],
+      "aims": {
+        "examSkills": "全题型综合应用",
+        "languageDevelopment": "同义替换 + 干扰项识别 + 语法精度",
+        "pronunciation": "—"
+      },
+      "examInfo": [
+        {
+          "title": "Practice exam 题型总览（各单元 Part 3 题型汇总）",
+          "points": [
+            "<b>Unit 8 (p.76) — True, False, Not Given</b>：TRUE=证实；FALSE=证实相反；NOT GIVEN=无法得知；只依据原文，不用个人知识",
+            "<b>Unit 9 (p.84) — Matching information</b>：段落 A–G，题干可重复使用同一字母；有段落不匹配任何信息；答案写段落字母",
+            "<b>Unit 10 (p.92) — Yes / No / Not Given</b>：判断<b>作者观点</b>：YES=一致；NO=矛盾；NG=无法判断作者观点",
+            "<b>Unit 11 (p.100) — Matching features</b>：匹配文化/语言 A–F；<b>题干顺序与原文顺序不同</b>；有选项不被使用"
+          ]
+        }
+      ],
+      "examTips": [
+        "全书 Exam tip 通用：<b>Exam skills | Understanding types of words; Predicting answers; Skimming for gist; Scanning for information; Completing a summary</b>"
+      ],
+      "watchOuts": [
+        "<b>U4 p.35</b>：Think about when and how a word is used – not just the meaning of a word.",
+        "<b>U5 p.43</b>：Learning prefixes is a useful way to work out the meaning of specific details.",
+        "<b>U6 p.51</b>：Knowing the origins of a word can help you work out its meaning.",
+        "<b>U6 p.52</b>：The noun for a person who works in a particular science often ends in -er or -ist. Another common ending is -ian.",
+        "<b>U7 p.60</b>：Remember to learn the correct spelling of new words. Incorrect spelling means an incorrect answer in the exam."
+      ],
+      "techniques": [
+        {
+          "name": "Skimming for gist（略读抓大意）",
+          "detail": "先读标题 / 首段 / 图表标题。用于 Summary completion 前置策略。",
+          "examples": [
+            { "en": "读标题 → 读首段 → 读图表标题", "cn": "30 秒建立全文地图" }
+          ]
+        },
+        {
+          "name": "Scanning for information（扫读定位）",
+          "detail": "关键词（含同义词 / 改述）→ 段落首尾句 + 信号词。",
+          "examples": [
+            { "en": "However, In fact, Not until", "cn": "信号词" }
+          ]
+        },
+        {
+          "name": "Predicting answers（预测答案）",
+          "detail": "从图表层级、语法位置、段落功能预测缺词。",
+          "examples": [
+            { "en": "冠词后 → 名词；are responsible for + → 名词", "cn": "语法位置预测" }
+          ]
+        },
+        {
+          "name": "干扰项特征总结",
+          "detail": "把四类题的干扰项放在一起对比记忆。",
+          "examples": [
+            { "en": "Matching 类", "cn": "多余选项 / 多余摘要 / 多余 idea（数量多于题目数）" },
+            { "en": "MC 类", "cn": "范围过窄、只覆盖片段、「部分正确」" },
+            { "en": "TFNG / YNNG 类", "cn": "数字与范围的偷换（a third vs two thirds、20 percent higher vs majority）" },
+            { "en": "Matching headings 类", "cn": "标题只含段落中某个具体名词 → 多为细节而非主旨" }
+          ]
+        }
+      ],
+      "vocab": [
+        { "en": "paraphrase", "cn": "改述（同义替换）", "type": "term" },
+        { "en": "synonym", "cn": "同义词", "type": "term" },
+        { "en": "gist", "cn": "大意", "type": "term" },
+        { "en": "scan / skim", "cn": "扫读 / 略读", "type": "term" },
+        { "en": "distractor", "cn": "干扰项", "type": "term" },
+        { "en": "redundant option", "cn": "多余选项", "type": "term" }
+      ],
+      "grammar": [],
+      "exercises": [
+        {
+          "type": "综合",
+          "title": "全真模拟（限时 60 分钟 / 40 题）",
+          "fields": [
+            { "label": "Passage 1", "given": "一般性话题，篇幅短" },
+            { "label": "Passage 2", "given": "学术 / 一般性话题" },
+            { "label": "Passage 3", "given": "学术性话题，难度最高" }
+          ],
+          "limit": "40 题 / 60 分钟"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "questionTypes": [
+      { "name": "Matching Headings", "units": "U1", "rule": "标题概括段落主旨；标题数 > 段落数（多余选项为干扰）" },
+      { "name": "Summary completion", "units": "U2 / U6 / U7", "rule": "先 skim 定位相关段落；预测缺词词性；注意字数限制；关键词摘要拼写须与原文一致" },
+      { "name": "Short-answer questions", "units": "U3", "rule": "用文中细节作答，答案须为短语而非句子" },
+      { "name": "Matching summaries", "units": "U3", "rule": "扫读配对；有 2 个多余摘要为干扰项" },
+      { "name": "Matching sentence endings", "units": "U4", "rule": "用开头句末词预测下一个语法词；开头多于结尾（有干扰）" },
+      { "name": "Multiple-choice questions", "units": "U5", "rule": "指令会说明有几项正确（one/two/three）" },
+      { "name": "Matching information", "units": "U5 / U9", "rule": "匹配想法/信息到段落；有多余 idea；一个段落可匹配多条；部分段落不被匹配" },
+      { "name": "Completing diagrams", "units": "U2 / U6", "rule": "每格不超过 4 词；图表不一定涵盖全部原文信息" },
+      { "name": "True / False / Not Given", "units": "U8", "rule": "一致/相反/未提及；只用原文信息，不用个人知识" },
+      { "name": "Yes / No / Not Given", "units": "U10", "rule": "判断作者观点而非事实；NO = 矛盾" },
+      { "name": "Matching features", "units": "U11", "rule": "题干顺序与原文顺序不同；注意未使用的选项" },
+      { "name": "Matching statements to text", "units": "U11", "rule": "区分观点/事实 + 区分是谁说的" }
+    ],
+    "skills": [
+      { "name": "Skimming for gist（略读抓大意）", "detail": "先读标题 / 首段 / 图表标题；用于 Summary completion 前置策略" },
+      { "name": "Scanning for information（扫读定位）", "detail": "关键词（含同义词/改述）→ 段落首尾句 + 信号词" },
+      { "name": "Locating topics（主题定位）", "detail": "给文章分块，逐块提问" },
+      { "name": "Paraphrasing（改述）", "detail": "关键词 → 同义替换 → 原文对应；TRUE/FALSE 与 Matching 信息类的核心" },
+      { "name": "Predicting answers（预测答案）", "detail": "从图表层级、语法位置、段落功能预测缺词" },
+      { "name": "Understanding types of words（识别词性）", "detail": "linking word/phrase、noun (or pronoun)、noun phrase、preposition" },
+      { "name": "Identifying key words（题干关键词）", "detail": "加下划线再扫读" }
+    ]
+  }
+}

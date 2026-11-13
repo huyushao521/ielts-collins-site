@@ -1,0 +1,1224 @@
+{
+  "id": "writing",
+  "name": "写作",
+  "nameEn": "Writing",
+  "book": "Collins Writing for IELTS",
+  "icon": "✍️",
+  "color": "#1971c2",
+  "description": "Collins Writing for IELTS 全 12 单元。覆盖 Task 1 图表作文（柱状图/折线图/表格/流程图/地图/混合图）与 Task 2 议论文（Problem-Solution / Stance / Agree-Disagree / Evaluate an idea）全部题型技巧，配语法专项（时态/比较级/被动语态/情态动词/冠词/衔接与cohesion）。",
+  "examInfo": {
+    "time": "60 分钟（Task 1 约 20 分钟 + Task 2 约 40 分钟）",
+    "total": "2 篇作文（Task 1 ≥150 词 + Task 2 ≥250 词）",
+    "note": "Task 2 分值占比高于 Task 1",
+    "sections": [
+      {
+        "n": "Task 1",
+        "desc": "图表描述（≥150词）：柱状图/折线图/表格/流程图/地图/混合图"
+      },
+      {
+        "n": "Task 2",
+        "desc": "议论文（≥250词）：Problem-Solution / Stance / Agree-Disagree / Evaluate an idea"
+      }
+    ],
+    "scoring": [
+      {
+        "score": "Task Achievement / Response",
+        "band": "25%"
+      },
+      {
+        "score": "Coherence & Cohesion",
+        "band": "25%"
+      },
+      {
+        "score": "Lexical Resource",
+        "band": "25%"
+      },
+      {
+        "score": "Grammatical Range & Accuracy",
+        "band": "25%"
+      }
+    ]
+  },
+  "units": [
+    {
+      "id": 1,
+      "title": "Gender roles",
+      "titleCn": "性别角色",
+      "topic": "Task 1 图表作文结构分析；Task 2 Problem-Solution（问题-解决方案）",
+      "page": "p.11–12",
+      "questionTypes": [
+        "Task 1: Bar chart",
+        "Task 2: Problem-Solution"
+      ],
+      "examInfo": [
+        {
+          "title": "Exam information: Writing solutions to problems",
+          "points": [
+            "Task 2 要求写 <b>四到六个段落</b>（four to six paragraphs）的议论文。",
+            "题目会要求你 <b>evaluate or present an idea or solution to a problem</b>。",
+            "目标是 <b>present a strong argument, supported by evidence</b>。",
+            "答题时间约 <b>40 minutes</b>；字数 <b>≥250 words</b>。",
+            "必须 <b>give reasons and include relevant examples</b>。"
+          ]
+        }
+      ],
+      "examTips": [
+        "Task 1：不要描述图表中的 <b>所有信息</b>。目的是测试你 <b>summarise the key information</b> 和 <b>select appropriate examples</b> 的能力。",
+        "Task 2 <b>分值高于 Task 1</b>，应花更多时间写 Task 2。"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "Task 1 概述与主体段结构",
+          "detail": "Introduction 说明图表主题 + 概括；Body 段按 topic sentence + supporting examples 组织；Conclusion 概述整体趋势。",
+          "examples": [
+            {
+              "en": "The chart shows the gender distribution of students doing scientific research across a range of disciplines at a UK university in 2019.",
+              "cn": "概述句：图表展示2019年英国某大学各学科学生的性别分布"
+            },
+            {
+              "en": "Male students made up a large proportion of the student group in subjects related to the study of objects and materials: physics, astronomy, and geology.",
+              "cn": "主体段1 topic sentence：男性在研究物体/材料的学科中占大比例"
+            },
+            {
+              "en": "Overall, the chart shows that at this university there were differences in the type of scientific research undertaken by male and female students.",
+              "cn": "结论句：概述整体差异"
+            }
+          ]
+        },
+        {
+          "name": "倍数与比较表达",
+          "detail": "描述图表中的倍数关系与数量比较。",
+          "examples": [
+            {
+              "en": "there were five times as many male students as female students",
+              "cn": "男性学生是女性的5倍"
+            },
+            {
+              "en": "there were twice as many female research students as male research students",
+              "cn": "女性研究生是男性的2倍"
+            },
+            {
+              "en": "Women students outnumbered male students in subjects related to the study of living things",
+              "cn": "女性在研究生物的学科中数量超过男性"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "gender distribution",
+        "gender gap",
+        "proportion",
+        "outnumbered",
+        "at a disadvantage",
+        "pay and promotion",
+        "equality of opportunity",
+        "in spite of",
+        "research students",
+        "scientific research"
+      ],
+      "grammar": [
+        "一般现在时（描述图表事实）",
+        "比较级：significantly more women than men",
+        "倍数表达：five times as many, twice as many",
+        "过去时（2019年数据）",
+        "让步结构：In spite of the many advances, ..."
+      ],
+      "connectors": [
+        "Overall / In general / In brief / To conclude（结论与概述）",
+        "In fact / In particular / Moreover / Furthermore（补充强调）",
+        "With regard to / In terms of（方面限定）",
+        "This was also true of...（相似性）"
+      ],
+      "exercises": [
+        "Task 1 sample answer 段落功能标注（Introduction / Body / Conclusion）",
+        "Task 2 范文段落功能标注（example / summary / better solution / acknowledgement / advantage）"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Diet and nutrition",
+      "titleCn": "饮食与营养",
+      "topic": "Task 1 Line graph；Task 2 Taking a stance（立场型议论文）",
+      "page": "p.19–20",
+      "questionTypes": [
+        "Task 1: Line graph (two or more graphs)",
+        "Task 2: Taking a stance / Discuss both views"
+      ],
+      "examInfo": [
+        {
+          "title": "Exam information: Presenting your opinion",
+          "points": [
+            "先决定你的 <b>stance（立场）</b>，再用 <b>reasons / evidence</b> 支持。",
+            "通过比较 <b>至少一个对立观点</b> 来 'test' your opinion。",
+            "观点强度标记：SA = Strongly agree, A = Agree, D = Disagree, SD = Strongly disagree。"
+          ]
+        }
+      ],
+      "examTips": [
+        "如果图表包含 <b>两个或以上的图</b>，概述应说明它们之间的 <b>connection</b>——趋势是 <b>broadly similar or different</b>。",
+        "用 <b>templates for common question types</b> 练习生成观点：Templates A/B = solutions to problems；Templates C/D = discussing ideas。"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "折线图描述句型",
+          "detail": "每段约50词；段落1用 there be + adjective + noun；段落2用 verb + adverb。",
+          "examples": [
+            {
+              "en": "The number of people experiencing food insecurity rose steadily from 2010 to 2015 and then fell slightly.",
+              "cn": "there be + adj + noun 句型"
+            },
+            {
+              "en": "Levels of very low food security have fluctuated considerably over the period.",
+              "cn": "verb + adverb 句型"
+            },
+            {
+              "en": "The two graphs show broadly similar trends.",
+              "cn": "多图关系总结"
+            }
+          ]
+        },
+        {
+          "name": "立场型议论文结构",
+          "detail": "先定 stance → 给 evidence → 比较对立观点 → 结论中承认对方观点。",
+          "examples": [
+            {
+              "en": "Although some people idealise traditional cooking practices and believe them will prevail indefinitely, demographic trends suggest that this is unlikely to be the case.",
+              "cn": "让步+立场：承认传统烹饪观点，但用人口趋势反驳"
+            },
+            {
+              "en": "The first reason is... / Another reason... is...",
+              "cn": "段首 signal word 标志论点"
+            },
+            {
+              "en": "In the UK, for example, working mothers significantly outnumber stay-at-home mothers.",
+              "cn": "具体例子支撑论点"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "convenience food",
+        "food insecurity",
+        "organic farming",
+        "stay-at-home mothers",
+        "dual-income households",
+        "preservatives",
+        "fertilisers",
+        "pesticides",
+        "food shortages",
+        "demographic trends"
+      ],
+      "grammar": [
+        "情态动词表可能性：could lead to, may very well, is likely to, it is unlikely",
+        "让步从句：Although + 句子, 主句",
+        "条件表达：It is better for the environment to produce food using fewer chemicals",
+        "Task 1 句型：there be + adj + noun；verb + adverb"
+      ],
+      "connectors": [
+        "让步对比：Although, Nevertheless, In spite of, While, By contrast, On the other hand",
+        "因果：Because of, Due to, As a result, Consequently, Therefore",
+        "顺序/补充：The first reason is, Another reason, In addition, Moreover, Furthermore",
+        "立场表达：In my view, From my point of view, I believe that...",
+        "趋势动词：rose, fell, fluctuated, peaked, climbed, dropped, levelled off, remained stable"
+      ],
+      "exercises": [
+        "观点强度排序练习（SA/A/D/SD）",
+        "Reasons 库选理由支撑观点",
+        "Type D 'Evaluate an idea' 范文结构分析"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Educational goals",
+      "titleCn": "教育目标",
+      "topic": "Task 1 Bar chart；Task 2 To what extent do you agree…",
+      "page": "p.27–28",
+      "questionTypes": [
+        "Task 1: Bar chart",
+        "Task 2: To what extent do you agree/disagree"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "用 <b>adverbs</b> 使比较更精确：强调差异用 many, much, far, significantly；小差异用 slightly or nearly as ... as。",
+        "柱状图描述用 <b>in contrast</b> 表差异，<b>the same</b> 表相似。",
+        "Task 2：定立场后决定 <b>哪些想法入选、什么顺序</b>，有 plan 写作更快更聚焦。"
+      ],
+      "watchOuts": [
+        "<b>fewer / fewest</b> 搭配可数名词，<b>less / least</b> 搭配不可数名词。"
+      ],
+      "techniques": [
+        {
+          "name": "柱状图比较与改写",
+          "detail": "用相似/差异表达描述数据；练习用不同词替换改写句子。",
+          "examples": [
+            {
+              "en": "More female candidates than male candidates passed their English examinations.",
+              "cn": "原始句"
+            },
+            {
+              "en": "Fewer male candidates passed than female candidates.",
+              "cn": "用 fewer 改写"
+            },
+            {
+              "en": "The number of males was as high as the number of females.",
+              "cn": "用 as...as 改写"
+            },
+            {
+              "en": "Men did well in technology-related subjects, whereas women did well in language-related subjects.",
+              "cn": "用 whereas 改写"
+            }
+          ]
+        },
+        {
+          "name": "Notes 三栏法 + Essay plan",
+          "detail": "What are the ideas? / Evidence for? / Evidence against? 三栏笔记法组织论点。",
+          "examples": [
+            {
+              "en": "Idea: Exams measure intelligence | Evidence for: Exams can be designed to include a variety of tasks | Evidence against: Pen and paper exams are often predictable – students can prepare by rote learning",
+              "cn": "三栏法示例"
+            },
+            {
+              "en": "Introduction: Measuring intelligence is a difficult task → Body 1: Exams measure intelligence (for/against) → Body 2: Different types of intelligence",
+              "cn": "提纲结构"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "top marks",
+        "a passing grade",
+        "second class degree",
+        "good passes",
+        "technology-related subjects",
+        "language-related subjects",
+        "formal examinations",
+        "pen and paper exams",
+        "rote learning",
+        "kinds of intelligence",
+        "essay plan"
+      ],
+      "grammar": [
+        "比较级与比较结构：higher/lower than, as...as, nearly as...as, more...than",
+        "最高级：the largest percentage, the lowest",
+        "修饰比较级的副词：significantly more, slightly higher",
+        "fewer/fewest（可数）vs less/least（不可数）",
+        "被动语态：degrees awarded were second class or better",
+        "定语从句：people who do well in exams"
+      ],
+      "connectors": [
+        "差异/相似：in contrast, by contrast, whereas, the same, similarly, likewise",
+        "因果：because, since, as, due to, so",
+        "让步：although, though, while, even though",
+        "程度：to a large extent, to some extent, largely, by and large",
+        "总结：In brief, Overall, To sum up, In conclusion"
+      ],
+      "exercises": [
+        "S/D 标注练习（similarity vs difference）",
+        "用括号词改写句子（fewer / as...as / whereas / lower / similar）",
+        "Notes 三栏法填写（ideas / evidence for / evidence against）",
+        "Essay plan 提纲写作"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Biodiversity",
+      "titleCn": "生物多样性",
+      "topic": "Task 1 Process diagram（流程图）+ Map（地图）",
+      "page": "p.35–36",
+      "questionTypes": [
+        "Task 1: Process diagram",
+        "Task 1: Map (changes in land use)"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "合并句子使流程描述更可读：<b>Combine sentences with the same subject by removing repeated subjects and linking with commas and 'and'</b>。",
+        "当动作主体未知或不如动作本身重要时，使用 <b>passive voice</b>。",
+        "用 <b>signposting language</b> 标记流程阶段：Firstly, In the final stage 等。开头一个、中间一两个、末尾一个即可。"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "流程图：主动 vs 被动判断",
+          "detail": "自然过程用 active；有人类施动者的过程用 passive。",
+          "examples": [
+            {
+              "en": "The first plants to grow are pioneer plants, which can survive in harsh conditions.",
+              "cn": "自然过程→主动+关系从句合并"
+            },
+            {
+              "en": "The logs are sorted by size, loaded onto logging trucks and transported to the sawmill.",
+              "cn": "人类过程→被动+逗号and合并"
+            },
+            {
+              "en": "Firstly, access roads to the area are cut. In the final stage of clear cutting, the land is prepared for future harvests.",
+              "cn": "signposting language 标记阶段"
+            }
+          ]
+        },
+        {
+          "name": "地图描述：变化动词",
+          "detail": "区分 removed / replaced / shrank / built / flooded / reduced 等不同变化动词；被动语态改写。",
+          "examples": [
+            {
+              "en": "The maps show changes that have taken place on the island between 1970 and 2019.",
+              "cn": "引言句"
+            },
+            {
+              "en": "Large areas of native forest were removed and partially replaced with palm oil plantations.",
+              "cn": "被动语态描述变化"
+            },
+            {
+              "en": "The area of intact forest in the west shrank.",
+              "cn": "变化动词 shrank"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "pioneer plants",
+        "shrubs",
+        "logging activity",
+        "sawmill",
+        "chain saw",
+        "clear cutting",
+        "native forest",
+        "palm oil plantations",
+        "dams",
+        "flooding",
+        "desertification",
+        "overgrazing",
+        "wetlands"
+      ],
+      "grammar": [
+        "主动 vs 被动语态（核心）：自然过程→主动；人类行为→被动",
+        "现在完成时被动：The trees have been extracted",
+        "关系从句合并：pioneer plants, which can survive...",
+        "被动+分词短语：loaded onto logging trucks and transported to the sawmill",
+        "不定式目的状语：to mark the stages of the process"
+      ],
+      "connectors": [
+        "流程顺序：Firstly, Then, Next, Subsequently, After that, In the final stage, Finally",
+        "因果/结果：as a result, consequently, so that, therefore, thus",
+        "转折：However, Whereas, Although",
+        "补充列举：and, as well as, in addition",
+        "地图变化动词：increased, decreased, remained stable, expanded, shrank, was replaced by, was flooded"
+      ],
+      "exercises": [
+        "流程图句子合并练习（6题）",
+        "主动/被动判断练习",
+        "地图范文被动语态改写",
+        "signposting language 填空"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Global English",
+      "titleCn": "全球英语",
+      "topic": "Task 1 Mixed（表格+图表）；Introductions and conclusions",
+      "page": "p.43–44",
+      "questionTypes": [
+        "Task 1: Mixed / Diagram",
+        "Task 1: Introduction & Conclusion writing"
+      ],
+      "examInfo": [],
+      "examTips": [],
+      "watchOuts": [
+        "<b>不要照抄题目指令的原话</b>。用自己的话改写能展示更多语言能力。"
+      ],
+      "techniques": [
+        {
+          "name": "概述句（Introduction）四选一判断",
+          "detail": "最佳 introduction 含总体特征/对比，不堆细节；具体数字适合作 body。",
+          "examples": [
+            {
+              "en": "The diagram shows that although many languages are spoken throughout the world, the size of their respective speech communities varies enormously.",
+              "cn": "最佳 introduction：概括性洞察"
+            },
+            {
+              "en": "The diagram shows that a very small number of languages (approximately 100) hold a dominant position, whereas more than half of the world's languages are spoken by a very small percentage of the world population (0.2%).",
+              "cn": "数据细节→适合 body"
+            }
+          ]
+        },
+        {
+          "name": "Introduction vs Conclusion 写法",
+          "detail": "Introduction：改写题目、给出总体视角；Conclusion：In summary... 概括，不给新数据。",
+          "examples": [
+            {
+              "en": "In terms of rank order, English was by far the most commonly studied second language, followed by French, Spanish, German and Russian.",
+              "cn": "Main paragraph 按 rank order 组织"
+            },
+            {
+              "en": "English also experienced the most significant growth over the two decades, rising from 60 percent to 80 percent.",
+              "cn": "变化描述+数据"
+            },
+            {
+              "en": "In summary, ...",
+              "cn": "Conclusion 句式模板"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "the diagram shows",
+        "the chart illustrates",
+        "the proportion of",
+        "classified as",
+        "minority / mid-sized / dominant languages",
+        "speech communities",
+        "secondary school learners",
+        "most commonly studied second language",
+        "rank order",
+        "gained in popularity",
+        "nearly trebled"
+      ],
+      "grammar": [
+        "时态：图表事实用一般现在时；已完成对比用一般过去时",
+        "百分数表达：rising from 60 percent to 80 percent, just under 20 percent",
+        "比较级/最高级：by far the most commonly studied, the most significant growth",
+        "分词短语作状语：most notably between 2000 and 2010",
+        "关系从句：those who..., the percentage of which..."
+      ],
+      "connectors": [
+        "顺序/位置：In terms of rank order, first, second, finally, by far, followed by",
+        "变化：rising from...to..., growing, gaining in popularity, nearly trebled, experienced growth",
+        "对比：on the other hand, by contrast, whereas, while",
+        "总结：In summary, Overall, To sum up, In conclusion, In brief",
+        "时间：over the two decades, between 2000 and 2010, over the 20-year period"
+      ],
+      "exercises": [
+        "概述句四选一判断练习",
+        "Introduction vs Conclusion 句式判断",
+        "Main paragraph 按 rank order 组织写作"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The Internet",
+      "titleCn": "互联网",
+      "topic": "Task 1 Table；Task 2 Planning an essay（大纲写作）",
+      "page": "p.51–52",
+      "questionTypes": [
+        "Task 1: Table",
+        "Task 2: To what extent does… / Discuss both sides"
+      ],
+      "examInfo": [
+        {
+          "title": "Exam information: Organising essays",
+          "points": [
+            "Task 2 essays 可以用不同方式组织。某些组织模式能让你 <b>show more skills in language and argumentation</b>。"
+          ]
+        }
+      ],
+      "examTips": [
+        "<b>Look for patterns in the data</b> 给描述一个结构：把 <b>similar items together</b> 分组，找 <b>associated trends</b>。"
+      ],
+      "watchOuts": [
+        "不要试图包含 <b>所有数字</b>。聚焦 <b>summarising the key information</b>，每条 general observation 配 <b>一两个例子</b>。"
+      ],
+      "techniques": [
+        {
+          "name": "表格描述四步法",
+          "detail": "看末行→总体结论；看第一列→按类别分组；看第三列→最大/最小占比；看末列→与其他列建立关联。",
+          "examples": [
+            {
+              "en": "The table shows that over the ten-year period there was an exponential increase in Internet use worldwide.",
+              "cn": "General statement"
+            },
+            {
+              "en": "The number of Internet users expanded more than tenfold, with the proportion of the world's population online reaching fifty-seven percent in 2020.",
+              "cn": "Supporting detail"
+            }
+          ]
+        },
+        {
+          "name": "Essay outline（提纲）结构",
+          "detail": "Introduction → Body 1（Idea in the question + Evidence for）→ Body 2（Other possible idea + Evidence for）→ Conclusion。",
+          "examples": [
+            {
+              "en": "Idea in the question: Internet can increase social isolation → young people who spend a lot of time online cannot develop social skills or make real friends",
+              "cn": "Body 1：论点+证据"
+            },
+            {
+              "en": "Other possible idea: Internet can bring people closer together → people who cannot go out easily can keep in touch with friends online",
+              "cn": "Body 2：对立论点+证据"
+            },
+            {
+              "en": "The Internet can bring people together if used in the right way.",
+              "cn": "Conclusion"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "internet users",
+        "Internet use",
+        "penetration / percentage of population",
+        "growth in Internet use",
+        "exponential increase",
+        "expand more than tenfold",
+        "social isolation",
+        "loneliness",
+        "social skills",
+        "make real friends",
+        "addictive",
+        "double-edged sword"
+      ],
+      "grammar": [
+        "现在完成时（至今累计增长）：There has been an exponential increase in…",
+        "过去时与现在完成时对比",
+        "不定式作目的状语：to develop social skills",
+        "关系从句：people who spend a lot of time online",
+        "动名词作主语/宾语：Reading emails, Using social networking",
+        "百分比与倍数：more than tenfold, 57 percent"
+      ],
+      "connectors": [
+        "转折对比：however, but, on the other hand, whereas, while, by contrast",
+        "因果：because, since, so, as a result, therefore",
+        "举例：for example, e.g., such as",
+        "补充：in addition, moreover, furthermore",
+        "让步：although, even though, despite",
+        "因果目的：so that, in order to, which allows people to..."
+      ],
+      "exercises": [
+        "表格四步法分析练习",
+        "三条 general statements + supporting details 写作",
+        "Essay outline 提纲评价（strengths and weaknesses）"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Consumer spending",
+      "titleCn": "消费支出",
+      "topic": "Task 1 Mixed task（Line graph + Table）；因果关系谨慎表达",
+      "page": "p.59–60",
+      "questionTypes": [
+        "Task 1: Mixed (Line graph + Table)",
+        "Task 1: Cause and effect"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "引言应说明 <b>两个图表之间的关系（link）</b>。",
+        "用以下表达 <b>谨慎表述因果关系</b>：when...rises,...also appear to...；the more...the more...；when...falls,...appear to...；the less...the more..."
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "Mixed task 引言与主体段",
+          "detail": "Introduction 说明两个图各展示什么 + 它们的关系；主体段按年龄组分组描述。",
+          "examples": [
+            {
+              "en": "The line graph shows average disposable income for three age groups from 2000 to 2020. The table gives the percentage increase in sales for seven products at five-year intervals. Seen together, the figures suggest a link between age, disposable income and sales.",
+              "cn": "引言三句：图1+图2+关系"
+            },
+            {
+              "en": "Sales of products typically enjoyed by young people, trainers, mobile phones, and skateboards, showed a similar pattern with sales growing strongly between 2000 and 2004.",
+              "cn": "主体段按年龄组组织"
+            },
+            {
+              "en": "Overall, the figures suggest that the sales performance of different types of products may be influenced by disposable income available to different sectors of the population.",
+              "cn": "结论句：谨慎因果表达"
+            }
+          ]
+        },
+        {
+          "name": "谨慎因果表达句型",
+          "detail": "用 appear to / tend to / may be influenced by 等避免绝对化。",
+          "examples": [
+            {
+              "en": "when disposable income rises, sales also appear to rise",
+              "cn": "正相关表达"
+            },
+            {
+              "en": "the more disposable income people have, the more they spend on luxury goods",
+              "cn": "the more...the more... 结构"
+            },
+            {
+              "en": "may be influenced by disposable income",
+              "cn": "被动+谨慎情态"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "disposable income",
+        "average disposable income",
+        "consumer spending",
+        "consumer credit",
+        "taxation",
+        "percentage increase in sales",
+        "monthly expenditure",
+        "showed a similar pattern",
+        "remained roughly constant",
+        "relatively stable"
+      ],
+      "grammar": [
+        "过去时 + 完成时：2000–2020 历史数据用过去时；区间累计用现在完成时",
+        "定语从句：products typically enjoyed by young people",
+        "被动语态：is influenced by disposable income",
+        "比较结构：more than, the most, as...as",
+        "谨慎情态：appear to, tend to, may, might, suggest"
+      ],
+      "connectors": [
+        "谨慎因果：appear to, tend to, seem to, may be influenced by, suggest that, is associated with, correlate with",
+        "相关结构：the more...the more..., the less...the more..., when...rises,...also appear to...",
+        "转折/对比：whereas, while, by contrast, on the other hand, similar pattern",
+        "时间/顺序：from 2000 to 2020, between 2000 and 2004, over the period, thereafter",
+        "结果：so that, thus, hence, as a result"
+      ],
+      "exercises": [
+        "Mixed task 引言写作（三句信息）",
+        "因果关系图组描述练习",
+        "Table 描述框架填空（Introduction / Body / Conclusion）"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Children and parents",
+      "titleCn": "子女与父母",
+      "topic": "Task 1 支撑细节信号词；Task 2 情态动词的恰当使用",
+      "page": "p.67–68",
+      "questionTypes": [
+        "Task 1: Table / Survey data",
+        "Task 2: Problem-Solution (modal verbs)"
+      ],
+      "examInfo": [
+        {
+          "title": "Modal verbs 功能分类",
+          "points": [
+            "<b>will</b> = making a promise or prediction（承诺或预测）",
+            "<b>could</b> = describing possible consequences（可能后果）",
+            "<b>must</b> = indicating strong obligation or necessity（强烈义务）",
+            "<b>can</b> = making a suggestion / indicating ability（建议/能力）",
+            "<b>should</b> = tentatively making a suggestion（试探性建议）"
+          ]
+        }
+      ],
+      "examTips": [
+        "Task 1：最常见的支撑细节信号词是 <b>for example</b>，也可用其他表达。",
+        "Task 2：<b>can, should, might</b> 等情态动词帮助框定观点，常用于表示 intention, obligation, permission, ability, possibility。"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "支撑细节信号词四类",
+          "detail": "superlatives / expressions indicating example / focusing expressions / expressions indicating uniqueness。",
+          "examples": [
+            {
+              "en": "the biggest difference",
+              "cn": "最高级信号词"
+            },
+            {
+              "en": "for example / for instance / such as",
+              "cn": "举例信号词"
+            },
+            {
+              "en": "especially / in particular / particularly",
+              "cn": "聚焦信号词"
+            },
+            {
+              "en": "the only / the sole / the most common",
+              "cn": "唯一性信号词"
+            }
+          ]
+        },
+        {
+          "name": "情态动词在议论文中的运用",
+          "detail": "范文用 must/should/can/could/will 分别表义务/建议/能力/后果/预测。",
+          "examples": [
+            {
+              "en": "society must bear some of this responsibility",
+              "cn": "must：强烈义务"
+            },
+            {
+              "en": "government could ensure that its policies take the interests of children into account",
+              "cn": "could：可能后果"
+            },
+            {
+              "en": "local government and charities can ensure that young people have access to independent confidential sources of help",
+              "cn": "can：建议/能力"
+            },
+            {
+              "en": "It would be wrong to say that…",
+              "cn": "would：委婉表态"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "parental control",
+        "self-earned money",
+        "place restrictions on",
+        "exercise control over",
+        "rights of young people",
+        "defend their rights",
+        "obligation",
+        "duty of parents",
+        "independent confidential sources of help",
+        "help lines",
+        "disseminate information",
+        "safeguard the rights of",
+        "compliance with frameworks"
+      ],
+      "grammar": [
+        "情态动词表义务/建议/可能：must（强烈义务）、should（试探性建议）、can/could（可能/能力/建议）、will（承诺/预测）、might/may（较低可能性）",
+        "情态动词 + 被动：can be done, could be done, should be cut",
+        "关系从句：children who do not have the same access to power",
+        "动名词/不定式：the means to defend their rights",
+        "让步从句 + 介词短语：because children do not have…"
+      ],
+      "connectors": [
+        "顺序标志：Firstly, Secondly, A third possible measure, Finally",
+        "补充：In addition, Moreover, Furthermore",
+        "让步转折：However, Nevertheless, Although, While",
+        "因果目的：so that, in order to, therefore, thus",
+        "举例：for example, such as, for instance",
+        "总结：In short, In conclusion, To sum up, Overall"
+      ],
+      "exercises": [
+        "信号词分类练习（superlatives / example / focusing / uniqueness）",
+        "段落填空（with the exception of / the most common / the clearest）",
+        "情态动词功能配对（will/could/must/can/should）",
+        "范文结构分析（Introduction → Body 1-3 → Conclusion）"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "An ageing population",
+      "titleCn": "人口老龄化",
+      "topic": "Task 1 段落精简（removing unnecessary words）；Task 2 Creating cohesion with summary words",
+      "page": "p.75–76",
+      "questionTypes": [
+        "Task 1: Chart description (editing)",
+        "Task 2: Cohesion (summary words + repetition)"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "用 <b>moreover</b> 强调额外要点；用 <b>although / however</b> 表示对比。",
+        "Cohesion 常由 <b>this / these</b> 维持：summary word 指代 <b>前一句的核心要点</b>，如 *The gap in life expectancy has grown. This trend is likely to continue.*",
+        "通过 <b>重复关键词</b> 维持衔接（link back to exam question or thesis statement）；其他需重复的词用 <b>synonyms</b>。"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "段落精简：删除多余 cohesive devices",
+          "detail": "删除多余的 in fact, Moreover, In addition, Also, however；拆分过长复合句；修正逗号粘连。",
+          "examples": [
+            {
+              "en": "The age group with the highest percentage of both men and women is 55 to 59, roughly five percent of the population.",
+              "cn": "合并精简（删除Moreover）"
+            },
+            {
+              "en": "Until the age of 59, the proportion of males and females is roughly equal. Thereafter, women make up a higher proportion of the elderly population.",
+              "cn": "拆分过长句（修正逗号粘连）"
+            }
+          ]
+        },
+        {
+          "name": "Summary words 创造衔接",
+          "detail": "用 this trend / this development / these issues 等总结词指代前文要点。",
+          "examples": [
+            {
+              "en": "The changes that result from allowing men into female-dominated occupations may be subtle, but they are far-reaching. However, to benefit the most from this development, it is important not to expect males and females to approach work in identical ways.",
+              "cn": "this development 指代前文 changes"
+            },
+            {
+              "en": "A number of measures should be taken to address these issues.",
+              "cn": "these issues 指代前文 drawbacks"
+            },
+            {
+              "en": "To some extent, therefore, this trend may be inevitable.",
+              "cn": "this trend 指代前文 languages disappearing"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "ageing population",
+        "pensioners",
+        "the elderly",
+        "older people",
+        "people of working age",
+        "life expectancy",
+        "retirement",
+        "set aside funds",
+        "national insurance scheme",
+        "employer contributions",
+        "compulsory private pension plans",
+        "invest properly in the health services",
+        "guarantee a good retirement"
+      ],
+      "grammar": [
+        "强调句：It is true that...",
+        "现在完成时：have disappeared, has grown",
+        "被动语态",
+        "不定式作目的/主语：to ensure that..., to spend a longer proportion...",
+        "动名词作主语：Saving sufficient sums of money would ensure...",
+        "并列/从属连词与标点规范（逗号粘连、run-on sentence）"
+      ],
+      "connectors": [
+        "补充强调：moreover, in addition, also, what is more",
+        "对比：although, however, whereas, on the other hand, by contrast",
+        "因果：therefore, so, thus, as a result, due to",
+        "总结指代：this trend, this development, this alone, these issues, this view",
+        "顺序：Firstly, In addition, Another measure that should be taken",
+        "总结：In short, Overall, To sum up"
+      ],
+      "exercises": [
+        "段落精简练习（删除多余词、拆分复杂句、修正标点）",
+        "Summary words 填空（development / issues / initiative / trend）",
+        "Repetition 训练：识别被重复的关键词及其同义替换"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Fame",
+      "titleCn": "名声/名人",
+      "topic": "Task 1 Formal language + Synonyms；Task 2 Choosing the right level of formality",
+      "page": "p.83–84",
+      "questionTypes": [
+        "Task 1: Table (opinion poll)",
+        "Task 2: General discussion (formal register)"
+      ],
+      "examInfo": [
+        {
+          "title": "Exam information: General v specialist knowledge",
+          "points": [
+            "Task 2 题目通常要求讨论 <b>general rather than specialist knowledge</b> 的问题。",
+            "因此 IELTS Writing Task 2 所需语言 <b>often predictable</b>。"
+          ]
+        }
+      ],
+      "examTips": [
+        "Task 1 中避免重复同一词很有挑战——学习 <b>synonyms for common expressions</b>。"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "正式语体替换",
+          "detail": "将非正式表达替换为正式书面语。",
+          "examples": [
+            {
+              "en": "really big changes → significant changes",
+              "cn": "非正式→正式"
+            },
+            {
+              "en": "Lots of → Many / A large number of",
+              "cn": "非正式→正式"
+            },
+            {
+              "en": "E.g. → For example",
+              "cn": "非正式→正式"
+            },
+            {
+              "en": "Amazingly → Notably / Remarkably",
+              "cn": "非正式→正式"
+            },
+            {
+              "en": "didn't even show up → failed to appear / feature",
+              "cn": "非正式→正式"
+            }
+          ]
+        },
+        {
+          "name": "同义词替换库（10个常用表达）",
+          "detail": "掌握核心词的同义词以避免重复。",
+          "examples": [
+            {
+              "en": "advantage → benefit / merit",
+              "cn": "优势"
+            },
+            {
+              "en": "disadvantage → drawback / downside",
+              "cn": "劣势"
+            },
+            {
+              "en": "opinion → view / standpoint",
+              "cn": "观点"
+            },
+            {
+              "en": "however → nevertheless / on the other hand",
+              "cn": "转折"
+            },
+            {
+              "en": "people → individuals / respondents / the public",
+              "cn": "人们"
+            },
+            {
+              "en": "problem → issue / difficulty / challenge",
+              "cn": "问题"
+            },
+            {
+              "en": "important → significant / crucial",
+              "cn": "重要"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "celebrities",
+        "celebrity gossip",
+        "career aspirations",
+        "traditional professions",
+        "entertainment industry",
+        "media coverage",
+        "public opinion survey",
+        "respondents",
+        "coverage of",
+        "dissatisfaction with",
+        "stated preferences",
+        "mismatch between",
+        "significant",
+        "a large number of",
+        "Notably",
+        "feature"
+      ],
+      "grammar": [
+        "时态：过去时（1990/2020 数据）",
+        "数量表达：A similar number/percentage, nearly one in five, only four percent",
+        "非正式 vs 正式语体：缩略（aren't, wasn't）、口语化（big, lots of, show up）→ 书面表达",
+        "同义替换（避免重复）：professions → occupations/jobs; respondents → participants",
+        "关系从句：which were not included in the 1990 list",
+        "现在完成时：have increased, has risen"
+      ],
+      "connectors": [
+        "顺序：On the whole, At the other end of the scale, In short",
+        "补充/转折：On the contrary, On the other hand, However, Furthermore, In addition",
+        "举例/引用：for example, for instance, such as",
+        "因果：so, therefore, as a result",
+        "比较/程度：A similar number/percentage, particularly, relatively high, nearly one in five"
+      ],
+      "exercises": [
+        "正式语体替换练习（6个非正式表达→正式）",
+        "同义词替换练习（professions / respondents / appeared）",
+        "表格描述同义替换写作",
+        "Task 2 同义词库构建（10个核心词）"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Transportation",
+      "titleCn": "交通",
+      "topic": "Task 1 Articles（冠词）；Task 2 Correcting errors in sentence structure",
+      "page": "p.91–92",
+      "questionTypes": [
+        "Task 1: Bar chart (articles)",
+        "Task 2: Error correction"
+      ],
+      "examInfo": [],
+      "examTips": [
+        "常见错误是 <b>article a and the</b> 的误用。遵循 <b>some basic guidelines</b> 可避免大多数错误。",
+        "检查你之前写过的文章，列出 <b>most common mistakes</b>，检查时注意它们。"
+      ],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "冠词规则（a/an/the）",
+          "detail": "单个可数名词泛指用 a；序数词/最高级/一类人/唯一性词用 the。",
+          "examples": [
+            {
+              "en": "a car, a student",
+              "cn": "泛指单数可数名词→用 a"
+            },
+            {
+              "en": "the second, the first",
+              "cn": "序数词→用 the"
+            },
+            {
+              "en": "the biggest",
+              "cn": "最高级→用 the"
+            },
+            {
+              "en": "the educated, the poor, the wealthy",
+              "cn": "the + 形容词表一类人"
+            },
+            {
+              "en": "the sole, the only",
+              "cn": "唯一性→用 the"
+            },
+            {
+              "en": "Cars can be seen as status symbols.",
+              "cn": "可数名词泛指→复数不加冠词"
+            }
+          ]
+        },
+        {
+          "name": "十大常见句法错误识别与纠正",
+          "detail": "主谓一致/冠词/可数不可数/介词/词类/关系从句/动词形式/时态/流水句/残句。",
+          "examples": [
+            {
+              "en": "The evidences show → The evidence shows",
+              "cn": "可数/不可数错误"
+            },
+            {
+              "en": "is most important safety measure → is the most important safety measure",
+              "cn": "冠词缺失"
+            },
+            {
+              "en": "It is illegally to drive → It is illegal to drive",
+              "cn": "词类错误"
+            },
+            {
+              "en": "depends of several factors → depends on several factors",
+              "cn": "介词错误"
+            },
+            {
+              "en": "can to provide → can provide",
+              "cn": "动词形式错误"
+            },
+            {
+              "en": "Many people which living → Many people who live",
+              "cn": "关系从句错误"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "modes of transport",
+        "conurbation",
+        "inhabitants",
+        "annual distance travelled",
+        "public transport",
+        "suburban living",
+        "sprawling cities",
+        "pedestrians",
+        "seatbelt",
+        "road accident fatalities",
+        "licence",
+        "car insurance",
+        "secondhand car",
+        "illegal practices",
+        "poorly regulated",
+        "inversely proportional to",
+        "outweigh",
+        "correlate negatively with"
+      ],
+      "grammar": [
+        "冠词规则（核心）：a（泛指单数）/ the（序数词、最高级、一类人、唯一性）",
+        "可数 vs 不可数：evidence（不可数）/ evidences（错）",
+        "主谓一致、介词（depend on）、词类（illegal vs illegally）",
+        "关系从句（who live vs which living）",
+        "动词形式（can provide vs can to provide）",
+        "时态（has declined last year→declined last year）",
+        "流水句（用分号/连词）、残句（补全）"
+      ],
+      "connectors": [
+        "因果结果链：as a result, as a consequence, consequently, therefore, hence, so",
+        "原因：because, since, as, due to",
+        "转折对比：however, on the other hand, whereas, by contrast",
+        "相关表达：inversely proportional to, outweigh, correlate negatively with",
+        "总结：In short, Overall, To sum up"
+      ],
+      "exercises": [
+        "冠词填空练习（10空）",
+        "十大句法错误识别与纠正（10句）",
+        "连接句子练习（linking words: as a result / because / as a consequence / since）"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Additional model essays",
+      "titleCn": "附加范文精讲",
+      "topic": "Task 1 Bar chart 范文 + Task 2 Type D 'Evaluate an idea' 范文",
+      "page": "p.99–100",
+      "questionTypes": [
+        "Task 1: Bar chart (model essay)",
+        "Task 2: Type D 'Evaluate an idea' (model essay)"
+      ],
+      "examInfo": [],
+      "examTips": [],
+      "watchOuts": [],
+      "techniques": [
+        {
+          "name": "Task 2 范文批注要点",
+          "detail": "Type D 评价性议论文：承认对立观点→'tested' idea；段首 signal word；每段配具体例子；结论中 acknowledging opposing view。",
+          "examples": [
+            {
+              "en": "Although some people idealise traditional cooking practices and believe them will prevail indefinitely, demographic trends suggest that this is unlikely to be the case.",
+              "cn": "让步+立场：承认对方观点→已'tested' idea"
+            },
+            {
+              "en": "The first reason is the decline in family size... Another reason convenience foods are likely to become more popular is the increase in the number of adults who work in full-time employment.",
+              "cn": "段首 signal word 标志论点"
+            },
+            {
+              "en": "In the UK, for example, working mothers significantly outnumber stay-at-home mothers.",
+              "cn": "具体例子支撑"
+            },
+            {
+              "en": "convenience foods are likely to continue to grow in popularity and may very well eventually replace traditional methods",
+              "cn": "结论：预测表达 + 承认对立观点"
+            }
+          ]
+        },
+        {
+          "name": "Task 1 范文批注要点",
+          "detail": "一般现在时描述图表；一般过去时描述特定年份数据；最高级比较多项；比较级比较两项；结论概括不给理由。",
+          "examples": [
+            {
+              "en": "The bar chart shows the percentage of home and international students in the UK achieving at least a second class degree in eight subjects in 2018.",
+              "cn": "一般现在时描述图表内容"
+            },
+            {
+              "en": "the largest percentage of good passes was in Art History and Sociology (80%). The lowest was in Information Technology (55%).",
+              "cn": "最高级比较八项科目"
+            },
+            {
+              "en": "four out of five degrees awarded to students from abroad were second class or better (versus fewer than two out of three for home students)",
+              "cn": "比较级比较两组学生 + 数量表达多样化"
+            },
+            {
+              "en": "In brief, the chart shows that home students tended to do better in Arts and Social Science related subjects, whereas international students tended to do better in technology related subjects.",
+              "cn": "结论：概括要点，不给理由"
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        "convenience foods",
+        "traditional cooking practices",
+        "domestic tasks",
+        "single-adult households",
+        "dual-income households",
+        "working mothers",
+        "stay-at-home mothers",
+        "economically active",
+        "demographic trends",
+        "home students",
+        "international students",
+        "a second class degree",
+        "good passes",
+        "degrees awarded",
+        "tend to do better in",
+        "be likely to",
+        "may well",
+        "acknowledge",
+        "in brief"
+      ],
+      "grammar": [
+        "时态：图表当前内容用 simple present；特定年份（2018）数据用 simple past",
+        "数量表达多样化：over half of, the largest percentage, four out of five, fewer than two out of three, roughly 70%",
+        "最高级（>2项比较）：the largest percentage, the lowest",
+        "比较级（2项比较）：higher than, lower than",
+        "让步状语从句前置：Although + 句子, 主句",
+        "情态动词表预测：may very well, is likely to",
+        "不定式/动名词：devote himself/herself to, spend (time) doing, tend to do"
+      ],
+      "connectors": [
+        "让步对比：Although, In fact, However, On the other hand, Whereas, While",
+        "因果：because, due to, since, so, therefore, as a result",
+        "举例：for example, for instance, such as",
+        "顺序/补充：In addition, Moreover, Furthermore, What is more",
+        "预测表达：likely to, unlikely, expected to, may well, it is likely that",
+        "结论总结：In brief, In summary, Overall, To sum up, In conclusion"
+      ],
+      "exercises": [
+        "Task 2 范文结构标注（acknowledging / signal word / example / prediction）",
+        "Task 1 范文时态与数量表达分析",
+        "范文模仿写作练习"
+      ]
+    }
+  ]
+}
