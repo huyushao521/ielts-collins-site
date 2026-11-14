@@ -151,7 +151,58 @@
         "8个关系短语 + 造句",
         "Part 1 样题：Tell me something about your family.",
         "Part 3 话题：Modern families / Friendship"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 9,
+        "items": [
+          {
+            "track": 1,
+            "file": "assets/audio/speaking/speaking_track_01.mp3",
+            "label": "Track 01"
+          },
+          {
+            "track": 2,
+            "file": "assets/audio/speaking/speaking_track_02.mp3",
+            "label": "Track 02"
+          },
+          {
+            "track": 3,
+            "file": "assets/audio/speaking/speaking_track_03.mp3",
+            "label": "Track 03"
+          },
+          {
+            "track": 4,
+            "file": "assets/audio/speaking/speaking_track_04.mp3",
+            "label": "Track 04"
+          },
+          {
+            "track": 5,
+            "file": "assets/audio/speaking/speaking_track_05.mp3",
+            "label": "Track 05"
+          },
+          {
+            "track": 6,
+            "file": "assets/audio/speaking/speaking_track_06.mp3",
+            "label": "Track 06"
+          },
+          {
+            "track": 7,
+            "file": "assets/audio/speaking/speaking_track_07.mp3",
+            "label": "Track 07"
+          },
+          {
+            "track": 8,
+            "file": "assets/audio/speaking/speaking_track_08.mp3",
+            "label": "Track 08"
+          },
+          {
+            "track": 9,
+            "file": "assets/audio/speaking/speaking_track_09.mp3",
+            "label": "Track 09"
+          }
+        ]
+      }
     },
     {
       "id": 2,
@@ -268,7 +319,63 @@
         "健康词汇填空（10题）",
         "搭配句型填空（6题）",
         "讨论题：Would you say you have a balanced diet?"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 10,
+        "items": [
+          {
+            "track": 10,
+            "file": "assets/audio/speaking/speaking_track_10.mp3",
+            "label": "Track 10"
+          },
+          {
+            "track": 11,
+            "file": "assets/audio/speaking/speaking_track_11.mp3",
+            "label": "Track 11"
+          },
+          {
+            "track": 13,
+            "file": "assets/audio/speaking/speaking_track_13.mp3",
+            "label": "Track 13"
+          },
+          {
+            "track": 14,
+            "file": "assets/audio/speaking/speaking_track_14.mp3",
+            "label": "Track 14"
+          },
+          {
+            "track": 15,
+            "file": "assets/audio/speaking/speaking_track_15.mp3",
+            "label": "Track 15"
+          },
+          {
+            "track": 16,
+            "file": "assets/audio/speaking/speaking_track_16.mp3",
+            "label": "Track 16"
+          },
+          {
+            "track": 17,
+            "file": "assets/audio/speaking/speaking_track_17.mp3",
+            "label": "Track 17"
+          },
+          {
+            "track": 18,
+            "file": "assets/audio/speaking/speaking_track_18.mp3",
+            "label": "Track 18"
+          },
+          {
+            "track": 19,
+            "file": "assets/audio/speaking/speaking_track_19.mp3",
+            "label": "Track 19"
+          },
+          {
+            "track": 20,
+            "file": "assets/audio/speaking/speaking_track_20.mp3",
+            "label": "Track 20"
+          }
+        ]
+      }
     },
     {
       "id": 3,
@@ -387,7 +494,48 @@
         "Julia & Peter 段落填空",
         "词形变化练习（10题）",
         "Part 1 答题：相关 + 长度合适（1–3句）"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 7,
+        "items": [
+          {
+            "track": 21,
+            "file": "assets/audio/speaking/speaking_track_21.mp3",
+            "label": "Track 21"
+          },
+          {
+            "track": 22,
+            "file": "assets/audio/speaking/speaking_track_22.mp3",
+            "label": "Track 22"
+          },
+          {
+            "track": 23,
+            "file": "assets/audio/speaking/speaking_track_23.mp3",
+            "label": "Track 23"
+          },
+          {
+            "track": 25,
+            "file": "assets/audio/speaking/speaking_track_25.mp3",
+            "label": "Track 25"
+          },
+          {
+            "track": 26,
+            "file": "assets/audio/speaking/speaking_track_26.mp3",
+            "label": "Track 26"
+          },
+          {
+            "track": 27,
+            "file": "assets/audio/speaking/speaking_track_27.mp3",
+            "label": "Track 27"
+          },
+          {
+            "track": 28,
+            "file": "assets/audio/speaking/speaking_track_28.mp3",
+            "label": "Track 28"
+          }
+        ]
+      }
     },
     {
       "id": 4,
@@ -510,7 +658,63 @@
         "天气描述配对（8句）",
         "get 与 tend to be 语法练习",
         "Part 1 答题 + 用新闻报道积累 Part 3 观点"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 10,
+        "items": [
+          {
+            "track": 29,
+            "file": "assets/audio/speaking/speaking_track_29.mp3",
+            "label": "Track 29"
+          },
+          {
+            "track": 30,
+            "file": "assets/audio/speaking/speaking_track_30.mp3",
+            "label": "Track 30"
+          },
+          {
+            "track": 31,
+            "file": "assets/audio/speaking/speaking_track_31.mp3",
+            "label": "Track 31"
+          },
+          {
+            "track": 32,
+            "file": "assets/audio/speaking/speaking_track_32.mp3",
+            "label": "Track 32"
+          },
+          {
+            "track": 33,
+            "file": "assets/audio/speaking/speaking_track_33.mp3",
+            "label": "Track 33"
+          },
+          {
+            "track": 34,
+            "file": "assets/audio/speaking/speaking_track_34.mp3",
+            "label": "Track 34"
+          },
+          {
+            "track": 35,
+            "file": "assets/audio/speaking/speaking_track_35.mp3",
+            "label": "Track 35"
+          },
+          {
+            "track": 36,
+            "file": "assets/audio/speaking/speaking_track_36.mp3",
+            "label": "Track 36"
+          },
+          {
+            "track": 37,
+            "file": "assets/audio/speaking/speaking_track_37.mp3",
+            "label": "Track 37"
+          },
+          {
+            "track": 38,
+            "file": "assets/audio/speaking/speaking_track_38.mp3",
+            "label": "Track 38"
+          }
+        ]
+      }
     },
     {
       "id": 5,
@@ -631,7 +835,63 @@
         "全球化词形变化填空（10空）",
         "比较级练习（9句）",
         "Part 1 答题练习"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 10,
+        "items": [
+          {
+            "track": 39,
+            "file": "assets/audio/speaking/speaking_track_39.mp3",
+            "label": "Track 39"
+          },
+          {
+            "track": 40,
+            "file": "assets/audio/speaking/speaking_track_40.mp3",
+            "label": "Track 40"
+          },
+          {
+            "track": 41,
+            "file": "assets/audio/speaking/speaking_track_41.mp3",
+            "label": "Track 41"
+          },
+          {
+            "track": 42,
+            "file": "assets/audio/speaking/speaking_track_42.mp3",
+            "label": "Track 42"
+          },
+          {
+            "track": 43,
+            "file": "assets/audio/speaking/speaking_track_43.mp3",
+            "label": "Track 43"
+          },
+          {
+            "track": 44,
+            "file": "assets/audio/speaking/speaking_track_44.mp3",
+            "label": "Track 44"
+          },
+          {
+            "track": 45,
+            "file": "assets/audio/speaking/speaking_track_45.mp3",
+            "label": "Track 45"
+          },
+          {
+            "track": 46,
+            "file": "assets/audio/speaking/speaking_track_46.mp3",
+            "label": "Track 46"
+          },
+          {
+            "track": 47,
+            "file": "assets/audio/speaking/speaking_track_47.mp3",
+            "label": "Track 47"
+          },
+          {
+            "track": 48,
+            "file": "assets/audio/speaking/speaking_track_48.mp3",
+            "label": "Track 48"
+          }
+        ]
+      }
     },
     {
       "id": 6,
@@ -749,7 +1009,68 @@
         "互联网四大危险配对",
         "Phrasal verb particles 表格填空",
         "Part 1 答题练习"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 11,
+        "items": [
+          {
+            "track": 49,
+            "file": "assets/audio/speaking/speaking_track_49.mp3",
+            "label": "Track 49"
+          },
+          {
+            "track": 50,
+            "file": "assets/audio/speaking/speaking_track_50.mp3",
+            "label": "Track 50"
+          },
+          {
+            "track": 52,
+            "file": "assets/audio/speaking/speaking_track_52.mp3",
+            "label": "Track 52"
+          },
+          {
+            "track": 53,
+            "file": "assets/audio/speaking/speaking_track_53.mp3",
+            "label": "Track 53"
+          },
+          {
+            "track": 54,
+            "file": "assets/audio/speaking/speaking_track_54.mp3",
+            "label": "Track 54"
+          },
+          {
+            "track": 55,
+            "file": "assets/audio/speaking/speaking_track_55.mp3",
+            "label": "Track 55"
+          },
+          {
+            "track": 56,
+            "file": "assets/audio/speaking/speaking_track_56.mp3",
+            "label": "Track 56"
+          },
+          {
+            "track": 57,
+            "file": "assets/audio/speaking/speaking_track_57.mp3",
+            "label": "Track 57"
+          },
+          {
+            "track": 58,
+            "file": "assets/audio/speaking/speaking_track_58.mp3",
+            "label": "Track 58"
+          },
+          {
+            "track": 59,
+            "file": "assets/audio/speaking/speaking_track_59.mp3",
+            "label": "Track 59"
+          },
+          {
+            "track": 60,
+            "file": "assets/audio/speaking/speaking_track_60.mp3",
+            "label": "Track 60"
+          }
+        ]
+      }
     },
     {
       "id": 7,
@@ -876,7 +1197,93 @@
         "频率句型填空（7题）",
         "Present perfect vs continuous 练习",
         "Part 1 答题 + 请考官重复问题 / 礼貌表达"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 16,
+        "items": [
+          {
+            "track": 61,
+            "file": "assets/audio/speaking/speaking_track_61.mp3",
+            "label": "Track 61"
+          },
+          {
+            "track": 62,
+            "file": "assets/audio/speaking/speaking_track_62.mp3",
+            "label": "Track 62"
+          },
+          {
+            "track": 63,
+            "file": "assets/audio/speaking/speaking_track_63.mp3",
+            "label": "Track 63"
+          },
+          {
+            "track": 64,
+            "file": "assets/audio/speaking/speaking_track_64.mp3",
+            "label": "Track 64"
+          },
+          {
+            "track": 65,
+            "file": "assets/audio/speaking/speaking_track_65.mp3",
+            "label": "Track 65"
+          },
+          {
+            "track": 66,
+            "file": "assets/audio/speaking/speaking_track_66.mp3",
+            "label": "Track 66"
+          },
+          {
+            "track": 67,
+            "file": "assets/audio/speaking/speaking_track_67.mp3",
+            "label": "Track 67"
+          },
+          {
+            "track": 68,
+            "file": "assets/audio/speaking/speaking_track_68.mp3",
+            "label": "Track 68"
+          },
+          {
+            "track": 69,
+            "file": "assets/audio/speaking/speaking_track_69.mp3",
+            "label": "Track 69"
+          },
+          {
+            "track": 70,
+            "file": "assets/audio/speaking/speaking_track_70.mp3",
+            "label": "Track 70"
+          },
+          {
+            "track": 71,
+            "file": "assets/audio/speaking/speaking_track_71.mp3",
+            "label": "Track 71"
+          },
+          {
+            "track": 72,
+            "file": "assets/audio/speaking/speaking_track_72.mp3",
+            "label": "Track 72"
+          },
+          {
+            "track": 73,
+            "file": "assets/audio/speaking/speaking_track_73.mp3",
+            "label": "Track 73"
+          },
+          {
+            "track": 74,
+            "file": "assets/audio/speaking/speaking_track_74.mp3",
+            "label": "Track 74"
+          },
+          {
+            "track": 75,
+            "file": "assets/audio/speaking/speaking_track_75.mp3",
+            "label": "Track 75"
+          },
+          {
+            "track": 76,
+            "file": "assets/audio/speaking/speaking_track_76.mp3",
+            "label": "Track 76"
+          }
+        ]
+      }
     },
     {
       "id": 8,
@@ -1009,7 +1416,58 @@
         "教养短语配对（8题）",
         "used to / would 练习",
         "Part 2：Describe a happy childhood memory"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 9,
+        "items": [
+          {
+            "track": 77,
+            "file": "assets/audio/speaking/speaking_track_77.mp3",
+            "label": "Track 77"
+          },
+          {
+            "track": 78,
+            "file": "assets/audio/speaking/speaking_track_78.mp3",
+            "label": "Track 78"
+          },
+          {
+            "track": 79,
+            "file": "assets/audio/speaking/speaking_track_79.mp3",
+            "label": "Track 79"
+          },
+          {
+            "track": 80,
+            "file": "assets/audio/speaking/speaking_track_80.mp3",
+            "label": "Track 80"
+          },
+          {
+            "track": 81,
+            "file": "assets/audio/speaking/speaking_track_81.mp3",
+            "label": "Track 81"
+          },
+          {
+            "track": 82,
+            "file": "assets/audio/speaking/speaking_track_82.mp3",
+            "label": "Track 82"
+          },
+          {
+            "track": 83,
+            "file": "assets/audio/speaking/speaking_track_83.mp3",
+            "label": "Track 83"
+          },
+          {
+            "track": 84,
+            "file": "assets/audio/speaking/speaking_track_84.mp3",
+            "label": "Track 84"
+          },
+          {
+            "track": 85,
+            "file": "assets/audio/speaking/speaking_track_85.mp3",
+            "label": "Track 85"
+          }
+        ]
+      }
     },
     {
       "id": 9,
@@ -1147,7 +1605,73 @@
         "后缀变名词练习（12题）",
         "被动语态与使役结构练习",
         "Part 1 答题 + 澄清/释义/举例"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 12,
+        "items": [
+          {
+            "track": 87,
+            "file": "assets/audio/speaking/speaking_track_87.mp3",
+            "label": "Track 87"
+          },
+          {
+            "track": 88,
+            "file": "assets/audio/speaking/speaking_track_88.mp3",
+            "label": "Track 88"
+          },
+          {
+            "track": 89,
+            "file": "assets/audio/speaking/speaking_track_89.mp3",
+            "label": "Track 89"
+          },
+          {
+            "track": 90,
+            "file": "assets/audio/speaking/speaking_track_90.mp3",
+            "label": "Track 90"
+          },
+          {
+            "track": 91,
+            "file": "assets/audio/speaking/speaking_track_91.mp3",
+            "label": "Track 91"
+          },
+          {
+            "track": 92,
+            "file": "assets/audio/speaking/speaking_track_92.mp3",
+            "label": "Track 92"
+          },
+          {
+            "track": 93,
+            "file": "assets/audio/speaking/speaking_track_93.mp3",
+            "label": "Track 93"
+          },
+          {
+            "track": 94,
+            "file": "assets/audio/speaking/speaking_track_94.mp3",
+            "label": "Track 94"
+          },
+          {
+            "track": 95,
+            "file": "assets/audio/speaking/speaking_track_95.mp3",
+            "label": "Track 95"
+          },
+          {
+            "track": 96,
+            "file": "assets/audio/speaking/speaking_track_96.mp3",
+            "label": "Track 96"
+          },
+          {
+            "track": 97,
+            "file": "assets/audio/speaking/speaking_track_97.mp3",
+            "label": "Track 97"
+          },
+          {
+            "track": 98,
+            "file": "assets/audio/speaking/speaking_track_98.mp3",
+            "label": "Track 98"
+          }
+        ]
+      }
     },
     {
       "id": 10,
@@ -1274,7 +1798,83 @@
         "连读规则练习",
         "将来时表达练习",
         "Part 1 答题 + 预测可能问题"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 14,
+        "items": [
+          {
+            "track": 99,
+            "file": "assets/audio/speaking/speaking_track_99.mp3",
+            "label": "Track 99"
+          },
+          {
+            "track": 100,
+            "file": "assets/audio/speaking/speaking_track_100.mp3",
+            "label": "Track 100"
+          },
+          {
+            "track": 101,
+            "file": "assets/audio/speaking/speaking_track_101.mp3",
+            "label": "Track 101"
+          },
+          {
+            "track": 102,
+            "file": "assets/audio/speaking/speaking_track_102.mp3",
+            "label": "Track 102"
+          },
+          {
+            "track": 103,
+            "file": "assets/audio/speaking/speaking_track_103.mp3",
+            "label": "Track 103"
+          },
+          {
+            "track": 104,
+            "file": "assets/audio/speaking/speaking_track_104.mp3",
+            "label": "Track 104"
+          },
+          {
+            "track": 105,
+            "file": "assets/audio/speaking/speaking_track_105.mp3",
+            "label": "Track 105"
+          },
+          {
+            "track": 106,
+            "file": "assets/audio/speaking/speaking_track_106.mp3",
+            "label": "Track 106"
+          },
+          {
+            "track": 107,
+            "file": "assets/audio/speaking/speaking_track_107.mp3",
+            "label": "Track 107"
+          },
+          {
+            "track": 108,
+            "file": "assets/audio/speaking/speaking_track_108.mp3",
+            "label": "Track 108"
+          },
+          {
+            "track": 109,
+            "file": "assets/audio/speaking/speaking_track_109.mp3",
+            "label": "Track 109"
+          },
+          {
+            "track": 110,
+            "file": "assets/audio/speaking/speaking_track_110.mp3",
+            "label": "Track 110"
+          },
+          {
+            "track": 111,
+            "file": "assets/audio/speaking/speaking_track_111.mp3",
+            "label": "Track 111"
+          },
+          {
+            "track": 112,
+            "file": "assets/audio/speaking/speaking_track_112.mp3",
+            "label": "Track 112"
+          }
+        ]
+      }
     },
     {
       "id": 11,
@@ -1416,7 +2016,63 @@
         "Short answers 规则练习（6 rules）",
         "间接表达与因果句型练习",
         "Part 1 答题：简短回答 + 扩展细节"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 10,
+        "items": [
+          {
+            "track": 113,
+            "file": "assets/audio/speaking/speaking_track_113.mp3",
+            "label": "Track 113"
+          },
+          {
+            "track": 114,
+            "file": "assets/audio/speaking/speaking_track_114.mp3",
+            "label": "Track 114"
+          },
+          {
+            "track": 115,
+            "file": "assets/audio/speaking/speaking_track_115.mp3",
+            "label": "Track 115"
+          },
+          {
+            "track": 116,
+            "file": "assets/audio/speaking/speaking_track_116.mp3",
+            "label": "Track 116"
+          },
+          {
+            "track": 117,
+            "file": "assets/audio/speaking/speaking_track_117.mp3",
+            "label": "Track 117"
+          },
+          {
+            "track": 118,
+            "file": "assets/audio/speaking/speaking_track_118.mp3",
+            "label": "Track 118"
+          },
+          {
+            "track": 119,
+            "file": "assets/audio/speaking/speaking_track_119.mp3",
+            "label": "Track 119"
+          },
+          {
+            "track": 120,
+            "file": "assets/audio/speaking/speaking_track_120.mp3",
+            "label": "Track 120"
+          },
+          {
+            "track": 121,
+            "file": "assets/audio/speaking/speaking_track_121.mp3",
+            "label": "Track 121"
+          },
+          {
+            "track": 122,
+            "file": "assets/audio/speaking/speaking_track_122.mp3",
+            "label": "Track 122"
+          }
+        ]
+      }
     },
     {
       "id": 12,
@@ -1512,7 +2168,38 @@
         "Part 2 完整模拟（Track 124–125）：Describe a personal achievement you are proud of",
         "Part 3 完整模拟（Track 126–127）：双向讨论",
         "录音自测 + 对比 sample answer"
-      ]
+      ],
+      "audio": {
+        "folder": "speaking",
+        "count": 5,
+        "items": [
+          {
+            "track": 123,
+            "file": "assets/audio/speaking/speaking_track_123.mp3",
+            "label": "Track 123"
+          },
+          {
+            "track": 124,
+            "file": "assets/audio/speaking/speaking_track_124.mp3",
+            "label": "Track 124"
+          },
+          {
+            "track": 125,
+            "file": "assets/audio/speaking/speaking_track_125.mp3",
+            "label": "Track 125"
+          },
+          {
+            "track": 126,
+            "file": "assets/audio/speaking/speaking_track_126.mp3",
+            "label": "Track 126"
+          },
+          {
+            "track": 127,
+            "file": "assets/audio/speaking/speaking_track_127.mp3",
+            "label": "Track 127"
+          }
+        ]
+      }
     }
   ]
 }

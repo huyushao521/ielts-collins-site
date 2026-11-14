@@ -52,7 +52,8 @@ function renderHome() {
     </div>
     <div class="footer">
       Collins IELTS 学习中心 · 数据来源：Collins for IELTS 系列（2nd Edition）· GitHub Pages
-    </div>`;
+    </div>
+    ${renderGlobalPlayer()}`;
   window.scrollTo(0, 0);
 }
 
@@ -119,7 +120,8 @@ function showModule(id) {
     </div>
     <div class="footer">
       Collins IELTS 学习中心 · ${m.book} · GitHub Pages
-    </div>`;
+    </div>
+    ${renderGlobalPlayer()}`;
   window.scrollTo(0, 0);
 }
 
@@ -143,6 +145,7 @@ function renderUnitCard(u, color) {
       </div>
       <div class="unit-card-body">
         <div class="unit-card-body-inner">
+          ${renderAudio(u, color)}
           ${renderAims(u)}
           ${renderExamInfo(u)}
           ${renderExamTips(u)}
@@ -156,6 +159,31 @@ function renderUnitCard(u, color) {
         </div>
       </div>
     </div>`;
+}
+
+// ===== Audio Player =====
+function renderAudio(u, color) {
+  if (!u.audio || !u.audio.items || u.audio.items.length === 0) return '';
+  const isListening = u.audio.folder === 'listening';
+  const icon = isListening ? '🎧' : '🗣️';
+  const label = isListening ? '听力音频' : '口语音频';
+  const tip = isListening
+    ? '按 Track 顺序播放，每条包含一段对话/独白与对应题目'
+    : '按 Track 顺序播放，Part 1 / Part 2 / Part 3 题型示范';
+
+  const buttons = u.audio.items.map(it => `
+    <button class="audio-btn" data-src="${it.file}" data-label="${it.label}" style="--ac:${color}">
+      <span class="audio-btn-icon">▶</span>
+      <span class="audio-btn-label">${it.label}</span>
+    </button>`).join('');
+
+  return `<div class="unit-section">
+    <div class="unit-section-title">${icon} ${label}（${u.audio.count} 个 Track）</div>
+    <div class="unit-section-content">
+      <div class="audio-hint">💡 ${tip} 点击下方按钮播放，播放器固定在页面底部</div>
+      <div class="audio-buttons">${buttons}</div>
+    </div>
+  </div>`;
 }
 
 function renderAims(u) {
@@ -297,6 +325,76 @@ function toggleUnit(id) {
     }, 100);
   }
 }
+
+// ===== Audio button click (event delegation) =====
+document.addEventListener('click', function(e) {
+  const btn = e.target.closest('.audio-btn');
+  if (!btn) return;
+  const src = btn.dataset.src;
+  const label = btn.dataset.label;
+
+  // Use the global sticky player
+  const audio = document.getElementById('global-audio');
+  const titleEl = document.getElementById('global-audio-title');
+  if (!audio) return;
+
+  // Toggle: if same track clicked, pause/resume
+  if (audio.dataset.current === src) {
+    if (audio.paused) { audio.play(); } else { audio.pause(); }
+    return;
+  }
+
+  audio.src = src;
+  audio.dataset.current = src;
+  audio.play().catch(err => console.warn('play failed', err));
+
+  if (titleEl) {
+    const unitTitle = btn.closest('.unit-card')?.querySelector('h3')?.textContent || '';
+    titleEl.textContent = `${label} · ${unitTitle}`;
+  }
+  // Update button states
+  document.querySelectorAll('.audio-btn').forEach(b => b.classList.remove('playing'));
+  btn.classList.add('playing');
+});
+
+// Update playing button state on audio events
+document.addEventListener('DOMContentLoaded', function() {
+  const audio = document.getElementById('global-audio');
+  if (!audio) return;
+  audio.addEventListener('play', () => {
+    const btn = document.querySelector(`.audio-btn[data-src="${audio.dataset.current}"]`);
+    if (btn) btn.classList.add('playing');
+  });
+  audio.addEventListener('pause', () => {
+    const btn = document.querySelector(`.audio-btn[data-src="${audio.dataset.current}"]`);
+    if (btn) btn.classList.remove('playing');
+  });
+  audio.addEventListener('ended', () => {
+    document.querySelectorAll('.audio-btn').forEach(b => b.classList.remove('playing'));
+  });
+});
+
+// ===== Global Sticky Audio Player =====
+function renderGlobalPlayer() {
+  return `
+    <div class="global-player" id="global-player">
+      <div class="gp-icon">🎧</div>
+      <div class="gp-title" id="global-audio-title">选择任意 Track 开始播放</div>
+      <audio id="global-audio" preload="none"></audio>
+      <div class="gp-hint">支持空格键播放/暂停</div>
+    </div>`;
+}
+
+// ===== Spacebar play/pause =====
+document.addEventListener('keydown', function(e) {
+  if (e.code !== 'Space') return;
+  const tag = (e.target.tagName || '').toLowerCase();
+  if (tag === 'input' || tag === 'textarea' || tag === 'select') return;
+  const audio = document.getElementById('global-audio');
+  if (!audio || !audio.src) return;
+  e.preventDefault();
+  if (audio.paused) { audio.play(); } else { audio.pause(); }
+});
 
 // ===== Init =====
 async function init() {

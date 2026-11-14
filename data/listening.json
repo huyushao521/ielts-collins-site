@@ -11,15 +11,36 @@
     "total": "40 题",
     "note": "音频只播放一遍",
     "sections": [
-      { "n": "Section 1", "desc": "两人讨论社交场景（表格/表单填空为主）" },
-      { "n": "Section 2", "desc": "单人讲述非学术话题（地图/流程图/配对）" },
-      { "n": "Section 3", "desc": "2–4 人讨论学术/教育项目（笔记填空/多选）" },
-      { "n": "Section 4", "desc": "学术性演讲（笔记填空/配对）" }
+      {
+        "n": "Section 1",
+        "desc": "两人讨论社交场景（表格/表单填空为主）"
+      },
+      {
+        "n": "Section 2",
+        "desc": "单人讲述非学术话题（地图/流程图/配对）"
+      },
+      {
+        "n": "Section 3",
+        "desc": "2–4 人讨论学术/教育项目（笔记填空/多选）"
+      },
+      {
+        "n": "Section 4",
+        "desc": "学术性演讲（笔记填空/配对）"
+      }
     ],
     "scoring": [
-      { "score": "16 / 40", "band": "5" },
-      { "score": "23 / 40", "band": "6" },
-      { "score": "30 / 40", "band": "7" }
+      {
+        "score": "16 / 40",
+        "band": "5"
+      },
+      {
+        "score": "23 / 40",
+        "band": "6"
+      },
+      {
+        "score": "30 / 40",
+        "band": "7"
+      }
     ]
   },
   "units": [
@@ -29,7 +50,10 @@
       "titleCn": "出行",
       "topic": "Holidays and travel（假期与旅行）",
       "page": "p.8–15",
-      "questionTypes": ["Form completion (1)", "Matching (1)"],
+      "questionTypes": [
+        "Form completion (1)",
+        "Matching (1)"
+      ],
       "aims": {
         "examSkills": "Form completion；Matching（两组列表配对）",
         "languageDevelopment": "拼写与数字、日期与时间表达、地名与人名拼写、表单结构解读",
@@ -69,68 +93,188 @@
           "name": "拼写（Spelling）",
           "detail": "人名、地名必考拼写。字母拼读形式如 <code>... D–A–V –I –S –O–N</code>。听到「Davison」时，录音会拼成 Ronald Davison … D-A-V-I-S-O-N。",
           "examples": [
-            { "en": "Mr. R D Davison", "cn": "戴维森先生（R D 三字缩写）" },
-            { "en": "Ronald Davison ... D–A–V–I–S–O–N", "cn": "罗纳德·戴维森（录音拼读）" }
+            {
+              "en": "Mr. R D Davison",
+              "cn": "戴维森先生（R D 三字缩写）"
+            },
+            {
+              "en": "Ronald Davison ... D–A–V–I–S–O–N",
+              "cn": "罗纳德·戴维森（录音拼读）"
+            }
           ]
         },
         {
           "name": "日期 / 时间的三种表达",
           "detail": "同一信息在录音中会有多种说法，必须全部能反应成标准答案格式，并控制在字限内。",
           "examples": [
-            { "en": "July twenty-third", "cn": "7 月 23 日（序数词 + 月份）" },
-            { "en": "The twenty-third of July", "cn": "7 月 23 日（the + 序数词 + of）" },
-            { "en": "23rd July", "cn": "7 月 23 日（数字 + 月份）" },
-            { "en": "Ten fifteen", "cn": "10:15（口语报时）" },
-            { "en": "A quarter past ten", "cn": "10:15（英式口误常考）" }
+            {
+              "en": "July twenty-third",
+              "cn": "7 月 23 日（序数词 + 月份）"
+            },
+            {
+              "en": "The twenty-third of July",
+              "cn": "7 月 23 日（the + 序数词 + of）"
+            },
+            {
+              "en": "23rd July",
+              "cn": "7 月 23 日（数字 + 月份）"
+            },
+            {
+              "en": "Ten fifteen",
+              "cn": "10:15（口语报时）"
+            },
+            {
+              "en": "A quarter past ten",
+              "cn": "10:15（英式口误常考）"
+            }
           ]
         },
         {
           "name": "表单结构 = 答案路标",
           "detail": "看表格的<b>行标题（label）</b>就知道该听什么。例如 OUTBOUND FLIGHT DETAILS 表单的行标题：Full name / Telephone number / Flight number / Depart / Arrive / Departure time / Date of travel。",
           "examples": [
-            { "en": "Depart: London Heathrow", "cn": "出发地：伦敦希思罗" },
-            { "en": "Telephone number: 07953 299101", "cn": "电话：07953 299101" },
-            { "en": "Flight number: JK402", "cn": "航班号：JK402" }
+            {
+              "en": "Depart: London Heathrow",
+              "cn": "出发地：伦敦希思罗"
+            },
+            {
+              "en": "Telephone number: 07953 299101",
+              "cn": "电话：07953 299101"
+            },
+            {
+              "en": "Flight number: JK402",
+              "cn": "航班号：JK402"
+            }
           ]
         },
         {
           "name": "配对题的信号描述",
           "detail": "录音常先给组名，再用别的词描述特征。要把描述句与选项做同义替换。",
           "examples": [
-            { "en": "If you have your student card, there is a cheaper rate.", "cn": "→ has a student discount（有学生折扣）" },
-            { "en": "It is only £3.50, which is the least expensive ticket.", "cn": "→ offers the cheapest fare（最便宜）" },
-            { "en": "The service isn't very regular.", "cn": "→ has an infrequent service（班次不规律）" },
-            { "en": "There is 10% off for students.", "cn": "→ has a student discount" }
+            {
+              "en": "If you have your student card, there is a cheaper rate.",
+              "cn": "→ has a student discount（有学生折扣）"
+            },
+            {
+              "en": "It is only £3.50, which is the least expensive ticket.",
+              "cn": "→ offers the cheapest fare（最便宜）"
+            },
+            {
+              "en": "The service isn't very regular.",
+              "cn": "→ has an infrequent service（班次不规律）"
+            },
+            {
+              "en": "There is 10% off for students.",
+              "cn": "→ has a student discount"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "London Heathrow", "cn": "伦敦希思罗机场", "type": "place" },
-        { "en": "Duncan", "cn": "邓肯（人名）", "type": "name" },
-        { "en": "Mr. R D Davison", "cn": "戴维森先生", "type": "name" },
-        { "en": "Stanford Coaches", "cn": "斯坦福客运", "type": "org" },
-        { "en": "ABSEL Buses", "cn": "ABSEL 巴士公司", "type": "org" },
-        { "en": "Grey Bus Company", "cn": "灰巴士公司", "type": "org" },
-        { "en": "Flyers Coach Company", "cn": "飞翼长途客运", "type": "org" },
-        { "en": "Hotel Sunshine", "cn": "阳光酒店", "type": "place" },
-        { "en": "The Highland Hotel", "cn": "高地酒店", "type": "place" },
-        { "en": "Hotel Carminia", "cn": "卡米尼亚酒店", "type": "place" },
-        { "en": "The Royal", "cn": "皇家酒店", "type": "place" },
-        { "en": "Twin room", "cn": "双人间", "type": "term" },
-        { "en": "cheapest fare", "cn": "最低票价", "type": "phrase" },
-        { "en": "student discount", "cn": "学生折扣", "type": "phrase" },
-        { "en": "fitness facilities", "cn": "健身设施", "type": "term" },
-        { "en": "business facilities", "cn": "商务设施", "type": "term" },
-        { "en": "entertainment facilities", "cn": "娱乐设施", "type": "term" },
-        { "en": "training courses for water sports", "cn": "水上运动培训课程", "type": "term" }
+        {
+          "en": "London Heathrow",
+          "cn": "伦敦希思罗机场",
+          "type": "place"
+        },
+        {
+          "en": "Duncan",
+          "cn": "邓肯（人名）",
+          "type": "name"
+        },
+        {
+          "en": "Mr. R D Davison",
+          "cn": "戴维森先生",
+          "type": "name"
+        },
+        {
+          "en": "Stanford Coaches",
+          "cn": "斯坦福客运",
+          "type": "org"
+        },
+        {
+          "en": "ABSEL Buses",
+          "cn": "ABSEL 巴士公司",
+          "type": "org"
+        },
+        {
+          "en": "Grey Bus Company",
+          "cn": "灰巴士公司",
+          "type": "org"
+        },
+        {
+          "en": "Flyers Coach Company",
+          "cn": "飞翼长途客运",
+          "type": "org"
+        },
+        {
+          "en": "Hotel Sunshine",
+          "cn": "阳光酒店",
+          "type": "place"
+        },
+        {
+          "en": "The Highland Hotel",
+          "cn": "高地酒店",
+          "type": "place"
+        },
+        {
+          "en": "Hotel Carminia",
+          "cn": "卡米尼亚酒店",
+          "type": "place"
+        },
+        {
+          "en": "The Royal",
+          "cn": "皇家酒店",
+          "type": "place"
+        },
+        {
+          "en": "Twin room",
+          "cn": "双人间",
+          "type": "term"
+        },
+        {
+          "en": "cheapest fare",
+          "cn": "最低票价",
+          "type": "phrase"
+        },
+        {
+          "en": "student discount",
+          "cn": "学生折扣",
+          "type": "phrase"
+        },
+        {
+          "en": "fitness facilities",
+          "cn": "健身设施",
+          "type": "term"
+        },
+        {
+          "en": "business facilities",
+          "cn": "商务设施",
+          "type": "term"
+        },
+        {
+          "en": "entertainment facilities",
+          "cn": "娱乐设施",
+          "type": "term"
+        },
+        {
+          "en": "training courses for water sports",
+          "cn": "水上运动培训课程",
+          "type": "term"
+        }
       ],
       "grammar": [
         {
           "name": "数字 vs 单词的转换",
           "detail": "听力中数字信息可用数字或英文单词表达，答题时两种都可，但要遵守字数限制。",
           "examples": [
-            { "en": "nineteen pounds fifty (→ £19.50)", "cn": "金额的两种写法" },
-            { "en": "the twenty-third of July (→ 23rd July)", "cn": "日期的两种写法" }
+            {
+              "en": "nineteen pounds fifty (→ £19.50)",
+              "cn": "金额的两种写法"
+            },
+            {
+              "en": "the twenty-third of July (→ 23rd July)",
+              "cn": "日期的两种写法"
+            }
           ]
         }
       ],
@@ -139,13 +283,34 @@
           "type": "表单填空",
           "title": "OUTBOUND FLIGHT DETAILS",
           "fields": [
-            { "label": "Full name", "given": "—" },
-            { "label": "Telephone number", "given": "07953 299101" },
-            { "label": "Flight number", "given": "JK402" },
-            { "label": "Depart", "given": "London Heathrow" },
-            { "label": "Arrive", "given": "—" },
-            { "label": "Departure time", "given": "—" },
-            { "label": "Date of travel", "given": "—" }
+            {
+              "label": "Full name",
+              "given": "—"
+            },
+            {
+              "label": "Telephone number",
+              "given": "07953 299101"
+            },
+            {
+              "label": "Flight number",
+              "given": "JK402"
+            },
+            {
+              "label": "Depart",
+              "given": "London Heathrow"
+            },
+            {
+              "label": "Arrive",
+              "given": "—"
+            },
+            {
+              "label": "Departure time",
+              "given": "—"
+            },
+            {
+              "label": "Date of travel",
+              "given": "—"
+            }
           ],
           "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
         },
@@ -153,17 +318,89 @@
           "type": "表单填空",
           "title": "ROOM BOOKING",
           "fields": [
-            { "label": "Name", "given": "Duncan" },
-            { "label": "Telephone number", "given": "5762 23821" },
-            { "label": "Date of arrival", "given": "—" },
-            { "label": "Date of departure", "given": "23rd September" },
-            { "label": "Room type", "given": "Twin room" },
-            { "label": "Cost", "given": "—" },
-            { "label": "Payment method", "given": "—" }
+            {
+              "label": "Name",
+              "given": "Duncan"
+            },
+            {
+              "label": "Telephone number",
+              "given": "5762 23821"
+            },
+            {
+              "label": "Date of arrival",
+              "given": "—"
+            },
+            {
+              "label": "Date of departure",
+              "given": "23rd September"
+            },
+            {
+              "label": "Room type",
+              "given": "Twin room"
+            },
+            {
+              "label": "Cost",
+              "given": "—"
+            },
+            {
+              "label": "Payment method",
+              "given": "—"
+            }
           ],
           "limit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 9,
+        "items": [
+          {
+            "track": 1,
+            "file": "assets/audio/listening/listening_track_01.mp3",
+            "label": "Track 01"
+          },
+          {
+            "track": 2,
+            "file": "assets/audio/listening/listening_track_02.mp3",
+            "label": "Track 02"
+          },
+          {
+            "track": 3,
+            "file": "assets/audio/listening/listening_track_03.mp3",
+            "label": "Track 03"
+          },
+          {
+            "track": 4,
+            "file": "assets/audio/listening/listening_track_04.mp3",
+            "label": "Track 04"
+          },
+          {
+            "track": 5,
+            "file": "assets/audio/listening/listening_track_05.mp3",
+            "label": "Track 05"
+          },
+          {
+            "track": 6,
+            "file": "assets/audio/listening/listening_track_06.mp3",
+            "label": "Track 06"
+          },
+          {
+            "track": 7,
+            "file": "assets/audio/listening/listening_track_07.mp3",
+            "label": "Track 07"
+          },
+          {
+            "track": 8,
+            "file": "assets/audio/listening/listening_track_08.mp3",
+            "label": "Track 08"
+          },
+          {
+            "track": 9,
+            "file": "assets/audio/listening/listening_track_09.mp3",
+            "label": "Track 09"
+          }
+        ]
+      }
     },
     {
       "id": 2,
@@ -171,7 +408,11 @@
       "titleCn": "年轻人",
       "topic": "Youth（青年）",
       "page": "p.16–23",
-      "questionTypes": ["Labelling a map or plan (1)", "Flow chart completion (1)", "Table completion"],
+      "questionTypes": [
+        "Labelling a map or plan (1)",
+        "Flow chart completion (1)",
+        "Table completion"
+      ],
       "aims": {
         "examSkills": "地图/平面图标注、流程图填空、表格填空",
         "languageDevelopment": "位置描述路标词、网站的概括性表述、表格信息类型对应",
@@ -205,46 +446,130 @@
           "name": "地图题的位置描述路标词",
           "detail": "地图题的核心是<b>「方位关系 → 地点名称」</b>的转换。录音说「right next to the washrooms」，图上就要找挨着洗手间的位置。",
           "examples": [
-            { "en": "right next to the washrooms", "cn": "紧挨着洗手间" },
-            { "en": "beside the river", "cn": "在河边" },
-            { "en": "at the riverfront", "cn": "在河岸沿线" },
-            { "en": "the furthest away from the river", "cn": "离河最远处" },
-            { "en": "in the centre of the camp", "cn": "在营地正中央" },
-            { "en": "right in the middle of everything", "cn": "在所有设施的正中间" }
+            {
+              "en": "right next to the washrooms",
+              "cn": "紧挨着洗手间"
+            },
+            {
+              "en": "beside the river",
+              "cn": "在河边"
+            },
+            {
+              "en": "at the riverfront",
+              "cn": "在河岸沿线"
+            },
+            {
+              "en": "the furthest away from the river",
+              "cn": "离河最远处"
+            },
+            {
+              "en": "in the centre of the camp",
+              "cn": "在营地正中央"
+            },
+            {
+              "en": "right in the middle of everything",
+              "cn": "在所有设施的正中间"
+            }
           ]
         },
         {
           "name": "表格题的「同义 → 概括」转换",
           "detail": "表格里给的是<b>概括性表述</b>（Understanding / Making / Exam hints），录音里是<b>具体说法</b>（understand how animals think / make something / exam tips）。需要双向匹配。",
           "examples": [
-            { "en": "Understanding ___", "cn": "← 理解（how animals think）" },
-            { "en": "Making ___", "cn": "← 制作（things）" },
-            { "en": "Exam hints and tips", "cn": "← 应试技巧" },
-            { "en": "Developing maths and language skills", "cn": "← 表格中已给出的行" }
+            {
+              "en": "Understanding ___",
+              "cn": "← 理解（how animals think）"
+            },
+            {
+              "en": "Making ___",
+              "cn": "← 制作（things）"
+            },
+            {
+              "en": "Exam hints and tips",
+              "cn": "← 应试技巧"
+            },
+            {
+              "en": "Developing maths and language skills",
+              "cn": "← 表格中已给出的行"
+            }
           ]
         },
         {
           "name": "流程图按箭头顺序填",
           "detail": "每个方框对应流程的一个阶段，答案按箭头方向依次在录音中出现。",
           "examples": [
-            { "en": "admission form → pay visit deposit £45 → confirmation letter", "cn": "法语交换项目流程" },
-            { "en": "team of seven → captain → £10 entrance fee → confirm with club secretary", "cn": "五人制足球赛流程" }
+            {
+              "en": "admission form → pay visit deposit £45 → confirmation letter",
+              "cn": "法语交换项目流程"
+            },
+            {
+              "en": "team of seven → captain → £10 entrance fee → confirm with club secretary",
+              "cn": "五人制足球赛流程"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "Playtime Online", "cn": "Playtime 在线（网站名）", "type": "org" },
-        { "en": "Moving Up", "cn": "Moving Up（网站名）", "type": "org" },
-        { "en": "Net Aware", "cn": "Net Aware（网站名）", "type": "org" },
-        { "en": "Chat Electric", "cn": "Chat Electric（网站名）", "type": "org" },
-        { "en": "health and action summer camp", "cn": "健康与行动夏令营", "type": "place" },
-        { "en": "riverfront", "cn": "河岸", "type": "term" },
-        { "en": "admission form", "cn": "入学申请表", "type": "term" },
-        { "en": "visit deposit", "cn": "访问押金", "type": "term" },
-        { "en": "football tournament", "cn": "足球锦标赛", "type": "term" },
-        { "en": "substitutes", "cn": "替补队员", "type": "term" },
-        { "en": "captain", "cn": "队长", "type": "term" },
-        { "en": "entrance fee", "cn": "入场费", "type": "term" }
+        {
+          "en": "Playtime Online",
+          "cn": "Playtime 在线（网站名）",
+          "type": "org"
+        },
+        {
+          "en": "Moving Up",
+          "cn": "Moving Up（网站名）",
+          "type": "org"
+        },
+        {
+          "en": "Net Aware",
+          "cn": "Net Aware（网站名）",
+          "type": "org"
+        },
+        {
+          "en": "Chat Electric",
+          "cn": "Chat Electric（网站名）",
+          "type": "org"
+        },
+        {
+          "en": "health and action summer camp",
+          "cn": "健康与行动夏令营",
+          "type": "place"
+        },
+        {
+          "en": "riverfront",
+          "cn": "河岸",
+          "type": "term"
+        },
+        {
+          "en": "admission form",
+          "cn": "入学申请表",
+          "type": "term"
+        },
+        {
+          "en": "visit deposit",
+          "cn": "访问押金",
+          "type": "term"
+        },
+        {
+          "en": "football tournament",
+          "cn": "足球锦标赛",
+          "type": "term"
+        },
+        {
+          "en": "substitutes",
+          "cn": "替补队员",
+          "type": "term"
+        },
+        {
+          "en": "captain",
+          "cn": "队长",
+          "type": "term"
+        },
+        {
+          "en": "entrance fee",
+          "cn": "入场费",
+          "type": "term"
+        }
       ],
       "grammar": [],
       "exercises": [
@@ -252,13 +577,34 @@
           "type": "表格填空",
           "title": "儿童网站信息表",
           "fields": [
-            { "label": "Website", "given": "Playtime Online" },
-            { "label": "Age range", "given": "4–6" },
-            { "label": "Useful for", "given": "Learning skills for games" },
-            { "label": "Moving Up", "given": "1 __ / 2 __" },
-            { "label": "Net Aware", "given": "12–16" },
-            { "label": "Chat Electric", "given": "13–16" },
-            { "label": "（网站 4）", "given": "16–18" }
+            {
+              "label": "Website",
+              "given": "Playtime Online"
+            },
+            {
+              "label": "Age range",
+              "given": "4–6"
+            },
+            {
+              "label": "Useful for",
+              "given": "Learning skills for games"
+            },
+            {
+              "label": "Moving Up",
+              "given": "1 __ / 2 __"
+            },
+            {
+              "label": "Net Aware",
+              "given": "12–16"
+            },
+            {
+              "label": "Chat Electric",
+              "given": "13–16"
+            },
+            {
+              "label": "（网站 4）",
+              "given": "16–18"
+            }
           ],
           "limit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
         },
@@ -266,13 +612,68 @@
           "type": "地图标注",
           "title": "Health and action summer camp",
           "fields": [
-            { "label": "1", "given": "（图上标有 River 与 Washrooms）" },
-            { "label": "2", "given": "—" },
-            { "label": "3", "given": "—" }
+            {
+              "label": "1",
+              "given": "（图上标有 River 与 Washrooms）"
+            },
+            {
+              "label": "2",
+              "given": "—"
+            },
+            {
+              "label": "3",
+              "given": "—"
+            }
           ],
           "limit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 8,
+        "items": [
+          {
+            "track": 10,
+            "file": "assets/audio/listening/listening_track_10.mp3",
+            "label": "Track 10"
+          },
+          {
+            "track": 11,
+            "file": "assets/audio/listening/listening_track_11.mp3",
+            "label": "Track 11"
+          },
+          {
+            "track": 12,
+            "file": "assets/audio/listening/listening_track_12.mp3",
+            "label": "Track 12"
+          },
+          {
+            "track": 13,
+            "file": "assets/audio/listening/listening_track_13.mp3",
+            "label": "Track 13"
+          },
+          {
+            "track": 14,
+            "file": "assets/audio/listening/listening_track_14.mp3",
+            "label": "Track 14"
+          },
+          {
+            "track": 15,
+            "file": "assets/audio/listening/listening_track_15.mp3",
+            "label": "Track 15"
+          },
+          {
+            "track": 16,
+            "file": "assets/audio/listening/listening_track_16.mp3",
+            "label": "Track 16"
+          },
+          {
+            "track": 17,
+            "file": "assets/audio/listening/listening_track_17.mp3",
+            "label": "Track 17"
+          }
+        ]
+      }
     },
     {
       "id": 3,
@@ -280,7 +681,10 @@
       "titleCn": "气候",
       "topic": "Nature and the environment（自然与环境）",
       "page": "p.24–31",
-      "questionTypes": ["Classification (1)", "Labelling a diagram (1)"],
+      "questionTypes": [
+        "Classification (1)",
+        "Labelling a diagram (1)"
+      ],
       "aims": {
         "examSkills": "分类题、流程/结构图标注",
         "languageDevelopment": "分类关系的预判、流程逻辑排序",
@@ -315,43 +719,117 @@
           "name": "分类题的「预判替代说法」法",
           "detail": "考试不会原样说出类别名。听完之前先在脑中准备好「A 大陆 / B 国家 / C 城市」各自的近义说法，听到 Paris 就知道填 C。",
           "examples": [
-            { "en": "A Continent / B Country / C City", "cn": "大陆 / 国家 / 城市" },
-            { "en": "Paris → C, Asia → A, Brazil → B", "cn": "对照练习" }
+            {
+              "en": "A Continent / B Country / C City",
+              "cn": "大陆 / 国家 / 城市"
+            },
+            {
+              "en": "Paris → C, Asia → A, Brazil → B",
+              "cn": "对照练习"
+            }
           ]
         },
         {
           "name": "流程排序题：先懂逻辑再听",
           "detail": "排序题必须先理解流程因果链，再听录音的顺序提示。",
           "examples": [
-            { "en": "Polluting emissions from cities enter the atmosphere", "cn": "城市污染排放进入大气（C）" },
-            { "en": "The wind carries the mixture of pollutants high into the atmosphere", "cn": "风把污染物带到高空（A）" },
-            { "en": "These fall in wet and dry forms", "cn": "污染物以干湿两种形式沉降（B）" },
-            { "en": "The wet form runs into rivers, causing more pollution", "cn": "湿沉降流入河流造成二次污染（D）" }
+            {
+              "en": "Polluting emissions from cities enter the atmosphere",
+              "cn": "城市污染排放进入大气（C）"
+            },
+            {
+              "en": "The wind carries the mixture of pollutants high into the atmosphere",
+              "cn": "风把污染物带到高空（A）"
+            },
+            {
+              "en": "These fall in wet and dry forms",
+              "cn": "污染物以干湿两种形式沉降（B）"
+            },
+            {
+              "en": "The wet form runs into rivers, causing more pollution",
+              "cn": "湿沉降流入河流造成二次污染（D）"
+            }
           ]
         },
         {
           "name": "Pronunciation: The schwa /ə/",
           "detail": "schwa 是英语中最常见的音，像「a」但更弱。在 speech 中常常难以听清，<b>学会识别这个音有助于听懂录音</b>。",
           "examples": [
-            { "en": "My brother is working for a company in America.", "cn": "标出所有 /ə/：brother / company / America" },
-            { "en": "The doctor told me to rest at home for a week.", "cn": "doctor / told / me / at / for / a" },
-            { "en": "We can go to the beach after our lecture.", "cn": "can / go / the / after / our" },
-            { "en": "The book was about a girl and her adventures.", "cn": "about / a / girl / her / adventures" }
+            {
+              "en": "My brother is working for a company in America.",
+              "cn": "标出所有 /ə/：brother / company / America"
+            },
+            {
+              "en": "The doctor told me to rest at home for a week.",
+              "cn": "doctor / told / me / at / for / a"
+            },
+            {
+              "en": "We can go to the beach after our lecture.",
+              "cn": "can / go / the / after / our"
+            },
+            {
+              "en": "The book was about a girl and her adventures.",
+              "cn": "about / a / girl / her / adventures"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "acid rain", "cn": "酸雨", "type": "term" },
-        { "en": "pollutants", "cn": "污染物", "type": "term" },
-        { "en": "sulphur dioxide", "cn": "二氧化硫", "type": "term" },
-        { "en": "nitrogen oxide", "cn": "氮氧化物", "type": "term" },
-        { "en": "car exhausts", "cn": "汽车尾气", "type": "term" },
-        { "en": "dry deposition", "cn": "干沉降", "type": "term" },
-        { "en": "wet deposition", "cn": "湿沉降", "type": "term" },
-        { "en": "atmosphere", "cn": "大气层", "type": "term" },
-        { "en": "Natural Earth", "cn": "Natural Earth（演讲主题）", "type": "term" },
-        { "en": "cue cards", "cn": "提示卡", "type": "term" },
-        { "en": "schwa", "cn": "弱读音 /ə/", "type": "term" }
+        {
+          "en": "acid rain",
+          "cn": "酸雨",
+          "type": "term"
+        },
+        {
+          "en": "pollutants",
+          "cn": "污染物",
+          "type": "term"
+        },
+        {
+          "en": "sulphur dioxide",
+          "cn": "二氧化硫",
+          "type": "term"
+        },
+        {
+          "en": "nitrogen oxide",
+          "cn": "氮氧化物",
+          "type": "term"
+        },
+        {
+          "en": "car exhausts",
+          "cn": "汽车尾气",
+          "type": "term"
+        },
+        {
+          "en": "dry deposition",
+          "cn": "干沉降",
+          "type": "term"
+        },
+        {
+          "en": "wet deposition",
+          "cn": "湿沉降",
+          "type": "term"
+        },
+        {
+          "en": "atmosphere",
+          "cn": "大气层",
+          "type": "term"
+        },
+        {
+          "en": "Natural Earth",
+          "cn": "Natural Earth（演讲主题）",
+          "type": "term"
+        },
+        {
+          "en": "cue cards",
+          "cn": "提示卡",
+          "type": "term"
+        },
+        {
+          "en": "schwa",
+          "cn": "弱读音 /ə/",
+          "type": "term"
+        }
       ],
       "grammar": [],
       "exercises": [
@@ -359,12 +837,30 @@
           "type": "分类题",
           "title": "A Continent / B Country / C City",
           "fields": [
-            { "label": "Paris", "given": "→ ?" },
-            { "label": "Asia", "given": "→ ?" },
-            { "label": "Brazil", "given": "→ ?" },
-            { "label": "Europe", "given": "→ ?" },
-            { "label": "Vietnam", "given": "→ ?" },
-            { "label": "Tokyo", "given": "→ ?" }
+            {
+              "label": "Paris",
+              "given": "→ ?"
+            },
+            {
+              "label": "Asia",
+              "given": "→ ?"
+            },
+            {
+              "label": "Brazil",
+              "given": "→ ?"
+            },
+            {
+              "label": "Europe",
+              "given": "→ ?"
+            },
+            {
+              "label": "Vietnam",
+              "given": "→ ?"
+            },
+            {
+              "label": "Tokyo",
+              "given": "→ ?"
+            }
           ],
           "limit": "答案写字母 A / B / C"
         },
@@ -372,15 +868,76 @@
           "type": "分类题",
           "title": "A Alice / B Karl / C Jenny",
           "fields": [
-            { "label": "organise the research", "given": "→ ?" },
-            { "label": "make the PowerPoint presentation", "given": "→ ?" },
-            { "label": "source cloud images", "given": "→ ?" },
-            { "label": "write cue cards", "given": "→ ?" },
-            { "label": "present the conclusion", "given": "→ ?" }
+            {
+              "label": "organise the research",
+              "given": "→ ?"
+            },
+            {
+              "label": "make the PowerPoint presentation",
+              "given": "→ ?"
+            },
+            {
+              "label": "source cloud images",
+              "given": "→ ?"
+            },
+            {
+              "label": "write cue cards",
+              "given": "→ ?"
+            },
+            {
+              "label": "present the conclusion",
+              "given": "→ ?"
+            }
           ],
           "limit": "答案写字母 A / B / C"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 8,
+        "items": [
+          {
+            "track": 18,
+            "file": "assets/audio/listening/listening_track_18.mp3",
+            "label": "Track 18"
+          },
+          {
+            "track": 19,
+            "file": "assets/audio/listening/listening_track_19.mp3",
+            "label": "Track 19"
+          },
+          {
+            "track": 20,
+            "file": "assets/audio/listening/listening_track_20.mp3",
+            "label": "Track 20"
+          },
+          {
+            "track": 21,
+            "file": "assets/audio/listening/listening_track_21.mp3",
+            "label": "Track 21"
+          },
+          {
+            "track": 22,
+            "file": "assets/audio/listening/listening_track_22.mp3",
+            "label": "Track 22"
+          },
+          {
+            "track": 23,
+            "file": "assets/audio/listening/listening_track_23.mp3",
+            "label": "Track 23"
+          },
+          {
+            "track": 24,
+            "file": "assets/audio/listening/listening_track_24.mp3",
+            "label": "Track 24"
+          },
+          {
+            "track": 25,
+            "file": "assets/audio/listening/listening_track_25.mp3",
+            "label": "Track 25"
+          }
+        ]
+      }
     },
     {
       "id": 4,
@@ -388,7 +945,9 @@
       "titleCn": "家庭",
       "topic": "Family matters（家庭事务）",
       "page": "p.32–39",
-      "questionTypes": ["Short answer questions (1)"],
+      "questionTypes": [
+        "Short answer questions (1)"
+      ],
       "aims": {
         "examSkills": "短答案题、关键词划取",
         "languageDevelopment": "信号词与话语标记词（signposting words）、疑问词与答案类型匹配",
@@ -415,60 +974,165 @@
           "name": "疑问词 → 答案类型匹配",
           "detail": "短答题的答案类型由疑问词决定。先做这个映射表，听的时候只等对应类型的信息。",
           "examples": [
-            { "en": "Where? → a place", "cn": "地点" },
-            { "en": "Who? → a person", "cn": "人" },
-            { "en": "When? → a time", "cn": "时间" },
-            { "en": "Why? → a reason", "cn": "原因" },
-            { "en": "What? → a thing", "cn": "事物" },
-            { "en": "How? → a method/way", "cn": "方法" },
-            { "en": "Which? → a thing (choice)", "cn": "选择项" },
-            { "en": "How many? → a number", "cn": "数字" }
+            {
+              "en": "Where? → a place",
+              "cn": "地点"
+            },
+            {
+              "en": "Who? → a person",
+              "cn": "人"
+            },
+            {
+              "en": "When? → a time",
+              "cn": "时间"
+            },
+            {
+              "en": "Why? → a reason",
+              "cn": "原因"
+            },
+            {
+              "en": "What? → a thing",
+              "cn": "事物"
+            },
+            {
+              "en": "How? → a method/way",
+              "cn": "方法"
+            },
+            {
+              "en": "Which? → a thing (choice)",
+              "cn": "选择项"
+            },
+            {
+              "en": "How many? → a number",
+              "cn": "数字"
+            }
           ]
         },
         {
           "name": "信号词 / 话语标记词八类",
           "detail": "这些词标记段落的功能与逻辑关系。听讲座时抓到它们，就知道下一个信息是什么性质。",
           "examples": [
-            { "en": "Order: first, next, in addition, in other words, as a result, thus", "cn": "顺序" },
-            { "en": "Reason: because, for example, due to, the reason for this", "cn": "原因" },
-            { "en": "Result: as a result, therefore, so", "cn": "结果" },
-            { "en": "Repetition / Clarification: also, for instance, furthermore, the crucial factor is", "cn": "重复/澄清" },
-            { "en": "Contrast: however, but, on the other hand", "cn": "对比" },
-            { "en": "Addition: also, furthermore, in addition", "cn": "补充" },
-            { "en": "Example: for example, for instance, such as, an illustration of this is", "cn": "举例" },
-            { "en": "Emphasis: last, next, the main point is", "cn": "强调" }
+            {
+              "en": "Order: first, next, in addition, in other words, as a result, thus",
+              "cn": "顺序"
+            },
+            {
+              "en": "Reason: because, for example, due to, the reason for this",
+              "cn": "原因"
+            },
+            {
+              "en": "Result: as a result, therefore, so",
+              "cn": "结果"
+            },
+            {
+              "en": "Repetition / Clarification: also, for instance, furthermore, the crucial factor is",
+              "cn": "重复/澄清"
+            },
+            {
+              "en": "Contrast: however, but, on the other hand",
+              "cn": "对比"
+            },
+            {
+              "en": "Addition: also, furthermore, in addition",
+              "cn": "补充"
+            },
+            {
+              "en": "Example: for example, for instance, such as, an illustration of this is",
+              "cn": "举例"
+            },
+            {
+              "en": "Emphasis: last, next, the main point is",
+              "cn": "强调"
+            }
           ]
         },
         {
           "name": "Pronunciation: Pausing（停顿）",
           "detail": "人们演讲或讲座时会把说话内容<b>分段</b>，各段之间会有短停顿。停顿通常出现在<b>意义完整的 chunk 之间</b>，常在<b>新从句</b>处。听课时把停顿当作段落边界。",
           "examples": [
-            { "en": "First of all, I want to talk about some of the communication problems which families face nowadays │ because I think this is an important topic.", "cn": "停顿在 nowadays 之后" },
-            { "en": "Family structures have changed a lot in recent years │ because of education and new attitudes in society which are affecting young people's views.", "cn": "停顿在 years 之后" },
-            { "en": "Due to the influences of globalisation, many people have moved away from their families │ which has changed their relationships, and not always in a positive way.", "cn": "停顿在 families 之后" }
+            {
+              "en": "First of all, I want to talk about some of the communication problems which families face nowadays │ because I think this is an important topic.",
+              "cn": "停顿在 nowadays 之后"
+            },
+            {
+              "en": "Family structures have changed a lot in recent years │ because of education and new attitudes in society which are affecting young people's views.",
+              "cn": "停顿在 years 之后"
+            },
+            {
+              "en": "Due to the influences of globalisation, many people have moved away from their families │ which has changed their relationships, and not always in a positive way.",
+              "cn": "停顿在 families 之后"
+            }
           ]
         },
         {
           "name": "答案的「语法 + 话题」双重过滤",
           "detail": "短答题的选项往往长度相同、话题相近，要靠<b>语法结构</b>来区分：问 reason 就找原因状语从句，问 number 就找数字。",
           "examples": [
-            { "en": "On average, when do people get married?", "cn": "关键词：on average + when → 答案 'In their thirties'" },
-            { "en": "What is the key reason given for the increase in divorce numbers?", "cn": "关键词：key reason → 'Because there was a change in law'" },
-            { "en": "Who believe that families are the key to the functioning of wider society?", "cn": "关键词：believe → 'Sociologists'" },
-            { "en": "What is the average number of family members in the UK?", "cn": "关键词：average number → 'five'" }
+            {
+              "en": "On average, when do people get married?",
+              "cn": "关键词：on average + when → 答案 'In their thirties'"
+            },
+            {
+              "en": "What is the key reason given for the increase in divorce numbers?",
+              "cn": "关键词：key reason → 'Because there was a change in law'"
+            },
+            {
+              "en": "Who believe that families are the key to the functioning of wider society?",
+              "cn": "关键词：believe → 'Sociologists'"
+            },
+            {
+              "en": "What is the average number of family members in the UK?",
+              "cn": "关键词：average number → 'five'"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "family structures", "cn": "家庭结构", "type": "term" },
-        { "en": "globalisation", "cn": "全球化", "type": "term" },
-        { "en": "communication problems", "cn": "沟通问题", "type": "term" },
-        { "en": "divorce numbers", "cn": "离婚数量", "type": "term" },
-        { "en": "sociologists", "cn": "社会学家", "type": "term" },
-        { "en": "key reason", "cn": "关键原因", "type": "phrase" },
-        { "en": "in their thirties", "cn": "在三十多岁", "type": "phrase" },
-        { "en": "on average", "cn": "平均而言", "type": "phrase" },
-        { "en": "the functioning of wider society", "cn": "更广泛社会的运作", "type": "term" }
+        {
+          "en": "family structures",
+          "cn": "家庭结构",
+          "type": "term"
+        },
+        {
+          "en": "globalisation",
+          "cn": "全球化",
+          "type": "term"
+        },
+        {
+          "en": "communication problems",
+          "cn": "沟通问题",
+          "type": "term"
+        },
+        {
+          "en": "divorce numbers",
+          "cn": "离婚数量",
+          "type": "term"
+        },
+        {
+          "en": "sociologists",
+          "cn": "社会学家",
+          "type": "term"
+        },
+        {
+          "en": "key reason",
+          "cn": "关键原因",
+          "type": "phrase"
+        },
+        {
+          "en": "in their thirties",
+          "cn": "在三十多岁",
+          "type": "phrase"
+        },
+        {
+          "en": "on average",
+          "cn": "平均而言",
+          "type": "phrase"
+        },
+        {
+          "en": "the functioning of wider society",
+          "cn": "更广泛社会的运作",
+          "type": "term"
+        }
       ],
       "grammar": [],
       "exercises": [
@@ -476,14 +1140,67 @@
           "type": "短答案题",
           "title": "Family in the UK",
           "fields": [
-            { "label": "On average, when do people get married?", "given": "→ ?" },
-            { "label": "What is the key reason given for the increase in divorce numbers?", "given": "→ ?" },
-            { "label": "Who believe that families are the key to the functioning of wider society?", "given": "→ ?" },
-            { "label": "What is the average number of family members in the UK?", "given": "→ ?" }
+            {
+              "label": "On average, when do people get married?",
+              "given": "→ ?"
+            },
+            {
+              "label": "What is the key reason given for the increase in divorce numbers?",
+              "given": "→ ?"
+            },
+            {
+              "label": "Who believe that families are the key to the functioning of wider society?",
+              "given": "→ ?"
+            },
+            {
+              "label": "What is the average number of family members in the UK?",
+              "given": "→ ?"
+            }
           ],
           "limit": "NO MORE THAN THE STATED NUMBER OF WORDS"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 7,
+        "items": [
+          {
+            "track": 26,
+            "file": "assets/audio/listening/listening_track_26.mp3",
+            "label": "Track 26"
+          },
+          {
+            "track": 27,
+            "file": "assets/audio/listening/listening_track_27.mp3",
+            "label": "Track 27"
+          },
+          {
+            "track": 28,
+            "file": "assets/audio/listening/listening_track_28.mp3",
+            "label": "Track 28"
+          },
+          {
+            "track": 29,
+            "file": "assets/audio/listening/listening_track_29.mp3",
+            "label": "Track 29"
+          },
+          {
+            "track": 30,
+            "file": "assets/audio/listening/listening_track_30.mp3",
+            "label": "Track 30"
+          },
+          {
+            "track": 31,
+            "file": "assets/audio/listening/listening_track_31.mp3",
+            "label": "Track 31"
+          },
+          {
+            "track": 32,
+            "file": "assets/audio/listening/listening_track_32.mp3",
+            "label": "Track 32"
+          }
+        ]
+      }
     },
     {
       "id": 5,
@@ -491,7 +1208,10 @@
       "titleCn": "开始大学",
       "topic": "Education（教育）",
       "page": "p.40–47",
-      "questionTypes": ["Labelling a map or plan (1)", "Form completion (2): Addresses"],
+      "questionTypes": [
+        "Labelling a map or plan (1)",
+        "Form completion (2): Addresses"
+      ],
       "aims": {
         "examSkills": "地图方位描述、地址听写与结构",
         "languageDevelopment": "问路方向表达、地址各部分与街道名同义词拼写",
@@ -518,69 +1238,187 @@
           "name": "问路方向表达库",
           "detail": "地图题第二大考点是把「第一/第二个路口」「沿着河走」这类描述映射到图上位置。",
           "examples": [
-            { "en": "take the first right / take the first left", "cn": "在第一个路口右转 / 左转" },
-            { "en": "turn right out of the Post Office", "cn": "从邮局出来右转" },
-            { "en": "keep going straight along the road", "cn": "沿路一直直走" },
-            { "en": "walk over the bridge / go over the bridge", "cn": "走过桥" },
-            { "en": "at the end of the road", "cn": "在路的尽头" },
-            { "en": "on the left-hand side of the street", "cn": "在街道左手边" }
+            {
+              "en": "take the first right / take the first left",
+              "cn": "在第一个路口右转 / 左转"
+            },
+            {
+              "en": "turn right out of the Post Office",
+              "cn": "从邮局出来右转"
+            },
+            {
+              "en": "keep going straight along the road",
+              "cn": "沿路一直直走"
+            },
+            {
+              "en": "walk over the bridge / go over the bridge",
+              "cn": "走过桥"
+            },
+            {
+              "en": "at the end of the road",
+              "cn": "在路的尽头"
+            },
+            {
+              "en": "on the left-hand side of the street",
+              "cn": "在街道左手边"
+            }
           ]
         },
         {
           "name": "地址：四行结构 + 逗号断句",
           "detail": "录音中每个地址成分之间有短暂停顿。一行书写时，用逗号把各部分分开。",
           "examples": [
-            { "en": "78A High Trees Street Sydney 2316", "cn": "→ 78A High Trees Street, Sydney, 2316" },
-            { "en": "354 Castle Avenue Edinburgh E5 7HU", "cn": "→ 354 Castle Avenue, Edinburgh, E5 7HU" },
-            { "en": "86 Woodland Drive Brooklyn New York 45008", "cn": "→ 86 Woodland Drive, Brooklyn, New York, 45008" }
+            {
+              "en": "78A High Trees Street Sydney 2316",
+              "cn": "→ 78A High Trees Street, Sydney, 2316"
+            },
+            {
+              "en": "354 Castle Avenue Edinburgh E5 7HU",
+              "cn": "→ 354 Castle Avenue, Edinburgh, E5 7HU"
+            },
+            {
+              "en": "86 Woodland Drive Brooklyn New York 45008",
+              "cn": "→ 86 Woodland Drive, Brooklyn, New York, 45008"
+            }
           ]
         },
         {
           "name": "街道名同义词 = 高频失分点",
           "detail": "考试说「she lives on Crescent」时，你要能写出 Crescent 而不是 Street。",
           "examples": [
-            { "en": "Street", "cn": "街" },
-            { "en": "Road", "cn": "路" },
-            { "en": "Avenue", "cn": "大道" },
-            { "en": "Crescent", "cn": "新月形路（弧形街）" },
-            { "en": "Drive", "cn": "车道（私家车道）" },
-            { "en": "Lane", "cn": "小巷" },
-            { "en": "Hill", "cn": "山路" },
-            { "en": "Gardens", "cn": "花园（复数）" }
+            {
+              "en": "Street",
+              "cn": "街"
+            },
+            {
+              "en": "Road",
+              "cn": "路"
+            },
+            {
+              "en": "Avenue",
+              "cn": "大道"
+            },
+            {
+              "en": "Crescent",
+              "cn": "新月形路（弧形街）"
+            },
+            {
+              "en": "Drive",
+              "cn": "车道（私家车道）"
+            },
+            {
+              "en": "Lane",
+              "cn": "小巷"
+            },
+            {
+              "en": "Hill",
+              "cn": "山路"
+            },
+            {
+              "en": "Gardens",
+              "cn": "花园（复数）"
+            }
           ]
         },
         {
           "name": "postcode 书写",
           "detail": "英国邮编是「外码 + 内码」，如 CR0 5XD、E5 7HU；美国邮编是 5 位数字 45008。",
           "examples": [
-            { "en": "CR0 5XD", "cn": "英国邮编（字母+数字 空格+字母数字）" },
-            { "en": "E5 7HU", "cn": "英国邮编" },
-            { "en": "45008", "cn": "美国 5 位数字邮编" }
+            {
+              "en": "CR0 5XD",
+              "cn": "英国邮编（字母+数字 空格+字母数字）"
+            },
+            {
+              "en": "E5 7HU",
+              "cn": "英国邮编"
+            },
+            {
+              "en": "45008",
+              "cn": "美国 5 位数字邮编"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "Supermarket", "cn": "超市", "type": "place" },
-        { "en": "Cinema", "cn": "电影院", "type": "place" },
-        { "en": "Bank", "cn": "银行", "type": "place" },
-        { "en": "Post Office", "cn": "邮局", "type": "place" },
-        { "en": "Garage", "cn": "修车厂/加油站", "type": "place" },
-        { "en": "Faculty", "cn": "学院", "type": "org" },
-        { "en": "Residence", "cn": "学生宿舍", "type": "place" },
-        { "en": "Duke Street", "cn": "公爵街", "type": "place" },
-        { "en": "Newcastle", "cn": "纽卡斯尔", "type": "place" },
-        { "en": "Grove Street", "cn": "林荫街", "type": "place" },
-        { "en": "Manchester", "cn": "曼彻斯特", "type": "place" },
-        { "en": "BSc Economics", "cn": "经济学学士", "type": "term" },
-        { "en": "postcode", "cn": "邮政编码", "type": "term" }
+        {
+          "en": "Supermarket",
+          "cn": "超市",
+          "type": "place"
+        },
+        {
+          "en": "Cinema",
+          "cn": "电影院",
+          "type": "place"
+        },
+        {
+          "en": "Bank",
+          "cn": "银行",
+          "type": "place"
+        },
+        {
+          "en": "Post Office",
+          "cn": "邮局",
+          "type": "place"
+        },
+        {
+          "en": "Garage",
+          "cn": "修车厂/加油站",
+          "type": "place"
+        },
+        {
+          "en": "Faculty",
+          "cn": "学院",
+          "type": "org"
+        },
+        {
+          "en": "Residence",
+          "cn": "学生宿舍",
+          "type": "place"
+        },
+        {
+          "en": "Duke Street",
+          "cn": "公爵街",
+          "type": "place"
+        },
+        {
+          "en": "Newcastle",
+          "cn": "纽卡斯尔",
+          "type": "place"
+        },
+        {
+          "en": "Grove Street",
+          "cn": "林荫街",
+          "type": "place"
+        },
+        {
+          "en": "Manchester",
+          "cn": "曼彻斯特",
+          "type": "place"
+        },
+        {
+          "en": "BSc Economics",
+          "cn": "经济学学士",
+          "type": "term"
+        },
+        {
+          "en": "postcode",
+          "cn": "邮政编码",
+          "type": "term"
+        }
       ],
       "grammar": [
         {
           "name": "地址介词搭配",
           "detail": "「住在……街」用 on（街道），「在……号」用 at。",
           "examples": [
-            { "en": "He lives on Duke Street.", "cn": "他住在公爵街" },
-            { "en": "It's at number 3.", "cn": "在 3 号" }
+            {
+              "en": "He lives on Duke Street.",
+              "cn": "他住在公爵街"
+            },
+            {
+              "en": "It's at number 3.",
+              "cn": "在 3 号"
+            }
           ]
         }
       ],
@@ -589,15 +1427,76 @@
           "type": "表单填空",
           "title": "Enrolment form",
           "fields": [
-            { "label": "Name", "given": "Peter" },
-            { "label": "Course", "given": "BSc Economics" },
-            { "label": "Faculty", "given": "—" },
-            { "label": "University address", "given": "Room 112, 3 ___ Residence, Duke Street, Newcastle" },
-            { "label": "Home address", "given": "56 Grove Street, Manchester" }
+            {
+              "label": "Name",
+              "given": "Peter"
+            },
+            {
+              "label": "Course",
+              "given": "BSc Economics"
+            },
+            {
+              "label": "Faculty",
+              "given": "—"
+            },
+            {
+              "label": "University address",
+              "given": "Room 112, 3 ___ Residence, Duke Street, Newcastle"
+            },
+            {
+              "label": "Home address",
+              "given": "56 Grove Street, Manchester"
+            }
           ],
           "limit": "NO MORE THAN THREE WORDS OR A NUMBER"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 8,
+        "items": [
+          {
+            "track": 33,
+            "file": "assets/audio/listening/listening_track_33.mp3",
+            "label": "Track 33"
+          },
+          {
+            "track": 34,
+            "file": "assets/audio/listening/listening_track_34.mp3",
+            "label": "Track 34"
+          },
+          {
+            "track": 35,
+            "file": "assets/audio/listening/listening_track_35.mp3",
+            "label": "Track 35"
+          },
+          {
+            "track": 36,
+            "file": "assets/audio/listening/listening_track_36.mp3",
+            "label": "Track 36"
+          },
+          {
+            "track": 37,
+            "file": "assets/audio/listening/listening_track_37.mp3",
+            "label": "Track 37"
+          },
+          {
+            "track": 38,
+            "file": "assets/audio/listening/listening_track_38.mp3",
+            "label": "Track 38"
+          },
+          {
+            "track": 39,
+            "file": "assets/audio/listening/listening_track_39.mp3",
+            "label": "Track 39"
+          },
+          {
+            "track": 40,
+            "file": "assets/audio/listening/listening_track_40.mp3",
+            "label": "Track 40"
+          }
+        ]
+      }
     },
     {
       "id": 6,
@@ -605,7 +1504,10 @@
       "titleCn": "名声",
       "topic": "Culture and modern society（文化与现代社会）",
       "page": "p.48–55",
-      "questionTypes": ["Matching (2)", "Multiple choice (2)"],
+      "questionTypes": [
+        "Matching (2)",
+        "Multiple choice (2)"
+      ],
       "aims": {
         "examSkills": "句首配句尾（同义替换）、细节型干扰项排除",
         "languageDevelopment": "词形变化（时态/被动）、同义替换、被动语态",
@@ -639,66 +1541,176 @@
           "name": "词形变化（changing word form）",
           "detail": "句子配对题的第一考点：录音把主动变被动、把完成时变被动完成时、把现在变过去。",
           "examples": [
-            { "en": "has had ten best-selling books", "cn": "→ was written many books, ten of which were bestsellers" },
-            { "en": "was inspired by Tanbridge", "cn": "→ found Tanbridge an inspiration for his novels" },
-            { "en": "had a job in Tanbridge", "cn": "→ was employed in Tanbridge for many years" },
-            { "en": "is buried in the town", "cn": "→ 's burial took place here in Tanbridge" },
-            { "en": "drew on Tanbridge for many of his novels", "cn": "→ was written many books, ten of which were bestsellers（被动换词）" },
-            { "en": "was laid to rest in Tanbridge", "cn": "→ is buried in the town（被动近义）" }
+            {
+              "en": "has had ten best-selling books",
+              "cn": "→ was written many books, ten of which were bestsellers"
+            },
+            {
+              "en": "was inspired by Tanbridge",
+              "cn": "→ found Tanbridge an inspiration for his novels"
+            },
+            {
+              "en": "had a job in Tanbridge",
+              "cn": "→ was employed in Tanbridge for many years"
+            },
+            {
+              "en": "is buried in the town",
+              "cn": "→ 's burial took place here in Tanbridge"
+            },
+            {
+              "en": "drew on Tanbridge for many of his novels",
+              "cn": "→ was written many books, ten of which were bestsellers（被动换词）"
+            },
+            {
+              "en": "was laid to rest in Tanbridge",
+              "cn": "→ is buried in the town（被动近义）"
+            }
           ]
         },
         {
           "name": "同义替换（substituting synonyms）",
           "detail": "句子配对题的第二考点：词义替换。",
           "examples": [
-            { "en": "best-selling books / bestsellers / massive sales", "cn": "→ 畅销书" },
-            { "en": "inspired by / inspiration", "cn": "→ 受到启发" },
-            { "en": "job / employed", "cn": "→ 工作" },
-            { "en": "buried / laid to rest / burial", "cn": "→ 安葬" }
+            {
+              "en": "best-selling books / bestsellers / massive sales",
+              "cn": "→ 畅销书"
+            },
+            {
+              "en": "inspired by / inspiration",
+              "cn": "→ 受到启发"
+            },
+            {
+              "en": "job / employed",
+              "cn": "→ 工作"
+            },
+            {
+              "en": "buried / laid to rest / burial",
+              "cn": "→ 安葬"
+            }
           ]
         },
         {
           "name": "细节型干扰项排除法",
           "detail": "录音会提到所有选项，所以不能靠「有没有提到」来判断，必须核对<b>细节</b>是否一致。",
           "examples": [
-            { "en": "The Final Chapter was based on: a) the director's travels in South America b) a story the director heard c) a novel", "cn": "正确项是 a story the director heard in Mexico —— 地点细节与「是否原著」都对上了" }
+            {
+              "en": "The Final Chapter was based on: a) the director's travels in South America b) a story the director heard c) a novel",
+              "cn": "正确项是 a story the director heard in Mexico —— 地点细节与「是否原著」都对上了"
+            }
           ]
         },
         {
           "name": "Pronunciation: -ed 的三种读音",
           "detail": "谈论过去时常用动词 -ed 结尾，通过听 -ed 就能判断是讲过去。规则动词过去式有三种发音：/ɪd/（learned）、/d/（decided）、/t/（asked）。",
           "examples": [
-            { "en": "listen – listened", "cn": "/ɪd/（t 后）" },
-            { "en": "wishes – wished / needs – needed", "cn": "/ɪd/ 或 /t/（d 后）" },
-            { "en": "look – looked / change – changed", "cn": "/t/（清辅音后）" },
-            { "en": "like – liked / create – created / call – called", "cn": "/t/（浊辅音后）" }
+            {
+              "en": "listen – listened",
+              "cn": "/ɪd/（t 后）"
+            },
+            {
+              "en": "wishes – wished / needs – needed",
+              "cn": "/ɪd/ 或 /t/（d 后）"
+            },
+            {
+              "en": "look – looked / change – changed",
+              "cn": "/t/（清辅音后）"
+            },
+            {
+              "en": "like – liked / create – created / call – called",
+              "cn": "/t/（浊辅音后）"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "Tanbridge", "cn": "坦布里奇（虚构小镇）", "type": "place" },
-        { "en": "Anna Collins", "cn": "安娜·柯林斯", "type": "name" },
-        { "en": "James Harman", "cn": "詹姆斯·哈曼", "type": "name" },
-        { "en": "Ian Cheriton", "cn": "伊恩·切里顿", "type": "name" },
-        { "en": "Sylvia Daniels", "cn": "西尔维娅·丹尼尔斯", "type": "name" },
-        { "en": "best-selling books", "cn": "畅销书", "type": "phrase" },
-        { "en": "bestseller", "cn": "畅销书", "type": "term" },
-        { "en": "inspiration", "cn": "灵感", "type": "term" },
-        { "en": "employed", "cn": "受雇", "type": "term" },
-        { "en": "burial / buried", "cn": "安葬", "type": "term" },
-        { "en": "The Final Chapter", "cn": "《最后一章》（电影）", "type": "term" },
-        { "en": "What Happens in the Night", "cn": "《夜晚发生的事》（电影）", "type": "term" },
-        { "en": "Happy as Larry", "cn": "《快乐如拉里》（电影）", "type": "term" },
-        { "en": "horror film", "cn": "恐怖片", "type": "term" }
+        {
+          "en": "Tanbridge",
+          "cn": "坦布里奇（虚构小镇）",
+          "type": "place"
+        },
+        {
+          "en": "Anna Collins",
+          "cn": "安娜·柯林斯",
+          "type": "name"
+        },
+        {
+          "en": "James Harman",
+          "cn": "詹姆斯·哈曼",
+          "type": "name"
+        },
+        {
+          "en": "Ian Cheriton",
+          "cn": "伊恩·切里顿",
+          "type": "name"
+        },
+        {
+          "en": "Sylvia Daniels",
+          "cn": "西尔维娅·丹尼尔斯",
+          "type": "name"
+        },
+        {
+          "en": "best-selling books",
+          "cn": "畅销书",
+          "type": "phrase"
+        },
+        {
+          "en": "bestseller",
+          "cn": "畅销书",
+          "type": "term"
+        },
+        {
+          "en": "inspiration",
+          "cn": "灵感",
+          "type": "term"
+        },
+        {
+          "en": "employed",
+          "cn": "受雇",
+          "type": "term"
+        },
+        {
+          "en": "burial / buried",
+          "cn": "安葬",
+          "type": "term"
+        },
+        {
+          "en": "The Final Chapter",
+          "cn": "《最后一章》（电影）",
+          "type": "term"
+        },
+        {
+          "en": "What Happens in the Night",
+          "cn": "《夜晚发生的事》（电影）",
+          "type": "term"
+        },
+        {
+          "en": "Happy as Larry",
+          "cn": "《快乐如拉里》（电影）",
+          "type": "term"
+        },
+        {
+          "en": "horror film",
+          "cn": "恐怖片",
+          "type": "term"
+        }
       ],
       "grammar": [
         {
           "name": "被动语态与完成时的组合",
           "detail": "听力中最常考的三组被动：现在完成被动（has been done）、过去被动（was/were done）、过去完成被动（had been done）。",
           "examples": [
-            { "en": "His novels have been translated into 20 languages.", "cn": "现在完成被动" },
-            { "en": "The town was made famous by the novelist.", "cn": "过去被动" },
-            { "en": "The awards had been announced before the ceremony.", "cn": "过去完成被动" }
+            {
+              "en": "His novels have been translated into 20 languages.",
+              "cn": "现在完成被动"
+            },
+            {
+              "en": "The town was made famous by the novelist.",
+              "cn": "过去被动"
+            },
+            {
+              "en": "The awards had been announced before the ceremony.",
+              "cn": "过去完成被动"
+            }
           ]
         }
       ],
@@ -707,10 +1719,22 @@
           "type": "句子配对",
           "title": "句首 ↔ 句尾（Tanbridge 名人）",
           "fields": [
-            { "label": "Anna Collins", "given": "→ ?" },
-            { "label": "James Harman", "given": "→ ?" },
-            { "label": "Ian Cheriton", "given": "→ ?" },
-            { "label": "Sylvia Daniels", "given": "→ ?" }
+            {
+              "label": "Anna Collins",
+              "given": "→ ?"
+            },
+            {
+              "label": "James Harman",
+              "given": "→ ?"
+            },
+            {
+              "label": "Ian Cheriton",
+              "given": "→ ?"
+            },
+            {
+              "label": "Sylvia Daniels",
+              "given": "→ ?"
+            }
           ],
           "limit": "答案写 a / b / c / d"
         },
@@ -718,14 +1742,62 @@
           "type": "多选题",
           "title": "影评人谈电影",
           "fields": [
-            { "label": "What Happens in the Night is based on", "given": "a) a story the director was told b) the director's childhood c) a comic book" },
-            { "label": "The reviewer thinks it is", "given": "a) the best horror film this year b) visually stunning c) difficult to understand" },
-            { "label": "In real life, the stars of Happy as Larry", "given": "a) didn't get on b) fell in love c) are best friends" },
-            { "label": "The reviewer recommends it if", "given": "a) you are a woman b) you like romantic films c) you liked Sonya's other films" }
+            {
+              "label": "What Happens in the Night is based on",
+              "given": "a) a story the director was told b) the director's childhood c) a comic book"
+            },
+            {
+              "label": "The reviewer thinks it is",
+              "given": "a) the best horror film this year b) visually stunning c) difficult to understand"
+            },
+            {
+              "label": "In real life, the stars of Happy as Larry",
+              "given": "a) didn't get on b) fell in love c) are best friends"
+            },
+            {
+              "label": "The reviewer recommends it if",
+              "given": "a) you are a woman b) you like romantic films c) you liked Sonya's other films"
+            }
           ],
           "limit": "答案写 a / b / c"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 6,
+        "items": [
+          {
+            "track": 41,
+            "file": "assets/audio/listening/listening_track_41.mp3",
+            "label": "Track 41"
+          },
+          {
+            "track": 42,
+            "file": "assets/audio/listening/listening_track_42.mp3",
+            "label": "Track 42"
+          },
+          {
+            "track": 43,
+            "file": "assets/audio/listening/listening_track_43.mp3",
+            "label": "Track 43"
+          },
+          {
+            "track": 44,
+            "file": "assets/audio/listening/listening_track_44.mp3",
+            "label": "Track 44"
+          },
+          {
+            "track": 45,
+            "file": "assets/audio/listening/listening_track_45.mp3",
+            "label": "Track 45"
+          },
+          {
+            "track": 46,
+            "file": "assets/audio/listening/listening_track_46.mp3",
+            "label": "Track 46"
+          }
+        ]
+      }
     },
     {
       "id": 7,
@@ -733,7 +1805,10 @@
       "titleCn": "替代能源",
       "topic": "Science and technology（科学与技术）",
       "page": "p.56–63",
-      "questionTypes": ["Flow chart completion (2)", "Short answer questions (2)"],
+      "questionTypes": [
+        "Flow chart completion (2)",
+        "Short answer questions (2)"
+      ],
       "aims": {
         "examSkills": "流程图要点题、多项短答案（List/Name/Which）",
         "languageDevelopment": "主旨 vs 支撑点、列表型答案的语法过滤",
@@ -765,41 +1840,106 @@
           "name": "主旨 vs 支撑点（Main idea vs Supporting point）",
           "detail": "流程图只收要点。听到展开性说明时要「跳过」，只记能概括一节的句子。",
           "examples": [
-            { "en": "M = 实验室安全守则第 1 条（主旨）", "cn": "S = 第 2–6 条（支撑细节）" }
+            {
+              "en": "M = 实验室安全守则第 1 条（主旨）",
+              "cn": "S = 第 2–6 条（支撑细节）"
+            }
           ]
         },
         {
           "name": "列表型短答案：先数条数，再连听",
           "detail": "看清要几条（two / three）；因为答案在录音中连续出现，需要<b>连续听同一段</b>；再用语法结构区分。",
           "examples": [
-            { "en": "List three energy saving methods", "cn": "三条节能方法（动名词/动词短语）" },
-            { "en": "Name two substances which contribute to climate change", "cn": "两种物质（专有名词/化学名词）" },
-            { "en": "What three reasons does the lecturer give for the increase in oil prices?", "cn": "三个原因（Because...）" },
-            { "en": "List the three forms of energy", "cn": "三种能源形式（solar / wind / nuclear 之类名词）" }
+            {
+              "en": "List three energy saving methods",
+              "cn": "三条节能方法（动名词/动词短语）"
+            },
+            {
+              "en": "Name two substances which contribute to climate change",
+              "cn": "两种物质（专有名词/化学名词）"
+            },
+            {
+              "en": "What three reasons does the lecturer give for the increase in oil prices?",
+              "cn": "三个原因（Because...）"
+            },
+            {
+              "en": "List the three forms of energy",
+              "cn": "三种能源形式（solar / wind / nuclear 之类名词）"
+            }
           ]
         },
         {
           "name": "Pronunciation: 长短元音",
           "detail": "英语元音分<b>长元音和短元音</b>，例如 sit 的 i 音是短音，seat 的 i 音是长音。识别元音有助于<b>听懂 Listening 答案</b>，也帮助<b>注意单词的拼写</b>。",
           "examples": [
-            { "en": "It's difficult to pick a topic for my presentation.", "cn": "pick（短 i）" },
-            { "en": "Scientists have educated people about energy usage.", "cn": "educated（长 i）" },
-            { "en": "I hope there is a large audience for today's lecture.", "cn": "audience（长 i）" },
-            { "en": "This report has so many statistics.", "cn": "statistics（短 i）" },
-            { "en": "don't delete anything important", "cn": "delete（长 i）" },
-            { "en": "the cost of alternative energy", "cn": "cost（短 o）" }
+            {
+              "en": "It's difficult to pick a topic for my presentation.",
+              "cn": "pick（短 i）"
+            },
+            {
+              "en": "Scientists have educated people about energy usage.",
+              "cn": "educated（长 i）"
+            },
+            {
+              "en": "I hope there is a large audience for today's lecture.",
+              "cn": "audience（长 i）"
+            },
+            {
+              "en": "This report has so many statistics.",
+              "cn": "statistics（短 i）"
+            },
+            {
+              "en": "don't delete anything important",
+              "cn": "delete（长 i）"
+            },
+            {
+              "en": "the cost of alternative energy",
+              "cn": "cost（短 o）"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "alternative energy", "cn": "替代能源", "type": "term" },
-        { "en": "energy saving methods", "cn": "节能方法", "type": "term" },
-        { "en": "greenhouse gases", "cn": "温室气体", "type": "term" },
-        { "en": "oil prices", "cn": "油价", "type": "term" },
-        { "en": "energy usage", "cn": "能源使用量", "type": "term" },
-        { "en": "reading list", "cn": "阅读清单", "type": "term" },
-        { "en": "note-taking", "cn": "记笔记", "type": "term" },
-        { "en": "focus area", "cn": "研究重点领域", "type": "term" }
+        {
+          "en": "alternative energy",
+          "cn": "替代能源",
+          "type": "term"
+        },
+        {
+          "en": "energy saving methods",
+          "cn": "节能方法",
+          "type": "term"
+        },
+        {
+          "en": "greenhouse gases",
+          "cn": "温室气体",
+          "type": "term"
+        },
+        {
+          "en": "oil prices",
+          "cn": "油价",
+          "type": "term"
+        },
+        {
+          "en": "energy usage",
+          "cn": "能源使用量",
+          "type": "term"
+        },
+        {
+          "en": "reading list",
+          "cn": "阅读清单",
+          "type": "term"
+        },
+        {
+          "en": "note-taking",
+          "cn": "记笔记",
+          "type": "term"
+        },
+        {
+          "en": "focus area",
+          "cn": "研究重点领域",
+          "type": "term"
+        }
       ],
       "grammar": [],
       "exercises": [
@@ -807,11 +1947,26 @@
           "type": "流程图填空",
           "title": "Alternative energy research project",
           "fields": [
-            { "label": "1. Focus the question on one particular", "given": "___ area" },
-            { "label": "2. Make a reading list which is", "given": "1 __ and 2 __" },
-            { "label": "3. Start reading as soon as possible → Remember to", "given": "3 __ while reading" },
-            { "label": "4. Organise notes into some", "given": "4 __" },
-            { "label": "5. Analyse notes and reading for", "given": "5 __ to question" }
+            {
+              "label": "1. Focus the question on one particular",
+              "given": "___ area"
+            },
+            {
+              "label": "2. Make a reading list which is",
+              "given": "1 __ and 2 __"
+            },
+            {
+              "label": "3. Start reading as soon as possible → Remember to",
+              "given": "3 __ while reading"
+            },
+            {
+              "label": "4. Organise notes into some",
+              "given": "4 __"
+            },
+            {
+              "label": "5. Analyse notes and reading for",
+              "given": "5 __ to question"
+            }
           ],
           "limit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
         },
@@ -819,13 +1974,68 @@
           "type": "多项短答案",
           "title": "Lecture on energy",
           "fields": [
-            { "label": "List three energy saving methods", "given": "→ ?" },
-            { "label": "Name two substances which contribute to climate change", "given": "→ ?" },
-            { "label": "What three reasons does the lecturer give for the increase in oil prices?", "given": "→ ?" }
+            {
+              "label": "List three energy saving methods",
+              "given": "→ ?"
+            },
+            {
+              "label": "Name two substances which contribute to climate change",
+              "given": "→ ?"
+            },
+            {
+              "label": "What three reasons does the lecturer give for the increase in oil prices?",
+              "given": "→ ?"
+            }
           ],
           "limit": "NO MORE THAN THREE WORDS OR A NUMBER"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 8,
+        "items": [
+          {
+            "track": 47,
+            "file": "assets/audio/listening/listening_track_47.mp3",
+            "label": "Track 47"
+          },
+          {
+            "track": 48,
+            "file": "assets/audio/listening/listening_track_48.mp3",
+            "label": "Track 48"
+          },
+          {
+            "track": 49,
+            "file": "assets/audio/listening/listening_track_49.mp3",
+            "label": "Track 49"
+          },
+          {
+            "track": 50,
+            "file": "assets/audio/listening/listening_track_50.mp3",
+            "label": "Track 50"
+          },
+          {
+            "track": 51,
+            "file": "assets/audio/listening/listening_track_51.mp3",
+            "label": "Track 51"
+          },
+          {
+            "track": 52,
+            "file": "assets/audio/listening/listening_track_52.mp3",
+            "label": "Track 52"
+          },
+          {
+            "track": 53,
+            "file": "assets/audio/listening/listening_track_53.mp3",
+            "label": "Track 53"
+          },
+          {
+            "track": 54,
+            "file": "assets/audio/listening/listening_track_54.mp3",
+            "label": "Track 54"
+          }
+        ]
+      }
     },
     {
       "id": 8,
@@ -833,7 +2043,10 @@
       "titleCn": "移民",
       "topic": "People and places（人与地方）",
       "page": "p.64–71",
-      "questionTypes": ["Classification (2)", "Labelling a diagram (2)"],
+      "questionTypes": [
+        "Classification (2)",
+        "Labelling a diagram (2)"
+      ],
       "aims": {
         "examSkills": "分类题的列表性质判断、流程图排序 + 填空",
         "languageDevelopment": "内因/外因/应对策略/结果的结构化表述",
@@ -866,41 +2079,110 @@
           "name": "分类题的「锚点列表」法",
           "detail": "<b>人名/地名/国家名列表 = 原样出现</b>，可作锚点定位；<b>抽象概念的列表 = 会被释义</b>，需预先想好替换说法。",
           "examples": [
-            { "en": "Eastgate / The Latin Quarter / Park Royal Gardens", "cn": "地名 → 原样出现，作锚点" },
-            { "en": "Middle class families / High income couples with no children / Working class families", "cn": "概念 → 会被释义" }
+            {
+              "en": "Eastgate / The Latin Quarter / Park Royal Gardens",
+              "cn": "地名 → 原样出现，作锚点"
+            },
+            {
+              "en": "Middle class families / High income couples with no children / Working class families",
+              "cn": "概念 → 会被释义"
+            }
           ]
         },
         {
           "name": "排序题先看方框内容",
           "detail": "听之前先根据方框里的名词推断流程顺序，能大幅提高命中率。",
           "examples": [
-            { "en": "a External factors; b Negative internal factors; c Results; d Positive coping strategies; e Positive internal factors; f Negative coping strategies", "cn": "先按 内因→外因→应对→结果 排好，再听验证" }
+            {
+              "en": "a External factors; b Negative internal factors; c Results; d Positive coping strategies; e Positive internal factors; f Negative coping strategies",
+              "cn": "先按 内因→外因→应对→结果 排好，再听验证"
+            }
           ]
         },
         {
           "name": "同一流程换画法（图表双考点）",
           "detail": "同一份内容可能先用流程图排序，再用表格填空。两次都要做对。",
           "examples": [
-            { "en": "Internal factors POSITIVE: Trust, Accept differences | NEGATIVE: Fear, 1 __", "cn": "内因" },
-            { "en": "External factors: Family and friends, Weather, 2 __, Language ability", "cn": "外因" },
-            { "en": "Results POSITIVE: Watch people, 3 __ and ask questions → Understanding and then integration", "cn": "积极结果" },
-            { "en": "Results NEGATIVE: Criticise new culture, Stay with own nationality, Speak own language → Alienation and then 4 __", "cn": "消极结果" }
+            {
+              "en": "Internal factors POSITIVE: Trust, Accept differences | NEGATIVE: Fear, 1 __",
+              "cn": "内因"
+            },
+            {
+              "en": "External factors: Family and friends, Weather, 2 __, Language ability",
+              "cn": "外因"
+            },
+            {
+              "en": "Results POSITIVE: Watch people, 3 __ and ask questions → Understanding and then integration",
+              "cn": "积极结果"
+            },
+            {
+              "en": "Results NEGATIVE: Criticise new culture, Stay with own nationality, Speak own language → Alienation and then 4 __",
+              "cn": "消极结果"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "Eastgate", "cn": "东门（城区）", "type": "place" },
-        { "en": "The Latin Quarter", "cn": "拉丁区", "type": "place" },
-        { "en": "Park Royal Gardens", "cn": "皇家公园花园", "type": "place" },
-        { "en": "Family Records Centre", "cn": "家庭记录中心", "type": "org" },
-        { "en": "Genes Reunited", "cn": "Genes Reunited（寻亲网站）", "type": "org" },
-        { "en": "National Census Association", "cn": "全国人口普查协会", "type": "org" },
-        { "en": "Journal of Historical Migration", "cn": "《历史迁移期刊》", "type": "org" },
-        { "en": "Journal of Social Demography", "cn": "《社会人口学刊》", "type": "org" },
-        { "en": "coping strategies", "cn": "应对策略", "type": "term" },
-        { "en": "integration", "cn": "融合", "type": "term" },
-        { "en": "alienation", "cn": "疏离/异化", "type": "term" },
-        { "en": "acceptance / adaptation", "cn": "接纳 / 适应", "type": "term" }
+        {
+          "en": "Eastgate",
+          "cn": "东门（城区）",
+          "type": "place"
+        },
+        {
+          "en": "The Latin Quarter",
+          "cn": "拉丁区",
+          "type": "place"
+        },
+        {
+          "en": "Park Royal Gardens",
+          "cn": "皇家公园花园",
+          "type": "place"
+        },
+        {
+          "en": "Family Records Centre",
+          "cn": "家庭记录中心",
+          "type": "org"
+        },
+        {
+          "en": "Genes Reunited",
+          "cn": "Genes Reunited（寻亲网站）",
+          "type": "org"
+        },
+        {
+          "en": "National Census Association",
+          "cn": "全国人口普查协会",
+          "type": "org"
+        },
+        {
+          "en": "Journal of Historical Migration",
+          "cn": "《历史迁移期刊》",
+          "type": "org"
+        },
+        {
+          "en": "Journal of Social Demography",
+          "cn": "《社会人口学刊》",
+          "type": "org"
+        },
+        {
+          "en": "coping strategies",
+          "cn": "应对策略",
+          "type": "term"
+        },
+        {
+          "en": "integration",
+          "cn": "融合",
+          "type": "term"
+        },
+        {
+          "en": "alienation",
+          "cn": "疏离/异化",
+          "type": "term"
+        },
+        {
+          "en": "acceptance / adaptation",
+          "cn": "接纳 / 适应",
+          "type": "term"
+        }
       ],
       "grammar": [],
       "exercises": [
@@ -908,9 +2190,18 @@
           "type": "分类配对",
           "title": "Family type × City",
           "fields": [
-            { "label": "A Eastgate", "given": "→ ?" },
-            { "label": "B The Latin Quarter", "given": "→ ?" },
-            { "label": "C Park Royal Gardens", "given": "→ ?" }
+            {
+              "label": "A Eastgate",
+              "given": "→ ?"
+            },
+            {
+              "label": "B The Latin Quarter",
+              "given": "→ ?"
+            },
+            {
+              "label": "C Park Royal Gardens",
+              "given": "→ ?"
+            }
           ],
           "limit": "答案写 A / B / C"
         },
@@ -918,14 +2209,72 @@
           "type": "表格填空",
           "title": "同一流程（表格形式）",
           "fields": [
-            { "label": "Internal NEGATIVE", "given": "Fear, 1 __" },
-            { "label": "External factors", "given": "Family and friends, Weather, 2 __, Language ability" },
-            { "label": "Results POSITIVE", "given": "Watch people, 3 __ and ask questions" },
-            { "label": "Results NEGATIVE", "given": "→ Alienation and then 4 __" }
+            {
+              "label": "Internal NEGATIVE",
+              "given": "Fear, 1 __"
+            },
+            {
+              "label": "External factors",
+              "given": "Family and friends, Weather, 2 __, Language ability"
+            },
+            {
+              "label": "Results POSITIVE",
+              "given": "Watch people, 3 __ and ask questions"
+            },
+            {
+              "label": "Results NEGATIVE",
+              "given": "→ Alienation and then 4 __"
+            }
           ],
           "limit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 8,
+        "items": [
+          {
+            "track": 55,
+            "file": "assets/audio/listening/listening_track_55.mp3",
+            "label": "Track 55"
+          },
+          {
+            "track": 56,
+            "file": "assets/audio/listening/listening_track_56.mp3",
+            "label": "Track 56"
+          },
+          {
+            "track": 57,
+            "file": "assets/audio/listening/listening_track_57.mp3",
+            "label": "Track 57"
+          },
+          {
+            "track": 58,
+            "file": "assets/audio/listening/listening_track_58.mp3",
+            "label": "Track 58"
+          },
+          {
+            "track": 59,
+            "file": "assets/audio/listening/listening_track_59.mp3",
+            "label": "Track 59"
+          },
+          {
+            "track": 60,
+            "file": "assets/audio/listening/listening_track_60.mp3",
+            "label": "Track 60"
+          },
+          {
+            "track": 61,
+            "file": "assets/audio/listening/listening_track_61.mp3",
+            "label": "Track 61"
+          },
+          {
+            "track": 62,
+            "file": "assets/audio/listening/listening_track_62.mp3",
+            "label": "Track 62"
+          }
+        ]
+      }
     },
     {
       "id": 9,
@@ -933,7 +2282,10 @@
       "titleCn": "健身房",
       "topic": "Health and fitness（健康与健身）",
       "page": "p.72–79",
-      "questionTypes": ["Labelling a diagram (3)", "Form completion (3)"],
+      "questionTypes": [
+        "Labelling a diagram (3)",
+        "Form completion (3)"
+      ],
       "aims": {
         "examSkills": "图片标注三要素、表格信息类型匹配",
         "languageDevelopment": "器材与身体部位词汇、表格行标题与答案类型的对应",
@@ -967,44 +2319,121 @@
           "name": "图片标注三要素",
           "detail": "1) <b>Purpose of the diagram</b>（图表目的）2) <b>Flow</b>（信息出现的顺序）3) <b>Type of answer</b>（答案词性：名词/动词/形容词）。",
           "examples": [
-            { "en": "Main grip → metallic spine → central wheel → screen → pedals", "cn": "划船机部件顺序" },
-            { "en": "Question 1 needs a noun, Q2 a verb, Q3 an adjective", "cn": "先定词性再听" }
+            {
+              "en": "Main grip → metallic spine → central wheel → screen → pedals",
+              "cn": "划船机部件顺序"
+            },
+            {
+              "en": "Question 1 needs a noun, Q2 a verb, Q3 an adjective",
+              "cn": "先定词性再听"
+            }
           ]
         },
         {
           "name": "表格行标题 → 答案类型对照",
           "detail": "行标题的语义直接限定答案。Contact number → 号码；Age range → 年龄段；Frequency of exercise → 频率短语。",
           "examples": [
-            { "en": "1 Contact number → Oliver's telephone number", "cn": "→ Oliver 的电话号码" },
-            { "en": "2 Age range → what age group Oliver is in", "cn": "→ Oliver 属于哪个年龄段" },
-            { "en": "3 Existing health conditions → what illnesses Oliver has now", "cn": "→ Oliver 目前的健康问题" },
-            { "en": "4 Frequency of exercise → how often Oliver does exercise", "cn": "→ Oliver 现在多久运动一次" },
-            { "en": "5 Types of exercise → what kind(s) of exercise Oliver does now", "cn": "→ Oliver 现在做哪些运动" },
-            { "en": "6 Reason for visits → why Oliver wants to go to the gym", "cn": "→ Oliver 为什么想去健身房" },
-            { "en": "7 Frequency of visit → how often Oliver will exercise at the gym", "cn": "→ Oliver 会多久去一次健身房" },
-            { "en": "8 Suggested workout → what kind(s) of exercise Oliver will do", "cn": "→ Oliver 会在健身房做什么运动" }
+            {
+              "en": "1 Contact number → Oliver's telephone number",
+              "cn": "→ Oliver 的电话号码"
+            },
+            {
+              "en": "2 Age range → what age group Oliver is in",
+              "cn": "→ Oliver 属于哪个年龄段"
+            },
+            {
+              "en": "3 Existing health conditions → what illnesses Oliver has now",
+              "cn": "→ Oliver 目前的健康问题"
+            },
+            {
+              "en": "4 Frequency of exercise → how often Oliver does exercise",
+              "cn": "→ Oliver 现在多久运动一次"
+            },
+            {
+              "en": "5 Types of exercise → what kind(s) of exercise Oliver does now",
+              "cn": "→ Oliver 现在做哪些运动"
+            },
+            {
+              "en": "6 Reason for visits → why Oliver wants to go to the gym",
+              "cn": "→ Oliver 为什么想去健身房"
+            },
+            {
+              "en": "7 Frequency of visit → how often Oliver will exercise at the gym",
+              "cn": "→ Oliver 会多久去一次健身房"
+            },
+            {
+              "en": "8 Suggested workout → what kind(s) of exercise Oliver will do",
+              "cn": "→ Oliver 会在健身房做什么运动"
+            }
           ]
         },
         {
           "name": "表格里被划掉的选项是干扰",
           "detail": "JOINING THE GYM 表格中 26–35 被划掉，说明该年龄段已被排除，不要纠结。",
           "examples": [
-            { "en": "Age range: 16–25 / 26–35（划掉）/ 36–49 / 50–59 / 60+", "cn": "正确答案必在剩余选项中" }
+            {
+              "en": "Age range: 16–25 / 26–35（划掉）/ 36–49 / 50–59 / 60+",
+              "cn": "正确答案必在剩余选项中"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "step machine", "cn": "划船机 / 登山机", "type": "term" },
-        { "en": "main grip", "cn": "主握把", "type": "term" },
-        { "en": "metallic spine", "cn": "金属骨架", "type": "term" },
-        { "en": "central wheel", "cn": "中央轮", "type": "term" },
-        { "en": "screen", "cn": "显示屏", "type": "term" },
-        { "en": "pedals", "cn": "踏板", "type": "term" },
-        { "en": "membership form", "cn": "会员申请表", "type": "term" },
-        { "en": "health conditions", "cn": "健康状况", "type": "term" },
-        { "en": "suggested workout", "cn": "建议的训练方案", "type": "term" },
-        { "en": "Level 2 workout", "cn": "二级强度训练", "type": "term" },
-        { "en": "twice a week", "cn": "每周两次", "type": "phrase" }
+        {
+          "en": "step machine",
+          "cn": "划船机 / 登山机",
+          "type": "term"
+        },
+        {
+          "en": "main grip",
+          "cn": "主握把",
+          "type": "term"
+        },
+        {
+          "en": "metallic spine",
+          "cn": "金属骨架",
+          "type": "term"
+        },
+        {
+          "en": "central wheel",
+          "cn": "中央轮",
+          "type": "term"
+        },
+        {
+          "en": "screen",
+          "cn": "显示屏",
+          "type": "term"
+        },
+        {
+          "en": "pedals",
+          "cn": "踏板",
+          "type": "term"
+        },
+        {
+          "en": "membership form",
+          "cn": "会员申请表",
+          "type": "term"
+        },
+        {
+          "en": "health conditions",
+          "cn": "健康状况",
+          "type": "term"
+        },
+        {
+          "en": "suggested workout",
+          "cn": "建议的训练方案",
+          "type": "term"
+        },
+        {
+          "en": "Level 2 workout",
+          "cn": "二级强度训练",
+          "type": "term"
+        },
+        {
+          "en": "twice a week",
+          "cn": "每周两次",
+          "type": "phrase"
+        }
       ],
       "grammar": [],
       "exercises": [
@@ -1012,9 +2441,18 @@
           "type": "图片标注",
           "title": "Step machine（划船机）",
           "fields": [
-            { "label": "1", "given": "（词性：?）" },
-            { "label": "2", "given": "（词性：?）" },
-            { "label": "3", "given": "（词性：?）" }
+            {
+              "label": "1",
+              "given": "（词性：?）"
+            },
+            {
+              "label": "2",
+              "given": "（词性：?）"
+            },
+            {
+              "label": "3",
+              "given": "（词性：?）"
+            }
           ],
           "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
         },
@@ -1022,17 +2460,79 @@
           "type": "表格填空",
           "title": "JOINING THE GYM: MEMBERSHIP FORM",
           "fields": [
-            { "label": "Name", "given": "Alice Watson" },
-            { "label": "Age range", "given": "26–35（已划掉）" },
-            { "label": "Frequency of exercise", "given": "twice a week" },
-            { "label": "Suggested workout", "given": "Level 2 workout" },
-            { "label": "Existing health conditions", "given": "1 __" },
-            { "label": "Types of exercise", "given": "2 __" },
-            { "label": "Reason for visits", "given": "3 __" }
+            {
+              "label": "Name",
+              "given": "Alice Watson"
+            },
+            {
+              "label": "Age range",
+              "given": "26–35（已划掉）"
+            },
+            {
+              "label": "Frequency of exercise",
+              "given": "twice a week"
+            },
+            {
+              "label": "Suggested workout",
+              "given": "Level 2 workout"
+            },
+            {
+              "label": "Existing health conditions",
+              "given": "1 __"
+            },
+            {
+              "label": "Types of exercise",
+              "given": "2 __"
+            },
+            {
+              "label": "Reason for visits",
+              "given": "3 __"
+            }
           ],
           "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 7,
+        "items": [
+          {
+            "track": 63,
+            "file": "assets/audio/listening/listening_track_63.mp3",
+            "label": "Track 63"
+          },
+          {
+            "track": 64,
+            "file": "assets/audio/listening/listening_track_64.mp3",
+            "label": "Track 64"
+          },
+          {
+            "track": 65,
+            "file": "assets/audio/listening/listening_track_65.mp3",
+            "label": "Track 65"
+          },
+          {
+            "track": 66,
+            "file": "assets/audio/listening/listening_track_66.mp3",
+            "label": "Track 66"
+          },
+          {
+            "track": 67,
+            "file": "assets/audio/listening/listening_track_67.mp3",
+            "label": "Track 67"
+          },
+          {
+            "track": 68,
+            "file": "assets/audio/listening/listening_track_68.mp3",
+            "label": "Track 68"
+          },
+          {
+            "track": 69,
+            "file": "assets/audio/listening/listening_track_69.mp3",
+            "label": "Track 69"
+          }
+        ]
+      }
     },
     {
       "id": 10,
@@ -1040,7 +2540,10 @@
       "titleCn": "办公室",
       "topic": "Employment and finances（就业与财务）",
       "page": "p.80–87",
-      "questionTypes": ["Table completion questions (3)", "Matching (2) 释义改写"],
+      "questionTypes": [
+        "Table completion questions (3)",
+        "Matching (2) 释义改写"
+      ],
       "aims": {
         "examSkills": "表格准确度、单复数与词性",
         "languageDevelopment": "固定搭配 collocations、释义的四种改写方法",
@@ -1065,71 +2568,194 @@
           "name": "释义的四种改写方法",
           "detail": "听力的同义替换有固定套路。这四种改写方式能覆盖大部分情况。",
           "examples": [
-            { "en": "The meeting was difficult. → The meeting wasn't easy.", "cn": "① 肯定↔否定改写" },
-            { "en": "Both Human Resources and the Finance Department were unaffected when the company was taken over. → Neither Human Resources nor the Finance Department were affected when the company was taken over.", "cn": "② both…and ↔ neither…nor" },
-            { "en": "Bob earns more money than Paul. → Paul earns less money than Bob.", "cn": "③ more/less than 比较级互换" },
-            { "en": "Most people want to gain promotion at work so they can progress in their careers. → In order to progress in their careers, most people want to gain promotion.", "cn": "④ 改变词序" }
+            {
+              "en": "The meeting was difficult. → The meeting wasn't easy.",
+              "cn": "① 肯定↔否定改写"
+            },
+            {
+              "en": "Both Human Resources and the Finance Department were unaffected when the company was taken over. → Neither Human Resources nor the Finance Department were affected when the company was taken over.",
+              "cn": "② both…and ↔ neither…nor"
+            },
+            {
+              "en": "Bob earns more money than Paul. → Paul earns less money than Bob.",
+              "cn": "③ more/less than 比较级互换"
+            },
+            {
+              "en": "Most people want to gain promotion at work so they can progress in their careers. → In order to progress in their careers, most people want to gain promotion.",
+              "cn": "④ 改变词序"
+            }
           ]
         },
         {
           "name": "固定搭配 Collocations",
           "detail": "录音里的空缺需要用<b>正确的搭配形式</b>。动词 + 介词、动词 + 名词的搭配要成组记。",
           "examples": [
-            { "en": "I have to ask for a big order.", "cn": "ask for（请求）" },
-            { "en": "They should be on leave next week.", "cn": "be on leave（休假）" },
-            { "en": "As long as they don't come up with something I haven't thought about.", "cn": "come up with（想出）" },
-            { "en": "You should make sure they're outlining all the points.", "cn": "make sure（确保）" },
-            { "en": "Make sure you have a clear record of everything that was discussed — take notes.", "cn": "take notes（记笔记）" }
+            {
+              "en": "I have to ask for a big order.",
+              "cn": "ask for（请求）"
+            },
+            {
+              "en": "They should be on leave next week.",
+              "cn": "be on leave（休假）"
+            },
+            {
+              "en": "As long as they don't come up with something I haven't thought about.",
+              "cn": "come up with（想出）"
+            },
+            {
+              "en": "You should make sure they're outlining all the points.",
+              "cn": "make sure（确保）"
+            },
+            {
+              "en": "Make sure you have a clear record of everything that was discussed — take notes.",
+              "cn": "take notes（记笔记）"
+            }
           ]
         },
         {
           "name": "表格题的语法精确度",
           "detail": "表格空格的词性、单复数、冠词、介词搭配都会被判错。要逐项核对。",
           "examples": [
-            { "en": "1 Company name: a) The Youthful Travel Company b) The Youthfully Travel Company", "cn": "→ a（Youthful 是形容词）" },
-            { "en": "2 Product: a) an adventure holiday b) adventure holidays", "cn": "→ a（单数 + 冠词）" },
-            { "en": "3 Suitable for: a) young people b) young person", "cn": "→ a（复数）" },
-            { "en": "4 Department name: a) Finance b) Financial", "cn": "→ a（名词）" },
-            { "en": "5 Main work: a) responsible for company accounts b) responsibility for company accounts", "cn": "→ a（be responsible for）" },
-            { "en": "6 Location: a) in a city centre b) in the city centre", "cn": "→ a（泛指用 a）" }
+            {
+              "en": "1 Company name: a) The Youthful Travel Company b) The Youthfully Travel Company",
+              "cn": "→ a（Youthful 是形容词）"
+            },
+            {
+              "en": "2 Product: a) an adventure holiday b) adventure holidays",
+              "cn": "→ a（单数 + 冠词）"
+            },
+            {
+              "en": "3 Suitable for: a) young people b) young person",
+              "cn": "→ a（复数）"
+            },
+            {
+              "en": "4 Department name: a) Finance b) Financial",
+              "cn": "→ a（名词）"
+            },
+            {
+              "en": "5 Main work: a) responsible for company accounts b) responsibility for company accounts",
+              "cn": "→ a（be responsible for）"
+            },
+            {
+              "en": "6 Location: a) in a city centre b) in the city centre",
+              "cn": "→ a（泛指用 a）"
+            }
           ]
         },
         {
           "name": "Pronunciation: Changing sounds (2)",
           "detail": "当一个词以<b>元音结尾</b>、后一个词以<b>元音开头</b>时，说话者会把两个词连起来，<b>中间加一个额外的字母</b>：/l/, /j/, /w/。",
           "examples": [
-            { "en": "We're giving a bonus to all the staff.", "cn": "bonus to → bonus t<u>all（加 /l/）" },
-            { "en": "The company is expanding since it's moving office.", "cn": "expanding since → 加 /j/（/dʒ/）" },
-            { "en": "Yesterday I read an interesting report.", "cn": "read an → 加 /j/（/r/）" },
-            { "en": "This can be improved by new techniques.", "cn": "improved by → 加 /j/（/b/）" },
-            { "en": "Next year I'm going to study economics and marketing.", "cn": "study economics → 加 /j/（/dʒ/）" }
+            {
+              "en": "We're giving a bonus to all the staff.",
+              "cn": "bonus to → bonus t<u>all（加 /l/）"
+            },
+            {
+              "en": "The company is expanding since it's moving office.",
+              "cn": "expanding since → 加 /j/（/dʒ/）"
+            },
+            {
+              "en": "Yesterday I read an interesting report.",
+              "cn": "read an → 加 /j/（/r/）"
+            },
+            {
+              "en": "This can be improved by new techniques.",
+              "cn": "improved by → 加 /j/（/b/）"
+            },
+            {
+              "en": "Next year I'm going to study economics and marketing.",
+              "cn": "study economics → 加 /j/（/dʒ/）"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "collocations", "cn": "固定搭配", "type": "term" },
-        { "en": "human resources", "cn": "人力资源部", "type": "org" },
-        { "en": "finance department", "cn": "财务部", "type": "org" },
-        { "en": "audit", "cn": "审计", "type": "term" },
-        { "en": "impending job losses", "cn": "即将发生的裁员", "type": "term" },
-        { "en": "catering industry", "cn": "餐饮业", "type": "term" },
-        { "en": "responsible for / responsibility for", "cn": "负责（搭配）", "type": "phrase" },
-        { "en": "bonus", "cn": "奖金", "type": "term" },
-        { "en": "expanding", "cn": "扩张", "type": "term" },
-        { "en": "promotion", "cn": "晋升", "type": "term" },
-        { "en": "salary", "cn": "薪水", "type": "term" },
-        { "en": "staff kitchen", "cn": "员工厨房", "type": "place" }
+        {
+          "en": "collocations",
+          "cn": "固定搭配",
+          "type": "term"
+        },
+        {
+          "en": "human resources",
+          "cn": "人力资源部",
+          "type": "org"
+        },
+        {
+          "en": "finance department",
+          "cn": "财务部",
+          "type": "org"
+        },
+        {
+          "en": "audit",
+          "cn": "审计",
+          "type": "term"
+        },
+        {
+          "en": "impending job losses",
+          "cn": "即将发生的裁员",
+          "type": "term"
+        },
+        {
+          "en": "catering industry",
+          "cn": "餐饮业",
+          "type": "term"
+        },
+        {
+          "en": "responsible for / responsibility for",
+          "cn": "负责（搭配）",
+          "type": "phrase"
+        },
+        {
+          "en": "bonus",
+          "cn": "奖金",
+          "type": "term"
+        },
+        {
+          "en": "expanding",
+          "cn": "扩张",
+          "type": "term"
+        },
+        {
+          "en": "promotion",
+          "cn": "晋升",
+          "type": "term"
+        },
+        {
+          "en": "salary",
+          "cn": "薪水",
+          "type": "term"
+        },
+        {
+          "en": "staff kitchen",
+          "cn": "员工厨房",
+          "type": "place"
+        }
       ],
       "grammar": [
         {
           "name": "五种释义改写句型",
           "detail": "否定改写、both/neither、比较级互换、词序调整、被动主动互换。这是听力同义替换的语法基础。",
           "examples": [
-            { "en": "Working in a bank is less interesting than working in a hotel.", "cn": "改写练习：more interesting" },
-            { "en": "Neither managers nor staff in the catering industry earn high salaries.", "cn": "改写练习：both / low" },
-            { "en": "Most of the company's employees have little experience in IT.", "cn": "改写练习：only a few" },
-            { "en": "The staff kitchen is usually dirty.", "cn": "改写练习：often / clean" },
-            { "en": "The meeting was managed badly.", "cn": "改写练习：wasn't / well" }
+            {
+              "en": "Working in a bank is less interesting than working in a hotel.",
+              "cn": "改写练习：more interesting"
+            },
+            {
+              "en": "Neither managers nor staff in the catering industry earn high salaries.",
+              "cn": "改写练习：both / low"
+            },
+            {
+              "en": "Most of the company's employees have little experience in IT.",
+              "cn": "改写练习：only a few"
+            },
+            {
+              "en": "The staff kitchen is usually dirty.",
+              "cn": "改写练习：often / clean"
+            },
+            {
+              "en": "The meeting was managed badly.",
+              "cn": "改写练习：wasn't / well"
+            }
           ]
         }
       ],
@@ -1138,11 +2764,26 @@
           "type": "对话填空",
           "title": "办公室对话（搭配）",
           "fields": [
-            { "label": "I have to ___ for a big order", "given": "ask for" },
-            { "label": "they should be ___ next week", "given": "on leave / in the office" },
-            { "label": "As long as they don't ___ which I haven't thought about", "given": "come up with" },
-            { "label": "You should (4) ___ them ___ outlining all the points", "given": "make / sure" },
-            { "label": "make sure you have a clear record of everything that was discussed", "given": "note / take" }
+            {
+              "label": "I have to ___ for a big order",
+              "given": "ask for"
+            },
+            {
+              "label": "they should be ___ next week",
+              "given": "on leave / in the office"
+            },
+            {
+              "label": "As long as they don't ___ which I haven't thought about",
+              "given": "come up with"
+            },
+            {
+              "label": "You should (4) ___ them ___ outlining all the points",
+              "given": "make / sure"
+            },
+            {
+              "label": "make sure you have a clear record of everything that was discussed",
+              "given": "note / take"
+            }
           ],
           "limit": "NO MORE THAN TWO WORDS"
         },
@@ -1150,16 +2791,70 @@
           "type": "表格填空",
           "title": "The Youthful Travel Company",
           "fields": [
-            { "label": "Company name", "given": "a) The Youthful Travel Company b) The Youthfully Travel Company" },
-            { "label": "Product", "given": "a) an adventure holiday b) adventure holidays" },
-            { "label": "Suitable for", "given": "a) young people b) young person" },
-            { "label": "Department name", "given": "a) Finance b) Financial" },
-            { "label": "Main work", "given": "a) responsible for company accounts b) responsibility for company accounts" },
-            { "label": "Location", "given": "a) in a city centre b) in the city centre" }
+            {
+              "label": "Company name",
+              "given": "a) The Youthful Travel Company b) The Youthfully Travel Company"
+            },
+            {
+              "label": "Product",
+              "given": "a) an adventure holiday b) adventure holidays"
+            },
+            {
+              "label": "Suitable for",
+              "given": "a) young people b) young person"
+            },
+            {
+              "label": "Department name",
+              "given": "a) Finance b) Financial"
+            },
+            {
+              "label": "Main work",
+              "given": "a) responsible for company accounts b) responsibility for company accounts"
+            },
+            {
+              "label": "Location",
+              "given": "a) in a city centre b) in the city centre"
+            }
           ],
           "limit": "答案写 a 或 b"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 6,
+        "items": [
+          {
+            "track": 70,
+            "file": "assets/audio/listening/listening_track_70.mp3",
+            "label": "Track 70"
+          },
+          {
+            "track": 71,
+            "file": "assets/audio/listening/listening_track_71.mp3",
+            "label": "Track 71"
+          },
+          {
+            "track": 72,
+            "file": "assets/audio/listening/listening_track_72.mp3",
+            "label": "Track 72"
+          },
+          {
+            "track": 73,
+            "file": "assets/audio/listening/listening_track_73.mp3",
+            "label": "Track 73"
+          },
+          {
+            "track": 74,
+            "file": "assets/audio/listening/listening_track_74.mp3",
+            "label": "Track 74"
+          },
+          {
+            "track": 75,
+            "file": "assets/audio/listening/listening_track_75.mp3",
+            "label": "Track 75"
+          }
+        ]
+      }
     },
     {
       "id": 11,
@@ -1167,7 +2862,10 @@
       "titleCn": "地方语言",
       "topic": "Language and communication（语言与交流）",
       "page": "p.88–95",
-      "questionTypes": ["Multiple choice (3)", "Labelling a map or plan (3)"],
+      "questionTypes": [
+        "Multiple choice (3)",
+        "Labelling a map or plan (3)"
+      ],
       "aims": {
         "examSkills": "图表选择题、地图地理方位标注",
         "languageDevelopment": "饼图阅读、compass points 方位表达",
@@ -1202,47 +2900,137 @@
           "name": "饼图（pie chart）四步读法",
           "detail": "1) 看图例区分各扇区 2) 看标题判断是<b>人数还是百分比</b> 3) 判断<b>时间范围</b>（recent past / distant past）4) 比较各扇区比例。",
           "examples": [
-            { "en": "Number of % UK speakers in % in 2018", "cn": "标题：百分比数据" },
-            { "en": "Welsh / Gaelic / Cornish / Irish", "cn": "图例：四种语言" },
-            { "en": "the smallest percentage / around ten per cent / about a quarter / over half", "cn": "四种比例档位" }
+            {
+              "en": "Number of % UK speakers in % in 2018",
+              "cn": "标题：百分比数据"
+            },
+            {
+              "en": "Welsh / Gaelic / Cornish / Irish",
+              "cn": "图例：四种语言"
+            },
+            {
+              "en": "the smallest percentage / around ten per cent / about a quarter / over half",
+              "cn": "四种比例档位"
+            }
           ]
         },
         {
           "name": "三个相似饼图 A/B/C 的区分",
           "detail": "各语言扇区<b>比例</b>不同，必须听清<b>百分比与语言对应关系</b>，而不是笼统地选。",
           "examples": [
-            { "en": "a Welsh / b Gaelic / c Cornish / d Irish", "cn": "→ i the smallest percentage / ii around ten per cent / iii about a quarter / iv over half" }
+            {
+              "en": "a Welsh / b Gaelic / c Cornish / d Irish",
+              "cn": "→ i the smallest percentage / ii around ten per cent / iii about a quarter / iv over half"
+            }
           ]
         },
         {
           "name": "compass points 与地理方位",
           "detail": "N / E / S / W 罗盘 + 描述性方位短语。要区分 coast（沿海）/ inland（内陆）/ corner（角落）/ southernmost（最南端）。",
           "examples": [
-            { "en": "towards the north-east", "cn": "朝向东北" },
-            { "en": "at the southernmost point", "cn": "在最南端" },
-            { "en": "along the west coast", "cn": "沿西海岸" },
-            { "en": "slightly inland from the north coast", "cn": "从北海岸稍向内陆" },
-            { "en": "in the far north-west corner", "cn": "在西北角" },
-            { "en": "in the interior", "cn": "在内陆地区" }
+            {
+              "en": "towards the north-east",
+              "cn": "朝向东北"
+            },
+            {
+              "en": "at the southernmost point",
+              "cn": "在最南端"
+            },
+            {
+              "en": "along the west coast",
+              "cn": "沿西海岸"
+            },
+            {
+              "en": "slightly inland from the north coast",
+              "cn": "从北海岸稍向内陆"
+            },
+            {
+              "en": "in the far north-west corner",
+              "cn": "在西北角"
+            },
+            {
+              "en": "in the interior",
+              "cn": "在内陆地区"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "Welsh", "cn": "威尔士语", "type": "term" },
-        { "en": "Gaelic", "cn": "盖尔语", "type": "term" },
-        { "en": "Cornish", "cn": "康沃尔语", "type": "term" },
-        { "en": "Irish", "cn": "爱尔兰语", "type": "term" },
-        { "en": "pie chart", "cn": "饼图", "type": "term" },
-        { "en": "percentage", "cn": "百分比", "type": "term" },
-        { "en": "minority languages", "cn": "少数民族语言", "type": "term" },
-        { "en": "compass points", "cn": "罗盘方位", "type": "term" },
-        { "en": "mainland", "cn": "大陆", "type": "term" },
-        { "en": "coast", "cn": "海岸", "type": "term" },
-        { "en": "interior", "cn": "内陆", "type": "term" },
-        { "en": "Galician", "cn": "加利西亚语", "type": "term" },
-        { "en": "The Basque", "cn": "巴斯克语", "type": "term" },
-        { "en": "Catalan", "cn": "加泰罗尼亚语", "type": "term" },
-        { "en": "Spanish", "cn": "西班牙语", "type": "term" }
+        {
+          "en": "Welsh",
+          "cn": "威尔士语",
+          "type": "term"
+        },
+        {
+          "en": "Gaelic",
+          "cn": "盖尔语",
+          "type": "term"
+        },
+        {
+          "en": "Cornish",
+          "cn": "康沃尔语",
+          "type": "term"
+        },
+        {
+          "en": "Irish",
+          "cn": "爱尔兰语",
+          "type": "term"
+        },
+        {
+          "en": "pie chart",
+          "cn": "饼图",
+          "type": "term"
+        },
+        {
+          "en": "percentage",
+          "cn": "百分比",
+          "type": "term"
+        },
+        {
+          "en": "minority languages",
+          "cn": "少数民族语言",
+          "type": "term"
+        },
+        {
+          "en": "compass points",
+          "cn": "罗盘方位",
+          "type": "term"
+        },
+        {
+          "en": "mainland",
+          "cn": "大陆",
+          "type": "term"
+        },
+        {
+          "en": "coast",
+          "cn": "海岸",
+          "type": "term"
+        },
+        {
+          "en": "interior",
+          "cn": "内陆",
+          "type": "term"
+        },
+        {
+          "en": "Galician",
+          "cn": "加利西亚语",
+          "type": "term"
+        },
+        {
+          "en": "The Basque",
+          "cn": "巴斯克语",
+          "type": "term"
+        },
+        {
+          "en": "Catalan",
+          "cn": "加泰罗尼亚语",
+          "type": "term"
+        },
+        {
+          "en": "Spanish",
+          "cn": "西班牙语",
+          "type": "term"
+        }
       ],
       "grammar": [],
       "exercises": [
@@ -1250,10 +3038,22 @@
           "type": "图表选择题",
           "title": "Minority languages in the UK",
           "fields": [
-            { "label": "1 Does the pie chart show the number of speakers or the percentage of speakers?", "given": "→ ?" },
-            { "label": "2 Which countries are shown in the pie chart?", "given": "→ ?" },
-            { "label": "3 Does the pie chart refer to the recent past, the distant past, or both?", "given": "→ ?" },
-            { "label": "4 Match the languages to the proportions", "given": "a-d ↔ i-iv" }
+            {
+              "label": "1 Does the pie chart show the number of speakers or the percentage of speakers?",
+              "given": "→ ?"
+            },
+            {
+              "label": "2 Which countries are shown in the pie chart?",
+              "given": "→ ?"
+            },
+            {
+              "label": "3 Does the pie chart refer to the recent past, the distant past, or both?",
+              "given": "→ ?"
+            },
+            {
+              "label": "4 Match the languages to the proportions",
+              "given": "a-d ↔ i-iv"
+            }
           ],
           "limit": "答案写字母"
         },
@@ -1261,15 +3061,76 @@
           "type": "地图标注",
           "title": "西班牙各地区语言分布",
           "fields": [
-            { "label": "1 Spanish is spoken in ___ regions.", "given": "→ ?" },
-            { "label": "2 Galician is a ___.", "given": "→ ?" },
-            { "label": "3 The Basque ___ and its differences.", "given": "→ ?" },
-            { "label": "4 Catalan is the ___ language.", "given": "→ ?" },
-            { "label": "5 People speak ___.", "given": "→ ?" }
+            {
+              "label": "1 Spanish is spoken in ___ regions.",
+              "given": "→ ?"
+            },
+            {
+              "label": "2 Galician is a ___.",
+              "given": "→ ?"
+            },
+            {
+              "label": "3 The Basque ___ and its differences.",
+              "given": "→ ?"
+            },
+            {
+              "label": "4 Catalan is the ___ language.",
+              "given": "→ ?"
+            },
+            {
+              "label": "5 People speak ___.",
+              "given": "→ ?"
+            }
           ],
           "limit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 8,
+        "items": [
+          {
+            "track": 76,
+            "file": "assets/audio/listening/listening_track_76.mp3",
+            "label": "Track 76"
+          },
+          {
+            "track": 77,
+            "file": "assets/audio/listening/listening_track_77.mp3",
+            "label": "Track 77"
+          },
+          {
+            "track": 78,
+            "file": "assets/audio/listening/listening_track_78.mp3",
+            "label": "Track 78"
+          },
+          {
+            "track": 79,
+            "file": "assets/audio/listening/listening_track_79.mp3",
+            "label": "Track 79"
+          },
+          {
+            "track": 80,
+            "file": "assets/audio/listening/listening_track_80.mp3",
+            "label": "Track 80"
+          },
+          {
+            "track": 81,
+            "file": "assets/audio/listening/listening_track_81.mp3",
+            "label": "Track 81"
+          },
+          {
+            "track": 82,
+            "file": "assets/audio/listening/listening_track_82.mp3",
+            "label": "Track 82"
+          },
+          {
+            "track": 83,
+            "file": "assets/audio/listening/listening_track_83.mp3",
+            "label": "Track 83"
+          }
+        ]
+      }
     },
     {
       "id": 12,
@@ -1277,7 +3138,12 @@
       "titleCn": "模拟考试",
       "topic": "综合实战（限时全真模拟）",
       "page": "p.96–101",
-      "questionTypes": ["Flow chart completion", "Note completion", "Choosing from a list", "Labelling a diagram"],
+      "questionTypes": [
+        "Flow chart completion",
+        "Note completion",
+        "Choosing from a list",
+        "Labelling a diagram"
+      ],
       "aims": {
         "examSkills": "全题型综合应用",
         "languageDevelopment": "流程/笔记/选三项/图片标注四类答题的词数与语法控制",
@@ -1307,58 +3173,158 @@
           "name": "流程图：Getting an Explorer Pass",
           "detail": "按箭头顺序，每一步对应录音中依次出现的信息。",
           "examples": [
-            { "en": "1. Get an application form from ___", "cn": "→ the tour office" },
-            { "en": "2. Complete the form.", "cn": "→ （无需填）" },
-            { "en": "3. Hand it to the tour office with a fee of $19 ___", "cn": "→ per person / each" },
-            { "en": "4. Your photo will be taken and added to the card.", "cn": "→ （无需填）" },
-            { "en": "5. You will get ___ at all places displaying a red explorer symbol.", "cn": "→ a discount / free entry" }
+            {
+              "en": "1. Get an application form from ___",
+              "cn": "→ the tour office"
+            },
+            {
+              "en": "2. Complete the form.",
+              "cn": "→ （无需填）"
+            },
+            {
+              "en": "3. Hand it to the tour office with a fee of $19 ___",
+              "cn": "→ per person / each"
+            },
+            {
+              "en": "4. Your photo will be taken and added to the card.",
+              "cn": "→ （无需填）"
+            },
+            {
+              "en": "5. You will get ___ at all places displaying a red explorer symbol.",
+              "cn": "→ a discount / free entry"
+            }
           ]
         },
         {
           "name": "笔记填空：Pros / Cons 结构",
           "detail": "笔记题是「优点/缺点」两栏结构。空格前后的介词决定了你要填的名词类型。",
           "examples": [
-            { "en": "Presentation focus: ___ animals", "cn": "→ threatened / endangered / rare" },
-            { "en": "Pros: Plenty of ___ for the presentation, interesting subject", "cn": "→ evidence / materials / examples" },
-            { "en": "Cons: Difficult to ___", "cn": "→ find information / keep to the time limit" }
+            {
+              "en": "Presentation focus: ___ animals",
+              "cn": "→ threatened / endangered / rare"
+            },
+            {
+              "en": "Pros: Plenty of ___ for the presentation, interesting subject",
+              "cn": "→ evidence / materials / examples"
+            },
+            {
+              "en": "Cons: Difficult to ___",
+              "cn": "→ find information / keep to the time limit"
+            }
           ]
         },
         {
           "name": "选三项：抓题干限定词",
           "detail": "「Which THREE ways does the tutor suggest」——只选导师<b>建议</b>的，排除学生已经做过的事。",
           "examples": [
-            { "en": "A Do their research from the Internet", "cn": "（学生已做 → 排除）" },
-            { "en": "B Limit the amount of detail within the presentation", "cn": "✓ 建议" },
-            { "en": "C Separate the presentation into clearer sections", "cn": "✓ 建议" },
-            { "en": "D Use some video clips", "cn": "（不确定）" },
-            { "en": "E Focus on only a selection of animals", "cn": "✓ 建议" },
-            { "en": "F Make sure they practise the presentation", "cn": "✓ 建议" },
-            { "en": "G Think of some discussion questions for the audience", "cn": "✓ 建议" }
+            {
+              "en": "A Do their research from the Internet",
+              "cn": "（学生已做 → 排除）"
+            },
+            {
+              "en": "B Limit the amount of detail within the presentation",
+              "cn": "✓ 建议"
+            },
+            {
+              "en": "C Separate the presentation into clearer sections",
+              "cn": "✓ 建议"
+            },
+            {
+              "en": "D Use some video clips",
+              "cn": "（不确定）"
+            },
+            {
+              "en": "E Focus on only a selection of animals",
+              "cn": "✓ 建议"
+            },
+            {
+              "en": "F Make sure they practise the presentation",
+              "cn": "✓ 建议"
+            },
+            {
+              "en": "G Think of some discussion questions for the audience",
+              "cn": "✓ 建议"
+            }
           ]
         },
         {
           "name": "图片标注：语法搭配检查",
           "detail": "答案既要内容对，也要<b>在语法上能填进句子</b>。",
           "examples": [
-            { "en": "Flexible spine for taking ___", "cn": "→ prey（名词）" },
-            { "en": "Yellow fur with black ___ spots", "cn": "→ round / solid（形容词）" },
-            { "en": "Tail: Dark rings on ___ part", "cn": "→ the / its / lower（形容词）" },
-            { "en": "Sharp, ___ claws", "cn": "→ curved / retractable（形容词）" },
-            { "en": "___", "cn": "→ Whiskers（复数名词）" }
+            {
+              "en": "Flexible spine for taking ___",
+              "cn": "→ prey（名词）"
+            },
+            {
+              "en": "Yellow fur with black ___ spots",
+              "cn": "→ round / solid（形容词）"
+            },
+            {
+              "en": "Tail: Dark rings on ___ part",
+              "cn": "→ the / its / lower（形容词）"
+            },
+            {
+              "en": "Sharp, ___ claws",
+              "cn": "→ curved / retractable（形容词）"
+            },
+            {
+              "en": "___",
+              "cn": "→ Whiskers（复数名词）"
+            }
           ]
         }
       ],
       "vocab": [
-        { "en": "Explorer Pass", "cn": "探险者通行证", "type": "term" },
-        { "en": "application form", "cn": "申请表", "type": "term" },
-        { "en": "tour office", "cn": "旅游办公室", "type": "place" },
-        { "en": "red explorer symbol", "cn": "红色探险者标志", "type": "term" },
-        { "en": "Presentation focus", "cn": "展示主题", "type": "term" },
-        { "en": "Pros / Cons", "cn": "优点 / 缺点", "type": "term" },
-        { "en": "whiskers", "cn": "胡须", "type": "term" },
-        { "en": "flexible spine", "cn": "柔韧的脊柱", "type": "term" },
-        { "en": "retractable claws", "cn": "可伸缩的爪", "type": "term" },
-        { "en": "endangered species", "cn": "濒危物种", "type": "term" }
+        {
+          "en": "Explorer Pass",
+          "cn": "探险者通行证",
+          "type": "term"
+        },
+        {
+          "en": "application form",
+          "cn": "申请表",
+          "type": "term"
+        },
+        {
+          "en": "tour office",
+          "cn": "旅游办公室",
+          "type": "place"
+        },
+        {
+          "en": "red explorer symbol",
+          "cn": "红色探险者标志",
+          "type": "term"
+        },
+        {
+          "en": "Presentation focus",
+          "cn": "展示主题",
+          "type": "term"
+        },
+        {
+          "en": "Pros / Cons",
+          "cn": "优点 / 缺点",
+          "type": "term"
+        },
+        {
+          "en": "whiskers",
+          "cn": "胡须",
+          "type": "term"
+        },
+        {
+          "en": "flexible spine",
+          "cn": "柔韧的脊柱",
+          "type": "term"
+        },
+        {
+          "en": "retractable claws",
+          "cn": "可伸缩的爪",
+          "type": "term"
+        },
+        {
+          "en": "endangered species",
+          "cn": "濒危物种",
+          "type": "term"
+        }
       ],
       "grammar": [],
       "exercises": [
@@ -1366,9 +3332,18 @@
           "type": "流程图填空",
           "title": "Getting an Explorer Pass",
           "fields": [
-            { "label": "18 Get an application form from", "given": "___" },
-            { "label": "19 fee of $19", "given": "___" },
-            { "label": "20 You will get", "given": "___" }
+            {
+              "label": "18 Get an application form from",
+              "given": "___"
+            },
+            {
+              "label": "19 fee of $19",
+              "given": "___"
+            },
+            {
+              "label": "20 You will get",
+              "given": "___"
+            }
           ],
           "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
         },
@@ -1376,9 +3351,18 @@
           "type": "笔记填空",
           "title": "Presentation notes（Section 3）",
           "fields": [
-            { "label": "21 Presentation focus: ___ animals", "given": "→ ?" },
-            { "label": "22 Plenty of ___ for the presentation", "given": "→ ?" },
-            { "label": "23 Difficult to ___", "given": "→ ?" }
+            {
+              "label": "21 Presentation focus: ___ animals",
+              "given": "→ ?"
+            },
+            {
+              "label": "22 Plenty of ___ for the presentation",
+              "given": "→ ?"
+            },
+            {
+              "label": "23 Difficult to ___",
+              "given": "→ ?"
+            }
           ],
           "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
         },
@@ -1386,36 +3370,138 @@
           "type": "图片标注",
           "title": "云豹（leopard / cheetah）身体结构",
           "fields": [
-            { "label": "27 Flexible spine for taking", "given": "___" },
-            { "label": "28 Yellow fur with black", "given": "___ spots" },
-            { "label": "29 Tail: Dark rings on", "given": "___ part" },
-            { "label": "30 Sharp,", "given": "___ claws" }
+            {
+              "label": "27 Flexible spine for taking",
+              "given": "___"
+            },
+            {
+              "label": "28 Yellow fur with black",
+              "given": "___ spots"
+            },
+            {
+              "label": "29 Tail: Dark rings on",
+              "given": "___ part"
+            },
+            {
+              "label": "30 Sharp,",
+              "given": "___ claws"
+            }
           ],
           "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER"
         }
-      ]
+      ],
+      "audio": {
+        "folder": "listening",
+        "count": 4,
+        "items": [
+          {
+            "track": 84,
+            "file": "assets/audio/listening/listening_track_84.mp3",
+            "label": "Track 84"
+          },
+          {
+            "track": 85,
+            "file": "assets/audio/listening/listening_track_85.mp3",
+            "label": "Track 85"
+          },
+          {
+            "track": 86,
+            "file": "assets/audio/listening/listening_track_86.mp3",
+            "label": "Track 86"
+          },
+          {
+            "track": 87,
+            "file": "assets/audio/listening/listening_track_87.mp3",
+            "label": "Track 87"
+          }
+        ]
+      }
     }
   ],
   "summary": {
     "questionTypes": [
-      { "name": "Form completion", "units": "U1 / U5 / U9", "rule": "1–2 词；可写 words OR numbers；看表格结构定听什么；人名地名拼写" },
-      { "name": "Matching", "units": "U1 / U6", "rule": "两组列表配对；直接听 group names；注意同义替换与人名不可释义" },
-      { "name": "Labelling a map or plan", "units": "U2 / U5 / U11", "rule": "自己写或从选项选；顺序 = 录音顺序；关系描述 / 罗盘方位" },
-      { "name": "Flow chart completion", "units": "U2 / U7 / U12", "rule": "方框=阶段，箭头=顺序；只填 key points 不填支撑细节" },
-      { "name": "Classification", "units": "U3 / U8", "rule": "类别用字母，物品用数字；答案写字母；预判替代说法" },
-      { "name": "Labelling a diagram", "units": "U3 / U8 / U9 / U12", "rule": "写录音原词；看目的/顺序/词性三要素" },
-      { "name": "Short answer questions", "units": "U4 / U7", "rule": "不超词数；不写句子；答案多为 factual；划关键词" },
-      { "name": "Multiple choice", "units": "U6 / U11", "rule": "细节型干扰项；读到的词与听到的不同，要听释义" },
-      { "name": "Note completion", "units": "U12", "rule": "注意介词后的名词；Pros/Cons 结构" },
-      { "name": "Choosing from a list", "units": "U12", "rule": "选三项；抓题干限定词；注意 NO MORE THAN TWO WORDS" },
-      { "name": "Table completion", "units": "U2 / U9 / U10", "rule": "单复数/词性/冠词准确；利用行标题定答案类型" }
+      {
+        "name": "Form completion",
+        "units": "U1 / U5 / U9",
+        "rule": "1–2 词；可写 words OR numbers；看表格结构定听什么；人名地名拼写"
+      },
+      {
+        "name": "Matching",
+        "units": "U1 / U6",
+        "rule": "两组列表配对；直接听 group names；注意同义替换与人名不可释义"
+      },
+      {
+        "name": "Labelling a map or plan",
+        "units": "U2 / U5 / U11",
+        "rule": "自己写或从选项选；顺序 = 录音顺序；关系描述 / 罗盘方位"
+      },
+      {
+        "name": "Flow chart completion",
+        "units": "U2 / U7 / U12",
+        "rule": "方框=阶段，箭头=顺序；只填 key points 不填支撑细节"
+      },
+      {
+        "name": "Classification",
+        "units": "U3 / U8",
+        "rule": "类别用字母，物品用数字；答案写字母；预判替代说法"
+      },
+      {
+        "name": "Labelling a diagram",
+        "units": "U3 / U8 / U9 / U12",
+        "rule": "写录音原词；看目的/顺序/词性三要素"
+      },
+      {
+        "name": "Short answer questions",
+        "units": "U4 / U7",
+        "rule": "不超词数；不写句子；答案多为 factual；划关键词"
+      },
+      {
+        "name": "Multiple choice",
+        "units": "U6 / U11",
+        "rule": "细节型干扰项；读到的词与听到的不同，要听释义"
+      },
+      {
+        "name": "Note completion",
+        "units": "U12",
+        "rule": "注意介词后的名词；Pros/Cons 结构"
+      },
+      {
+        "name": "Choosing from a list",
+        "units": "U12",
+        "rule": "选三项；抓题干限定词；注意 NO MORE THAN TWO WORDS"
+      },
+      {
+        "name": "Table completion",
+        "units": "U2 / U9 / U10",
+        "rule": "单复数/词性/冠词准确；利用行标题定答案类型"
+      }
     ],
     "pronunciation": [
-      { "unit": "Unit 3", "topic": "The schwa /ə/", "point": "弱读音识别，听懂录音的关键" },
-      { "unit": "Unit 4", "topic": "Pausing", "point": "演讲停顿 = 段落边界，出现在意义 chunk 之间" },
-      { "unit": "Unit 6", "topic": "Past regular verbs", "point": "-ed 三种读音：/ɪd/ learned、/d/ decided、/t/ asked" },
-      { "unit": "Unit 7", "topic": "Vowel sounds", "point": "长短元音（sit vs seat），帮助听答案 + 注意拼写" },
-      { "unit": "Unit 10", "topic": "Changing sounds (2)", "point": "元音+元音连读加 /l/ /j/ /w/" }
+      {
+        "unit": "Unit 3",
+        "topic": "The schwa /ə/",
+        "point": "弱读音识别，听懂录音的关键"
+      },
+      {
+        "unit": "Unit 4",
+        "topic": "Pausing",
+        "point": "演讲停顿 = 段落边界，出现在意义 chunk 之间"
+      },
+      {
+        "unit": "Unit 6",
+        "topic": "Past regular verbs",
+        "point": "-ed 三种读音：/ɪd/ learned、/d/ decided、/t/ asked"
+      },
+      {
+        "unit": "Unit 7",
+        "topic": "Vowel sounds",
+        "point": "长短元音（sit vs seat），帮助听答案 + 注意拼写"
+      },
+      {
+        "unit": "Unit 10",
+        "topic": "Changing sounds (2)",
+        "point": "元音+元音连读加 /l/ /j/ /w/"
+      }
     ]
   }
 }
