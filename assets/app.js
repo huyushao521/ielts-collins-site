@@ -168,20 +168,29 @@ function renderAudio(u, color) {
   const icon = isListening ? '🎧' : '🗣️';
   const label = isListening ? '听力音频' : '口语音频';
   const tip = isListening
-    ? '按 Track 顺序播放，每条包含一段对话/独白与对应题目'
+    ? '每条 Track 对应书中具体题目，点击展开查看题目内容，再点播放'
     : '按 Track 顺序播放，Part 1 / Part 2 / Part 3 题型示范';
 
-  const buttons = u.audio.items.map(it => `
-    <button class="audio-btn" data-src="${it.file}" data-label="${it.label}" style="--ac:${color}">
-      <span class="audio-btn-icon">▶</span>
-      <span class="audio-btn-label">${it.label}</span>
-    </button>`).join('');
+  const items = u.audio.items.map(it => {
+    const hasDesc = !!it.desc;
+    return `
+    <div class="audio-item">
+      <div class="audio-item-head">
+        <button class="audio-btn" data-src="${it.file}" data-label="${it.label}" style="--ac:${color}">
+          <span class="audio-btn-icon">▶</span>
+          <span class="audio-btn-label">${it.label}</span>
+        </button>
+        ${hasDesc ? `<span class="audio-expand-btn" data-track="${it.track}" onclick="this.closest('.audio-item').classList.toggle('expanded')">题目详情 ▾</span>` : ''}
+      </div>
+      ${hasDesc ? `<div class="audio-desc">${it.desc}</div>` : ''}
+    </div>`;
+  }).join('');
 
   return `<div class="unit-section">
     <div class="unit-section-title">${icon} ${label}（${u.audio.count} 个 Track）</div>
     <div class="unit-section-content">
-      <div class="audio-hint">💡 ${tip} 点击下方按钮播放，播放器固定在页面底部</div>
-      <div class="audio-buttons">${buttons}</div>
+      <div class="audio-hint">💡 ${tip}，播放器固定在页面底部，支持空格键播放/暂停</div>
+      <div class="audio-list">${items}</div>
     </div>
   </div>`;
 }

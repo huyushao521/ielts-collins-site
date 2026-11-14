@@ -357,47 +357,56 @@
           {
             "track": 1,
             "file": "assets/audio/listening/listening_track_01.mp3",
-            "label": "Track 01"
+            "label": "Track 01",
+            "desc": "Part 1 语言发展 - 动词搭配填空：听两段关于交通方式的对话（Davis 夫妇），完成动词短语（arrive at / spend on / live in / bring up），每空一词"
           },
           {
             "track": 2,
             "file": "assets/audio/listening/listening_track_02.mp3",
-            "label": "Track 02"
+            "label": "Track 02",
+            "desc": "Part 1 语言发展 - 听写短文：听关于 John 和 Sam 度假的短对话并写下所听单词"
           },
           {
             "track": 3,
             "file": "assets/audio/listening/listening_track_03.mp3",
-            "label": "Track 03"
+            "label": "Track 03",
+            "desc": "Part 1 语言发展 - 表格填空（Room Booking 房间预订表）：完成 Name / Telephone / Date of arrival / Date of departure / Room type / Cost / Payment method，每题不超过三个词或数字"
           },
           {
             "track": 4,
             "file": "assets/audio/listening/listening_track_04.mp3",
-            "label": "Track 04"
+            "label": "Track 04",
+            "desc": "Part 1 语言发展 - 配对题：听四位导游的谈话，将各旅游运营商（Stanford Coaches、ABSEL Buses、Grey Bus Company、Flyers Coach Company）与其服务特色配对"
           },
           {
             "track": 5,
             "file": "assets/audio/listening/listening_track_05.mp3",
-            "label": "Track 05"
+            "label": "Track 05",
+            "desc": "Part 1 语言发展 - 配对题：听顾客与旅行社代理的对话，将 4 家酒店（Hotel Sunshine、The Highland Hotel、Hotel Carmonia、The Royal）与设施配对"
           },
           {
             "track": 6,
             "file": "assets/audio/listening/listening_track_06.mp3",
-            "label": "Track 06"
+            "label": "Track 06",
+            "desc": "Part 1 语言发展 - 听写单词：听并写下 10 个含元音发音与拼写差异的单词"
           },
           {
             "track": 7,
             "file": "assets/audio/listening/listening_track_07.mp3",
-            "label": "Track 07"
+            "label": "Track 07",
+            "desc": "Part 1 语言发展 - 单选题：听并选择正确答案，如 Why can't John go on the boat trip?"
           },
           {
             "track": 8,
             "file": "assets/audio/listening/listening_track_08.mp3",
-            "label": "Track 08"
+            "label": "Track 08",
+            "desc": "Part 3 考试实战 Section 1 - 表单填空（Q1-4）：City Bus Tour Booking Form（Passenger names / Contact telephone / Hotel / Bus tour time / Date），每题不超过两个词或数字"
           },
           {
             "track": 9,
             "file": "assets/audio/listening/listening_track_09.mp3",
-            "label": "Track 09"
+            "label": "Track 09",
+            "desc": "Part 3 考试实战 Section 1 - 单选（Q5-6）+ 配对（Q7-10）：为何博物馆门票 23 英镑；将 4 家餐厅与描述配对"
           }
         ]
       }
@@ -635,42 +644,50 @@
           {
             "track": 10,
             "file": "assets/audio/listening/listening_track_10.mp3",
-            "label": "Track 10"
+            "label": "Track 10",
+            "desc": "Part 2 技能发展 - 表格填空（舞蹈课程表）：Class / Instructor / Day / Time / Price，每题不超过两个词或数字"
           },
           {
             "track": 11,
             "file": "assets/audio/listening/listening_track_11.mp3",
-            "label": "Track 11"
+            "label": "Track 11",
+            "desc": "Part 2 技能发展 - 听写单词：听并写下 8 个含三或四个辅音连缀的单词"
           },
           {
             "track": 12,
             "file": "assets/audio/listening/listening_track_12.mp3",
-            "label": "Track 12"
+            "label": "Track 12",
+            "desc": "Part 2 技能发展 - 配对题：听讲座将表达功能 a-h（补充/对比/强调/举例/顺序/原因/澄清/结果）与 8 个句子配对"
           },
           {
             "track": 13,
             "file": "assets/audio/listening/listening_track_13.mp3",
-            "label": "Track 13"
+            "label": "Track 13",
+            "desc": "Part 2 技能发展 - 听写：听句子并划出 schwa（ə）音"
           },
           {
             "track": 14,
             "file": "assets/audio/listening/listening_track_14.mp3",
-            "label": "Track 14"
+            "label": "Track 14",
+            "desc": "Part 2 技能发展 - 流程图填空（Bronze Award 获奖流程图）：爱丁堡公爵奖完成流程 5 个空"
           },
           {
             "track": 15,
             "file": "assets/audio/listening/listening_track_15.mp3",
-            "label": "Track 15"
+            "label": "Track 15",
+            "desc": "Part 3 考试实战 Section 2 - 表格填空（Q1-4）：Park Hill Teen Programme 课程表，每题不超过两个词或数字"
           },
           {
             "track": 16,
             "file": "assets/audio/listening/listening_track_16.mp3",
-            "label": "Track 16"
+            "label": "Track 16",
+            "desc": "Part 3 考试实战 Section 2 - 平面图标注（Q5-7）：标出泳池旁的 4 处设施，每题不超过两个词或数字"
           },
           {
             "track": 17,
             "file": "assets/audio/listening/listening_track_17.mp3",
-            "label": "Track 17"
+            "label": "Track 17",
+            "desc": "Part 3 考试实战 Section 2 - 流程图填空（Q8-10）：填报名表、家长授权书、缴费 £20、收到邮寄资料"
           }
         ]
       }
@@ -899,42 +916,50 @@
           {
             "track": 18,
             "file": "assets/audio/listening/listening_track_18.mp3",
-            "label": "Track 18"
+            "label": "Track 18",
+            "desc": "Part 1 语言发展 - 听写单词：听写 9 个与天气相关的单词，先听单词再听含该词的句子"
           },
           {
             "track": 19,
             "file": "assets/audio/listening/listening_track_19.mp3",
-            "label": "Track 19"
+            "label": "Track 19",
+            "desc": "Part 2 技能发展 - 听辨说话人：听 Section 3 中四位说话人 John、Steven、Linda、Joanne 的对话，写出每位出现次数"
           },
           {
             "track": 20,
             "file": "assets/audio/listening/listening_track_20.mp3",
-            "label": "Track 20"
+            "label": "Track 20",
+            "desc": "Part 2 技能发展 - 听句子并划出 schwa（ə）音，4 个句子"
           },
           {
             "track": 21,
             "file": "assets/audio/listening/listening_track_21.mp3",
-            "label": "Track 21"
+            "label": "Track 21",
+            "desc": "Part 2 技能发展 - 配对题（Natural Earth presentation）：将 5 项任务与人员 Alice、Karl、Jenny 配对"
           },
           {
             "track": 22,
             "file": "assets/audio/listening/listening_track_22.mp3",
-            "label": "Track 22"
+            "label": "Track 22",
+            "desc": "Part 2 技能发展 - 图示标注（Acid rain 酸雨形成图）：4 个标注，每题不超过三个词或数字"
           },
           {
             "track": 23,
             "file": "assets/audio/listening/listening_track_23.mp3",
-            "label": "Track 23"
+            "label": "Track 23",
+            "desc": "Part 2 技能发展 - 笔记填空（Lightning Safety 闪电安全）：5 个空，每题不超过三个词或数字"
           },
           {
             "track": 24,
             "file": "assets/audio/listening/listening_track_24.mp3",
-            "label": "Track 24"
+            "label": "Track 24",
+            "desc": "Part 3 考试实战 Section 3 - 笔记填空（Q1-3）+ 分类题（Q4-7）：天气项目优缺点；判断谁负责 floods/blizzards/drought/cyclones"
           },
           {
             "track": 25,
             "file": "assets/audio/listening/listening_track_25.mp3",
-            "label": "Track 25"
+            "label": "Track 25",
+            "desc": "Part 3 考试实战 Section 3 - 图表填空（Q8-10）：热带气旋形成图，每题不超过三个词或数字"
           }
         ]
       }
@@ -1167,37 +1192,44 @@
           {
             "track": 26,
             "file": "assets/audio/listening/listening_track_26.mp3",
-            "label": "Track 26"
+            "label": "Track 26",
+            "desc": "Part 1 语言发展 - 填空：听 Jenny 和 Sheila 谈论各自家庭，完成 9 个空（single parent / stepfamily / extended family 等）"
           },
           {
             "track": 27,
             "file": "assets/audio/listening/listening_track_27.mp3",
-            "label": "Track 27"
+            "label": "Track 27",
+            "desc": "Part 2 技能发展 - 配对题（Following a lecture）：将表达功能 a-h 与 8 个句子配对"
           },
           {
             "track": 28,
             "file": "assets/audio/listening/listening_track_28.mp3",
-            "label": "Track 28"
+            "label": "Track 28",
+            "desc": "Part 2 技能发展 - 停顿标记（Pronunciation: Pausing）：读 3 个句子标出停顿处，再听核对"
           },
           {
             "track": 29,
             "file": "assets/audio/listening/listening_track_29.mp3",
-            "label": "Track 29"
+            "label": "Track 29",
+            "desc": "Part 2 技能发展 - 短答案匹配：读问题 1-4 划出关键词，再将答案 a-j 配对"
           },
           {
             "track": 30,
             "file": "assets/audio/listening/listening_track_30.mp3",
-            "label": "Track 30"
+            "label": "Track 30",
+            "desc": "Part 2 技能发展 - 释义填空：用 a-f 完成句子，听录音会听到同义改述而非原词"
           },
           {
             "track": 31,
             "file": "assets/audio/listening/listening_track_31.mp3",
-            "label": "Track 31"
+            "label": "Track 31",
+            "desc": "Part 2 技能发展 - 双选题：听维多利亚时期家庭生活，选择 TWO 个关于上层家庭的迷思（A-E）"
           },
           {
             "track": 32,
             "file": "assets/audio/listening/listening_track_32.mp3",
-            "label": "Track 32"
+            "label": "Track 32",
+            "desc": "Part 3 考试实战 Section 4 - 句子完成（Q1-4）+ 短答案（Q5-8）+ 双选（Q9-10）：传统家庭结构、单亲家庭数据等"
           }
         ]
       }
@@ -1458,42 +1490,50 @@
           {
             "track": 33,
             "file": "assets/audio/listening/listening_track_33.mp3",
-            "label": "Track 33"
+            "label": "Track 33",
+            "desc": "Part 2 技能发展 - 句子完成：听学生 Sally 与父亲谈论大学课程，完成 4 个句子，每题不超过三个词"
           },
           {
             "track": 34,
             "file": "assets/audio/listening/listening_track_34.mp3",
-            "label": "Track 34"
+            "label": "Track 34",
+            "desc": "Part 2 技能发展 - 听辨重音：听 Sally 与 Jack 的对话，划出重读的单词"
           },
           {
             "track": 35,
             "file": "assets/audio/listening/listening_track_35.mp3",
-            "label": "Track 35"
+            "label": "Track 35",
+            "desc": "Part 2 技能发展 - 图示匹配：将句子 A-E 与 5 幅平面图配对（Bank/Supermarket/Cinema 相对位置）"
           },
           {
             "track": 36,
             "file": "assets/audio/listening/listening_track_36.mp3",
-            "label": "Track 36"
+            "label": "Track 36",
+            "desc": "Part 2 技能发展 - 地图填空：两名年轻人讨论大学新生活动，写出 5 处地点名称"
           },
           {
             "track": 37,
             "file": "assets/audio/listening/listening_track_37.mp3",
-            "label": "Track 37"
+            "label": "Track 37",
+            "desc": "Part 2 技能发展 - 地址书写：听 3 个地址，用逗号标出各部分之间的停顿"
           },
           {
             "track": 38,
             "file": "assets/audio/listening/listening_track_38.mp3",
-            "label": "Track 38"
+            "label": "Track 38",
+            "desc": "Part 2 技能发展 - 表单填空（Enrolment form 入学表）：Name / Faculty / University address / Home address"
           },
           {
             "track": 39,
             "file": "assets/audio/listening/listening_track_39.mp3",
-            "label": "Track 39"
+            "label": "Track 39",
+            "desc": "Part 2 技能发展 - 笔记填空（Students' Union services）：学生会服务信息，每题不超过两个词或数字"
           },
           {
             "track": 40,
             "file": "assets/audio/listening/listening_track_40.mp3",
-            "label": "Track 40"
+            "label": "Track 40",
+            "desc": "Part 3 考试实战 Section 1 - 表单填空（Q1-4）+ 平面图标注（Q5-7）+ 笔记填空（Q8-10）：大学注册表、图书馆平面图、Group Study 预订系统"
           }
         ]
       }
@@ -1769,32 +1809,38 @@
           {
             "track": 41,
             "file": "assets/audio/listening/listening_track_41.mp3",
-            "label": "Track 41"
+            "label": "Track 41",
+            "desc": "Part 2 技能发展 - 配对题：听导游介绍 Tanbridge 镇，将 4 个人与句子结尾 a-d 配对"
           },
           {
             "track": 42,
             "file": "assets/audio/listening/listening_track_42.mp3",
-            "label": "Track 42"
+            "label": "Track 42",
+            "desc": "Part 2 技能发展 - 动词听辨（Past regular verbs）：听并圈出每组动词中听到的那个（listen/listened 等）"
           },
           {
             "track": 43,
             "file": "assets/audio/listening/listening_track_43.mp3",
-            "label": "Track 43"
+            "label": "Track 43",
+            "desc": "Part 2 技能发展 - 释义选项：从录音中找出被改写的部分，判断 The Final Chapter 的正确结尾"
           },
           {
             "track": 44,
             "file": "assets/audio/listening/listening_track_44.mp3",
-            "label": "Track 44"
+            "label": "Track 44",
+            "desc": "Part 2 技能发展 - 单选题：听影评人谈论电影，选择正确答案 a-c，共 4 题"
           },
           {
             "track": 45,
             "file": "assets/audio/listening/listening_track_45.mp3",
-            "label": "Track 45"
+            "label": "Track 45",
+            "desc": "Part 2 技能发展 - 多项选择：听作家谈论名声，回答 2 个问题，每题从 a-e 中列出三个"
           },
           {
             "track": 46,
             "file": "assets/audio/listening/listening_track_46.mp3",
-            "label": "Track 46"
+            "label": "Track 46",
+            "desc": "Part 3 考试实战 Section 2 - 列表选择（Q1-3）+ 单选（Q4-6）+ 配对（Q7-10）：Yellow Plaque 计划原因、牌子颜色对应人物类别"
           }
         ]
       }
@@ -1997,42 +2043,50 @@
           {
             "track": 47,
             "file": "assets/audio/listening/listening_track_47.mp3",
-            "label": "Track 47"
+            "label": "Track 47",
+            "desc": "Part 1 语言发展 - 听力填空：听并用一个单词补全句子，判断元音长音还是短音，共 6 题"
           },
           {
             "track": 48,
             "file": "assets/audio/listening/listening_track_48.mp3",
-            "label": "Track 48"
+            "label": "Track 48",
+            "desc": "Part 1 语言发展 - 流程图填空：听导师和学生讨论替代能源研究项目流程，5 个空（每答案不超过 3 词或数字）"
           },
           {
             "track": 49,
             "file": "assets/audio/listening/listening_track_49.mp3",
-            "label": "Track 49"
+            "label": "Track 49",
+            "desc": "Part 1 语言发展 - 流程图填空正式作答：Alternative energy research project: process 流程图 5 个空"
           },
           {
             "track": 50,
             "file": "assets/audio/listening/listening_track_50.mp3",
-            "label": "Track 50"
+            "label": "Track 50",
+            "desc": "Part 1 语言发展 - 短答题：听一段录音，回答 Mary 将在论文中写的三种能源形式"
           },
           {
             "track": 51,
             "file": "assets/audio/listening/listening_track_51.mp3",
-            "label": "Track 51"
+            "label": "Track 51",
+            "desc": "Part 1 语言发展 - 短答题：听三名学生讨论环境科学演讲，回答从演讲中删去的两项内容，共 2 题"
           },
           {
             "track": 52,
             "file": "assets/audio/listening/listening_track_52.mp3",
-            "label": "Track 52"
+            "label": "Track 52",
+            "desc": "Part 1 语言发展 - 摘要填空（Summary completion）：先判断哪些词能填入 5 个空格，再听录音用正确单词完成"
           },
           {
             "track": 53,
             "file": "assets/audio/listening/listening_track_53.mp3",
-            "label": "Track 53"
+            "label": "Track 53",
+            "desc": "Part 3 真题练习 Section 3 - 短答题（Q1-4）+ 流程图填空（Q5-7）：可再生能源问题、太阳能成本预测流程图"
           },
           {
             "track": 54,
             "file": "assets/audio/listening/listening_track_54.mp3",
-            "label": "Track 54"
+            "label": "Track 54",
+            "desc": "Part 3 真题练习 Section 3 - 摘要填空（Q8-10）：用框中选项 A-G 完成 Project content summary"
           }
         ]
       }
@@ -2236,42 +2290,50 @@
           {
             "track": 55,
             "file": "assets/audio/listening/listening_track_55.mp3",
-            "label": "Track 55"
+            "label": "Track 55",
+            "desc": "Part 2 技能发展 - 词重音与句重音：在 10 个单词中划出重读音节（civilian / demographic / migration 等）"
           },
           {
             "track": 56,
             "file": "assets/audio/listening/listening_track_56.mp3",
-            "label": "Track 56"
+            "label": "Track 56",
+            "desc": "Part 2 技能发展 - 句子重音：在 5 个句子中划出重读词，涉及人口迁移原因"
           },
           {
             "track": 57,
             "file": "assets/audio/listening/listening_track_57.mp3",
-            "label": "Track 57"
+            "label": "Track 57",
+            "desc": "Part 2 技能发展 - 配对题：听讲师讲移民研究资源，把 5 种资源与访问类型 A free / B academic / C payment 配对"
           },
           {
             "track": 58,
             "file": "assets/audio/listening/listening_track_58.mp3",
-            "label": "Track 58"
+            "label": "Track 58",
+            "desc": "Part 2 技能发展 - 图示标注：听适应新文化过程的录音，补全图示 4 个空"
           },
           {
             "track": 59,
             "file": "assets/audio/listening/listening_track_59.mp3",
-            "label": "Track 59"
+            "label": "Track 59",
+            "desc": "Part 2 技能发展 - 表格填空：听英国移民法律讲座，补全 Act and date / Reason / Conditions 表格 5 个空"
           },
           {
             "track": 60,
             "file": "assets/audio/listening/listening_track_60.mp3",
-            "label": "Track 60"
+            "label": "Track 60",
+            "desc": "Part 3 真题练习 Section 4 - 图示标注（Q1-3）：Ellis Island immigration procedure 流程图 3 个空"
           },
           {
             "track": 61,
             "file": "assets/audio/listening/listening_track_61.mp3",
-            "label": "Track 61"
+            "label": "Track 61",
+            "desc": "Part 3 真题练习 Section 4 - 配对题（Q4-6）：纽约各区与影响人口变化的原因 A 政治 / B 经济 / C 就业 / D 文化 配对"
           },
           {
             "track": 62,
             "file": "assets/audio/listening/listening_track_62.mp3",
-            "label": "Track 62"
+            "label": "Track 62",
+            "desc": "Part 3 真题练习 Section 4 - 表格填空（Q7-10）：Brooklyn Case Study 表格（1900/1950/Now × 经济/人口/交通/文化）"
           }
         ]
       }
@@ -2499,37 +2561,44 @@
           {
             "track": 63,
             "file": "assets/audio/listening/listening_track_63.mp3",
-            "label": "Track 63"
+            "label": "Track 63",
+            "desc": "Part 2 技能发展 - 变音练习：听录音用两个词补全 6 个句子，考察 /l/、/r/、/m/ 等辅音相连时读音"
           },
           {
             "track": 64,
             "file": "assets/audio/listening/listening_track_64.mp3",
-            "label": "Track 64"
+            "label": "Track 64",
+            "desc": "Part 2 技能发展 - 听力练习：听两位健身房会员对话，回答 5 个问题（John 出生地、为何常去健身房等）"
           },
           {
             "track": 65,
             "file": "assets/audio/listening/listening_track_65.mp3",
-            "label": "Track 65"
+            "label": "Track 65",
+            "desc": "Part 2 技能发展 - 图示标注：听健身房老板与销售员对话，补全 step machine 示意图 3 个空"
           },
           {
             "track": 66,
             "file": "assets/audio/listening/listening_track_66.mp3",
-            "label": "Track 66"
+            "label": "Track 66",
+            "desc": "Part 2 技能发展 - 表单填空：听接待员与客户对话，补全 JOINING THE GYM: MEMBERSHIP FORM"
           },
           {
             "track": 67,
             "file": "assets/audio/listening/listening_track_67.mp3",
-            "label": "Track 67"
+            "label": "Track 67",
+            "desc": "Part 2 技能发展 - 短答题：听两位朋友谈健身课，回答 3 题"
           },
           {
             "track": 68,
             "file": "assets/audio/listening/listening_track_68.mp3",
-            "label": "Track 68"
+            "label": "Track 68",
+            "desc": "Part 3 真题练习 Section 1 - 表单填空（Q1-3）：GYM MEMBERSHIP FORM（姓名 Brad Simmons、电话、会员类型、日期时间）"
           },
           {
             "track": 69,
             "file": "assets/audio/listening/listening_track_69.mp3",
-            "label": "Track 69"
+            "label": "Track 69",
+            "desc": "Part 3 真题练习 Section 1 - 图示标注（Q4-7）+ 简答题（Q8-10）：泳池示意图标注 + Brad 健身目标"
           }
         ]
       }
@@ -2826,32 +2895,38 @@
           {
             "track": 70,
             "file": "assets/audio/listening/listening_track_70.mp3",
-            "label": "Track 70"
+            "label": "Track 70",
+            "desc": "Part 1 语言发展 - 拼写：听录音在 8 组单词中选出正确拼写（collaborate / commission / franchise 等）"
           },
           {
             "track": 71,
             "file": "assets/audio/listening/listening_track_71.mp3",
-            "label": "Track 71"
+            "label": "Track 71",
+            "desc": "Part 2 技能发展 - 变音练习：听录音用一个词补全 5 个句子，填入 /l/、/r/、/w/ 等辅音"
           },
           {
             "track": 72,
             "file": "assets/audio/listening/listening_track_72.mp3",
-            "label": "Track 72"
+            "label": "Track 72",
+            "desc": "Part 2 技能发展 - 表格填空：听公司部门重组谈话，补全表格 3 个空"
           },
           {
             "track": 73,
             "file": "assets/audio/listening/listening_track_73.mp3",
-            "label": "Track 73"
+            "label": "Track 73",
+            "desc": "Part 2 技能发展 - 摘要填空：补全 Fire evacuation summary 4 个空，关注同义词替换"
           },
           {
             "track": 74,
             "file": "assets/audio/listening/listening_track_74.mp3",
-            "label": "Track 74"
+            "label": "Track 74",
+            "desc": "Part 2 技能发展 - 配对题：听市场经理谈话，将 4 种产品与广告方式 A Newspapers / B TV / C Internet 配对"
           },
           {
             "track": 75,
             "file": "assets/audio/listening/listening_track_75.mp3",
-            "label": "Track 75"
+            "label": "Track 75",
+            "desc": "Part 3 真题练习 Section 2 - 表格填空（Q1-3）+ 配对（Q4-6）+ 摘要完成（Q7-10）：Benchmark Consulting 公司概况与未来愿景"
           }
         ]
       }
@@ -3092,42 +3167,50 @@
           {
             "track": 76,
             "file": "assets/audio/listening/listening_track_76.mp3",
-            "label": "Track 76"
+            "label": "Track 76",
+            "desc": "Part 2 技能发展 - 弱读练习：读句子划出弱读位置，再听录音核对（3 个句子）"
           },
           {
             "track": 77,
             "file": "assets/audio/listening/listening_track_77.mp3",
-            "label": "Track 77"
+            "label": "Track 77",
+            "desc": "Part 2 技能发展 - 弱读填空：听录音用弱读形式的词补全 3 个句子"
           },
           {
             "track": 78,
             "file": "assets/audio/listening/listening_track_78.mp3",
-            "label": "Track 78"
+            "label": "Track 78",
+            "desc": "Part 2 技能发展 - 连读练习：听句子判断哪次更自然，并标出单词相连处"
           },
           {
             "track": 79,
             "file": "assets/audio/listening/listening_track_79.mp3",
-            "label": "Track 79"
+            "label": "Track 79",
+            "desc": "Part 2 技能发展 - 消失音：听两个句子并标出音消失的位置"
           },
           {
             "track": 80,
             "file": "assets/audio/listening/listening_track_80.mp3",
-            "label": "Track 80"
+            "label": "Track 80",
+            "desc": "Part 2 技能发展 - 选择题：听学生讨论英国少数民族语言，从三幅饼图中选出正确的"
           },
           {
             "track": 81,
             "file": "assets/audio/listening/listening_track_81.mp3",
-            "label": "Track 81"
+            "label": "Track 81",
+            "desc": "Part 2 技能发展 - 地图标注：听学生讨论西班牙各地区语言演讲，标注地图 5 个空"
           },
           {
             "track": 82,
             "file": "assets/audio/listening/listening_track_82.mp3",
-            "label": "Track 82"
+            "label": "Track 82",
+            "desc": "Part 2 技能发展 - 列表选择：听导师与两名学生讨论，从 A-E 中选出两个推荐方式"
           },
           {
             "track": 83,
             "file": "assets/audio/listening/listening_track_83.mp3",
-            "label": "Track 83"
+            "label": "Track 83",
+            "desc": "Part 3 真题练习 Section 3 - 选择题（Q1-2）+ 列表选择（Q3-6）+ 地图标注（Q7-10）：本土语言考察行程"
           }
         ]
       }
@@ -3397,22 +3480,26 @@
           {
             "track": 84,
             "file": "assets/audio/listening/listening_track_84.mp3",
-            "label": "Track 84"
+            "label": "Track 84",
+            "desc": "Section 1 模拟考试 - 多选（Q1-3）+ 表单填空（Q4-7）+ 平面图完成（Q8-10）：Ellen 百货商店购物对话"
           },
           {
             "track": 85,
             "file": "assets/audio/listening/listening_track_85.mp3",
-            "label": "Track 85"
+            "label": "Track 85",
+            "desc": "Section 2 模拟考试 - 简答（Q11-13）+ 配对（Q14-17）+ 流程图填空（Q18-20）：San Fernando City Tours 导游 Mark 的导览词"
           },
           {
             "track": 86,
             "file": "assets/audio/listening/listening_track_86.mp3",
-            "label": "Track 86"
+            "label": "Track 86",
+            "desc": "Section 3 模拟考试 - 笔记填空（Q21-23）+ 列表选择（Q24-26）+ 图示完成（Q27-30）：导师与学生 Katie、Ian 讨论野生动物演讲"
           },
           {
             "track": 87,
             "file": "assets/audio/listening/listening_track_87.mp3",
-            "label": "Track 87"
+            "label": "Track 87",
+            "desc": "Section 3/4 模拟考试 - 学术讲座：horology（时间测量科学），日晷、机械钟、原子钟等"
           }
         ]
       }
